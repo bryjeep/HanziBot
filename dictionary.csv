@@ -1,0 +1,3739 @@
+RSH #,RSH Lesson,SH,RSH Keyword,RTH Read,TH Read
+0001,RSH1-L01,一,one,yī,yī
+0002,RSH1-L01,二,two,èr,èr
+0003,RSH1-L01,三,three,sān,sān
+0004,RSH1-L01,四,four,sì,sì
+0005,RSH1-L01,五,five,wǔ,wǔ
+0006,RSH1-L01,六,six,liù,liù
+0007,RSH1-L01,七,seven,qī,qī
+0008,RSH1-L01,八,eight,bā,bā
+0009,RSH1-L01,九,nine,jiǔ,jiǔ
+0010,RSH1-L01,十,ten,shí,shí
+0011,RSH1-L01,口,mouth,kǒu,kǒu
+0012,RSH1-L01,日,day,rì,rì
+0013,RSH1-L01,月,month,yuè,yuè
+0014,RSH1-L01,田,rice field,tián,tián
+0015,RSH1-L01,目,eye,mù,mù
+0016,RSH1-L02,古,ancient,gǔ,gǔ
+0017,RSH1-L02,胡,recklessly,hú,hú|Hú
+0018,RSH1-L02,叶,leaf,yè,yè
+0019,RSH1-L02,吾,I (literary),wú,wú
+0020,RSH1-L02,朋,companion,péng,péng
+0021,RSH1-L02,明,bright,míng,míng
+0022,RSH1-L02,唱,sing,chàng,chàng
+0023,RSH1-L02,晶,sparkling,jīng,jīng
+0024,RSH1-L02,品,goods,pǐn,pǐn
+0025,RSH1-L02,昌,prosperous,chāng,chāng
+0026,RSH1-L02,早,early,zǎo,zǎo
+0027,RSH1-L02,旭,rising sun,xù,xù
+0028,RSH1-L02,世,generation,shì,shì
+0029,RSH1-L02,胃,stomach,wèi,wèi
+0030,RSH1-L02,旦,daybreak,dàn,dàn
+0031,RSH1-L02,凹,concave,āo,āo|wā
+0032,RSH1-L02,凸,convex,tū,tū
+0033,RSH1-L03,自,oneself,zì,zì
+0034,RSH1-L03,白,white,bái,bái|bó
+0035,RSH1-L03,百,hundred,bǎi,bǎi
+0036,RSH1-L03,皂,soap,zào,zào
+0037,RSH1-L03,旧,old,jiù,jiù
+0038,RSH1-L03,中,middle,zhōng,zhōng|zhòng
+0039,RSH1-L03,千,thousand,qiān,qiān
+0040,RSH1-L03,舌,tongue,shé,shé
+0041,RSH1-L03,升,liter,shēng,shēng
+0042,RSH1-L03,丸,pill,wán,wán
+0043,RSH1-L03,卜,divination,bǔ,bǔ|bo
+0044,RSH1-L03,占,tell fortunes,zhān,zhàn|zhān
+0045,RSH1-L03,上,above,shàng,shàng|shang|shǎng
+0046,RSH1-L03,下,below,xià,xià
+0047,RSH1-L03,卡,card,kǎ,kǎ|qiǎ
+0048,RSH1-L03,卓,eminent,zhuó,zhuó
+0049,RSH1-L03,朝,dynasty,cháo,cháo|zhāo
+0050,RSH1-L03,嘲,ridicule,cháo,cháo|zhāo
+0051,RSH1-L04,只,only,zhǐ,zhǐ|zhī
+0052,RSH1-L04,贝,shellfish,bèi,bèi
+0053,RSH1-L04,贴,paste,tiē,tiē
+0054,RSH1-L04,贞,chaste,zhēn,zhēn
+0055,RSH1-L04,员,employee,yuán,yuán
+0056,RSH1-L04,儿,youngster,ér,ér|r
+0057,RSH1-L04,几,how many?,jǐ,jǐ|jī
+0058,RSH1-L04,见,see,jiàn,jiàn|xiàn
+0059,RSH1-L04,元,beginning,yuán,yuán
+0060,RSH1-L04,页,page,yè,yè
+0061,RSH1-L04,顽,stubborn,wán,wán
+0062,RSH1-L04,凡,ordinary,fán,fán
+0063,RSH1-L04,肌,muscle,jī,jī
+0064,RSH1-L04,负,defeated,fù,fù
+0065,RSH1-L04,万,ten thousand,wàn,wàn|Mò
+0066,RSH1-L04,匀,uniform,yún,yún
+0067,RSH1-L04,句,sentence,jù,jù
+0068,RSH1-L04,旬,decameron,xún,xún
+0069,RSH1-L04,勺,ladle,sháo,sháo
+0070,RSH1-L04,的,bull's eye,de,de
+0071,RSH1-L04,首,heads,shǒu,shǒu
+0072,RSH1-L05,直,straight,zhí,zhí
+0073,RSH1-L05,置,set up,zhì,zhì
+0074,RSH1-L05,具,tool,jù,jù
+0075,RSH1-L05,真,true,zhēn,zhēn
+0076,RSH1-L05,工,work,gōng,gōng
+0077,RSH1-L05,左,left,zuǒ,zuǒ
+0078,RSH1-L05,右,right,yòu,yòu
+0079,RSH1-L05,有,possess,yǒu,yǒu
+0080,RSH1-L05,贿,bribe,huì,huì
+0081,RSH1-L05,贡,tribute,gòng,gòng
+0082,RSH1-L05,项,item,xiàng,xiàng
+0083,RSH1-L05,刀,sword,dāo,dāo
+0084,RSH1-L05,刃,blade,rèn,rèn
+0085,RSH1-L05,切,cut,qiē,qiē|qiè
+0086,RSH1-L05,召,summon,zhào,zhào
+0087,RSH1-L05,昭,evident,zhāo,zhāo
+0088,RSH1-L05,则,rule,zé,zé
+0089,RSH1-L05,副,vice-,fù,fù
+0090,RSH1-L05,丁,fourth,dīng,dīng|zhēng
+0091,RSH1-L05,叮,sting,dīng,dīng
+0092,RSH1-L05,可,can,kě,kě|kè
+0093,RSH1-L05,哥,older brother,gē,gē
+0094,RSH1-L05,顶,crest,dǐng,dǐng
+0095,RSH1-L06,乙,second,yǐ,yǐ
+0096,RSH1-L06,飞,fly,fēi,fēi
+0097,RSH1-L06,子,child,zǐ,zǐ|zi
+0098,RSH1-L06,孔,cavity,kǒng,kǒng
+0099,RSH1-L06,吼,roar,hǒu,hǒu
+0100,RSH1-L06,乱,chaos,luàn,luàn
+0101,RSH1-L06,了,(-ed),le,le|liǎo|liào|liāo|liáo
+0102,RSH1-L06,女,woman,nǚ,nǚ
+0103,RSH1-L06,好,good,hǎo,hǎo|hào|hāo
+0104,RSH1-L06,如,be like,rú,rú
+0105,RSH1-L06,母,mother,mǔ,mǔ
+0106,RSH1-L06,贯,pierce,guàn,guàn
+0107,RSH1-L06,兄,elder brother,xiōng,xiōng
+0108,RSH1-L06,克,overcome,kè,kè|kēi
+0109,RSH1-L07,小,small,xiǎo,xiǎo
+0110,RSH1-L07,少,few,shǎo,shǎo|shào
+0111,RSH1-L07,吵,noisy,chǎo,chǎo|chāo
+0112,RSH1-L07,孙,grandchild,sūn,sūn
+0113,RSH1-L07,大,large,dà,dà|dài
+0114,RSH1-L07,尖,tip,jiān,jiān
+0115,RSH1-L07,夕,evening,xī,xī
+0116,RSH1-L07,多,many,duō,duō
+0117,RSH1-L07,够,enough,gòu,gòu
+0118,RSH1-L07,外,outside,wài,wài
+0119,RSH1-L07,名,name,míng,míng
+0120,RSH1-L07,罗,silk gauze,luó,luó|luō
+0121,RSH1-L07,厂,factory,chǎng,chǎng
+0122,RSH1-L07,厅,hall,tīng,tīng
+0123,RSH1-L07,厉,stern,lì,lì
+0124,RSH1-L07,厚,thick,hòu,hòu
+0125,RSH1-L07,石,stone,shí,shí|dàn
+0126,RSH1-L07,砂,gravel,shā,shā
+0127,RSH1-L07,妙,wonderful,miào,miào
+0128,RSH1-L07,肖,resemble,xiào,xiào|Xiāo
+0129,RSH1-L07,削,peel,xuē,xiāo|xuē
+0130,RSH1-L07,光,ray,guāng,guāng
+0131,RSH1-L07,太,overly,tài,tài
+0132,RSH1-L07,省,economize,shěng,shěng|xǐng
+0133,RSH1-L07,奇,strange,qí,qí|jī
+0134,RSH1-L08,川,stream,chuān,chuān
+0135,RSH1-L08,州,state,zhōu,zhōu
+0136,RSH1-L08,顺,obey,shùn,shùn
+0137,RSH1-L08,水,water,shuǐ,shuǐ
+0138,RSH1-L08,永,eternity,yǒng,yǒng
+0139,RSH1-L08,脉,blood vessels,mài,mài|mò
+0140,RSH1-L08,求,request,qiú,qiú
+0141,RSH1-L08,泉,spring,quán,quán
+0142,RSH1-L08,原,flatlands,yuán,yuán
+0143,RSH1-L08,泳,swim,yǒng,yǒng
+0144,RSH1-L08,洲,continent,zhōu,zhōu
+0145,RSH1-L08,沼,marsh,zhǎo,zhǎo
+0146,RSH1-L08,沙,sand,shā,shā
+0147,RSH1-L08,江,Yangtze,jiāng,jiāng
+0148,RSH1-L08,汁,juice,zhī,zhī
+0149,RSH1-L08,潮,tide,cháo,cháo
+0150,RSH1-L08,源,source,yuán,yuán
+0151,RSH1-L08,活,lively,huó,huó
+0152,RSH1-L08,消,extinguish,xiāo,xiāo
+0153,RSH1-L08,河,river,hé,hé
+0154,RSH1-L08,鱼,fish,yú,yú
+0155,RSH1-L08,渔,fishing,yú,yú
+0156,RSH1-L08,湖,lake,hú,hú
+0157,RSH1-L08,测,fathom,cè,cè
+0158,RSH1-L08,土,soil,tǔ,tǔ
+0159,RSH1-L08,均,equal,jūn,jūn
+0160,RSH1-L08,肚,belly,dù,dù|dǔ
+0161,RSH1-L08,尘,dust,chén,chén
+0162,RSH1-L08,填,fill in,tián,tián
+0163,RSH1-L08,吐,spit,tǔ,tǔ|tù
+0164,RSH1-L08,压,pressure,yā,yā|yà
+0165,RSH1-L08,哇,waaah!,wa,wa|wā
+0166,RSH1-L08,寸,Chinese inch,cùn,cùn
+0167,RSH1-L08,封,seal,fēng,fēng
+0168,RSH1-L08,时,time,shí,shí
+0169,RSH1-L08,寺,Buddhist temple,sì,sì
+0170,RSH1-L08,火,fire,huǒ,huǒ
+0171,RSH1-L08,灭,destroy,miè,miè
+0172,RSH1-L08,灰,ashes,huī,huī
+0173,RSH1-L08,烦,vexed,fán,fán
+0174,RSH1-L08,炎,inflammation,yán,yán
+0175,RSH1-L08,淡,thin,dàn,dàn
+0176,RSH1-L08,灯,lamp,dēng,dēng
+0177,RSH1-L08,点,spot,diǎn,diǎn
+0178,RSH1-L08,照,illuminate,zhào,zhào
+0179,RSH1-L09,里,li,lǐ,lǐ|li
+0180,RSH1-L09,量,quantity,liàng,liàng|liáng
+0181,RSH1-L09,埋,bury,mái,mái|mán
+0182,RSH1-L09,黑,black,hēi,hēi
+0183,RSH1-L09,墨,black ink,mò,mò
+0184,RSH1-L09,冒,risk,mào,mào
+0185,RSH1-L09,同,same,tóng,tóng|tòng
+0186,RSH1-L09,洞,cave,dòng,dòng
+0187,RSH1-L09,丽,lovely,lì,lí|lì
+0188,RSH1-L09,向,orientation,xiàng,xiàng
+0189,RSH1-L09,响,echo,xiǎng,xiǎng
+0190,RSH1-L09,尚,esteem,shàng,shàng
+0191,RSH1-L09,字,character,zì,zì
+0192,RSH1-L09,守,guard,shǒu,shǒu
+0193,RSH1-L09,完,finish,wán,wán
+0194,RSH1-L09,灾,disaster,zāi,zāi
+0195,RSH1-L09,宣,proclaim,xuān,xuān
+0196,RSH1-L09,宵,nighttime,xiāo,xiāo
+0197,RSH1-L09,安,peaceful,ān,ān
+0198,RSH1-L09,宴,banquet,yàn,yàn
+0199,RSH1-L09,寄,mail,jì,jì
+0200,RSH1-L09,富,wealthy,fù,fù
+0201,RSH1-L09,贮,store up,zhù,zhù
+0202,RSH1-L10,木,tree,mù,mù
+0203,RSH1-L10,林,woods,lín,lín
+0204,RSH1-L10,森,forest,sēn,sēn
+0205,RSH1-L10,梦,dream,mèng,mèng
+0206,RSH1-L10,机,machine,jī,jī
+0207,RSH1-L10,植,plant,zhí,zhí
+0208,RSH1-L10,杏,apricot,xìng,xìng
+0209,RSH1-L10,呆,dim-witted,dāi,dāi|ái
+0210,RSH1-L10,枯,withered,kū,kū
+0211,RSH1-L10,村,village,cūn,cūn
+0212,RSH1-L10,相,one another,xiāng,xiāng|xiàng
+0213,RSH1-L10,本,notebook,běn,běn
+0214,RSH1-L10,案,case,àn,àn
+0215,RSH1-L10,未,not yet,wèi,wèi
+0216,RSH1-L10,末,last,mò,me|mò
+0217,RSH1-L10,沫,foam,mò,mò
+0218,RSH1-L10,味,flavor,wèi,wèi
+0219,RSH1-L10,妹,younger sister,mèi,mèi
+0220,RSH1-L10,查,investigate,chá,chá|Zhā
+0221,RSH1-L10,渣,sediment,zhā,zhā
+0222,RSH1-L10,染,dye,rǎn,rǎn
+0223,RSH1-L10,李,plum,lǐ,lǐ
+0224,RSH1-L10,桌,table,zhuō,zhuō
+0225,RSH1-L10,杂,miscellaneous,zá,zá|zā
+0226,RSH1-L10,若,as if,ruò,ruò|rě
+0227,RSH1-L10,草,grass,cǎo,cǎo
+0228,RSH1-L10,艺,technique,yì,yì
+0229,RSH1-L10,苦,suffering,kǔ,kǔ
+0230,RSH1-L10,宽,wide,kuān,kuān
+0231,RSH1-L10,莫,nobody,mò,mò
+0232,RSH1-L10,模,imitate,mó,mó|mú
+0233,RSH1-L10,漠,desert,mò,mò
+0234,RSH1-L10,墓,grave,mù,mù
+0235,RSH1-L10,苗,seedling,miáo,miáo
+0236,RSH1-L10,瞄,aim,miáo,miáo
+0237,RSH1-L11,兆,portent,zhào,zhào
+0238,RSH1-L11,桃,peach,táo,táo
+0239,RSH1-L11,犬,pooch,quǎn,quǎn
+0240,RSH1-L11,尤,remarkable,yóu,yóu
+0241,RSH1-L11,厌,detest,yàn,yàn|yān
+0242,RSH1-L11,状,state of affairs,zhuàng,zhuàng
+0243,RSH1-L11,妆,put on makeup,zhuāng,zhuāng
+0244,RSH1-L11,将,General,jiàng,jiāng|jiàng|qiāng
+0245,RSH1-L11,获,seize,huò,huò
+0246,RSH1-L11,默,silent,mò,mò
+0247,RSH1-L11,然,sort of thing,rán,rán
+0248,RSH1-L11,哭,cry,kū,kū
+0249,RSH1-L11,器,utensil,qì,qì
+0250,RSH1-L11,臭,stinking,chòu,chòu|xiù
+0251,RSH1-L11,狗,dog,gǒu,gǒu
+0252,RSH1-L11,牛,cow,niú,niú|niū
+0253,RSH1-L11,特,special,tè,tè
+0254,RSH1-L11,告,declare,gào,gào|gù
+0255,RSH1-L11,浩,vast,hào,hào
+0256,RSH1-L11,先,before,xiān,xiān
+0257,RSH1-L11,洗,wash,xǐ,xǐ|Xiǎn
+0258,RSH1-L12,个,individual,gè,ge|gè|gě
+0259,RSH1-L12,介,introduce,jiè,jiè
+0260,RSH1-L12,界,world,jiè,jiè|gā|gà
+0261,RSH1-L12,茶,tea,chá,chá
+0262,RSH1-L12,合,fit,hé,hé|gě
+0263,RSH1-L12,哈,ha!,hā,hā|hǎ|hà
+0264,RSH1-L12,塔,pagoda,tǎ,tǎ|dā
+0265,RSH1-L12,王,king,wáng,wáng|wàng
+0266,RSH1-L12,玉,jade,yù,yù
+0267,RSH1-L12,宝,treasure,bǎo,bǎo
+0268,RSH1-L12,球,ball,qiú,qiú
+0269,RSH1-L12,现,present,xiàn,xiàn
+0270,RSH1-L12,玩,play,wán,wán
+0271,RSH1-L12,狂,crazy,kuáng,kuáng
+0272,RSH1-L12,皇,emperor,huáng,huáng
+0273,RSH1-L12,煌,resplendent,huáng,huáng
+0274,RSH1-L12,呈,submit,chéng,chéng
+0275,RSH1-L12,全,whole,quán,quán
+0276,RSH1-L12,理,logic,lǐ,lǐ
+0277,RSH1-L12,主,lord,zhǔ,zhǔ
+0278,RSH1-L12,注,pour,zhù,zhù
+0279,RSH1-L12,金,gold,jīn,jīn
+0280,RSH1-L12,钟,bell,zhōng,zhōng
+0281,RSH1-L12,铜,copper,tóng,tóng
+0282,RSH1-L12,钓,go fishin',diào,diào
+0283,RSH1-L12,针,needle,zhēn,zhēn
+0284,RSH1-L12,钉,nail,dīng,dīng|dìng
+0285,RSH1-L12,铭,inscription,míng,míng
+0286,RSH1-L12,镇,at ease,zhèn,zhèn
+0287,RSH1-L13,道,way,dào,dào|dǎo|dāo
+0288,RSH1-L13,达,reach,dá,dá|dā|tà
+0289,RSH1-L13,远,distant,yuǎn,yuǎn
+0290,RSH1-L13,适,suitable,shì,shì|dí
+0291,RSH1-L13,过,cross,guò,guò|guo
+0292,RSH1-L13,迈,stride,mài,mài
+0293,RSH1-L13,迅,speedy,xùn,xùn
+0294,RSH1-L13,造,create,zào,zào
+0295,RSH1-L13,逃,escape,táo,táo
+0296,RSH1-L13,巡,patrol,xún,xún
+0297,RSH1-L13,选,choose,xuǎn,xuǎn
+0298,RSH1-L13,逊,modest,xùn,xùn
+0299,RSH1-L13,逛,stroll,guàng,guàng
+0300,RSH1-L13,车,car,chē,chē|jū
+0301,RSH1-L13,连,one after another,lián,lián
+0302,RSH1-L13,莲,lotus,lián,lián
+0303,RSH1-L13,前,in front,qián,qián
+0304,RSH1-L13,剪,shears,jiǎn,jiǎn
+0305,RSH1-L13,输,transport,shū,shū
+0306,RSH1-L13,逾,exceed,yú,yú
+0307,RSH1-L13,条,strip,tiáo,tiáo
+0308,RSH1-L13,处,location,chù,chù|chǔ
+0309,RSH1-L13,各,each,gè,gè|gě
+0310,RSH1-L13,格,pattern,gé,gé|gē
+0311,RSH1-L13,略,abbreviation,lüè,lüè
+0312,RSH1-L13,客,guest,kè,kè
+0313,RSH1-L13,额,forehead,é,é
+0314,RSH1-L13,夏,summer,xià,xià
+0315,RSH1-L13,洛,L.A.,luò,Luò
+0316,RSH1-L13,落,fall,luò,luò|là|lào|luō
+0317,RSH1-L13,备,prepare,bèi,bèi
+0318,RSH1-L14,冗,superfluous,rǒng,rǒng
+0319,RSH1-L14,沉,profound,chén,chén|chēn
+0320,RSH1-L14,军,army,jūn,jūn
+0321,RSH1-L14,辉,radiance,huī,huī
+0322,RSH1-L14,冠,crown,guān,guàn|guān
+0323,RSH1-L14,坑,pit,kēng,kēng
+0324,RSH1-L14,亩,Chinese acre,mǔ,mǔ
+0325,RSH1-L14,高,tall,gāo,gāo
+0326,RSH1-L14,享,enjoy,xiǎng,xiǎng
+0327,RSH1-L14,熟,ripe,shú,shú|shóu
+0328,RSH1-L14,亭,pavilion,tíng,tíng
+0329,RSH1-L14,亮,shiny,liàng,liàng
+0330,RSH1-L14,京,capital,jīng,jīng
+0331,RSH1-L14,景,scenery,jǐng,jǐng
+0332,RSH1-L14,就,at once,jiù,jiù
+0333,RSH1-L14,周,circumference,zhōu,zhōu
+0334,RSH1-L14,士,soldier,shì,shì
+0335,RSH1-L14,吉,lucky,jí,jí
+0336,RSH1-L14,壮,robust,zhuàng,zhuàng|Zhuàng
+0337,RSH1-L15,学,study,xué,xué
+0338,RSH1-L15,觉,senses,jué,jué|jiào
+0339,RSH1-L15,攻,attack,gōng,gōng
+0340,RSH1-L15,敌,enemy,dí,dí
+0341,RSH1-L15,败,fail,bài,bài
+0342,RSH1-L15,故,deliberately,gù,gù
+0343,RSH1-L15,救,rescue,jiù,jiù
+0344,RSH1-L15,敬,revere,jìng,jìng
+0345,RSH1-L15,敞,spacious,chǎng,chǎng
+0346,RSH1-L15,言,say,yán,yán
+0347,RSH1-L15,警,police,jǐng,jǐng
+0348,RSH1-L15,计,plan,jì,jì
+0349,RSH1-L15,让,yield,ràng,ràng
+0350,RSH1-L15,狱,prison,yù,yù
+0351,RSH1-L15,讨,condemn,tǎo,tǎo
+0352,RSH1-L15,训,instruction,xùn,xùn
+0353,RSH1-L15,识,knowledge,shí,shí|zhì
+0354,RSH1-L15,话,talk,huà,huà|huo
+0355,RSH1-L15,诗,poem,shī,shī
+0356,RSH1-L15,语,language,yǔ,yǔ|yù
+0357,RSH1-L15,调,tune,diào,diào|tiáo
+0358,RSH1-L15,谈,discuss,tán,tán
+0359,RSH1-L16,式,style,shì,shì
+0360,RSH1-L16,试,test,shì,shì
+0361,RSH1-L16,戈,halberd,gē,gē
+0362,RSH1-L16,战,war,zhàn,zhàn
+0363,RSH1-L16,划,scratch,huà,huá|huà
+0364,RSH1-L16,或,or,huò,huò
+0365,RSH1-L16,贼,burglar,zéi,zéi
+0366,RSH1-L16,载,laden,zài,zài|zǎi
+0367,RSH1-L16,茂,lush,mào,mào
+0368,RSH1-L16,成,turn into,chéng,chéng
+0369,RSH1-L16,城,city,chéng,chéng
+0370,RSH1-L16,诚,sincere,chéng,chéng
+0371,RSH1-L16,威,might,wēi,wēi
+0372,RSH1-L16,咸,salty,xián,xián
+0373,RSH1-L16,钱,coin,qián,qián
+0374,RSH1-L16,浅,shallow,qiǎn,qiǎn
+0375,RSH1-L16,贱,cheap,jiàn,jiàn
+0376,RSH1-L16,尧,Yao,yáo,Yáo
+0377,RSH1-L16,烧,fever,shāo,shāo
+0378,RSH1-L16,晓,dawn,xiǎo,xiǎo
+0379,RSH1-L17,止,stop,zhǐ,zhǐ
+0380,RSH1-L17,步,footstep,bù,bù
+0381,RSH1-L17,涉,ford,shè,shè
+0382,RSH1-L17,频,repeatedly,pín,pín
+0383,RSH1-L17,肯,agree,kěn,kěn
+0384,RSH1-L17,企,look forward to,qǐ,qǐ
+0385,RSH1-L17,武,military,wǔ,wǔ
+0386,RSH1-L17,赋,levy,fù,fù
+0387,RSH1-L17,正,correct,zhèng,zhèng|zhēng
+0388,RSH1-L17,证,evidence,zhèng,zhèng
+0389,RSH1-L17,政,politics,zhèng,zhèng
+0390,RSH1-L17,定,settle on,dìng,dìng
+0391,RSH1-L17,走,walk,zǒu,zǒu
+0392,RSH1-L17,超,transcend,chāo,chāo
+0393,RSH1-L17,越,surpass,yuè,yuè
+0394,RSH1-L17,是,be,shì,shì
+0395,RSH1-L17,题,topic,tí,tí
+0396,RSH1-L17,延,prolong,yán,yán
+0397,RSH1-L17,诞,nativity,dàn,dàn
+0398,RSH1-L17,建,build,jiàn,jiàn
+0399,RSH1-L17,楚,clear,chǔ,chǔ
+0400,RSH1-L18,衣,clothing,yī,yī|yì
+0401,RSH1-L18,裁,tailor,cái,cái
+0402,RSH1-L18,装,attire,zhuāng,zhuāng
+0403,RSH1-L18,哀,grief,āi,āi
+0404,RSH1-L18,袁,Yuan,yuán,Yuán
+0405,RSH1-L18,初,elementary,chū,chū
+0406,RSH1-L18,补,patch,bǔ,bǔ
+0407,RSH1-L18,衬,inner garments,chèn,chèn
+0408,RSH1-L18,农,agriculture,nóng,nóng
+0409,RSH1-L18,浓,concentrated,nóng,nóng
+0410,RSH1-L18,巾,towel,jīn,jīn
+0411,RSH1-L18,帅,commander,shuài,shuài
+0412,RSH1-L18,师,teacher,shī,shī
+0413,RSH1-L18,狮,lion,shī,shī
+0414,RSH1-L18,布,cloth,bù,bù
+0415,RSH1-L18,帜,streamer,zhì,zhì
+0416,RSH1-L18,帽,hat,mào,mào
+0417,RSH1-L18,幕,curtain,mù,mù
+0418,RSH1-L18,棉,cotton,mián,mián
+0419,RSH1-L18,市,market,shì,shì
+0420,RSH1-L18,肺,lungs,fèi,fèi
+0421,RSH1-L18,带,sash,dài,dài
+0422,RSH1-L18,滞,stagnant,zhì,zhì
+0423,RSH1-L18,刺,thorn,cì,cì|cī
+0424,RSH1-L18,制,system,zhì,zhì
+0425,RSH1-L18,雨,rain,yǔ,yǔ
+0426,RSH1-L18,雷,thunder,léi,léi
+0427,RSH1-L18,霜,frost,shuāng,shuāng
+0428,RSH1-L18,云,cloud,yún,yún
+0429,RSH1-L18,运,carry,yùn,yùn
+0430,RSH1-L18,冰,ice,bīng,bīng
+0431,RSH1-L18,况,situation,kuàng,kuàng
+0432,RSH1-L18,冲,collide,chōng,chōng|chòng
+0433,RSH1-L18,减,reduce,jiǎn,jiǎn
+0434,RSH1-L18,凉,cool,liáng,liáng|liàng
+0435,RSH1-L18,冬,winter,dōng,dōng
+0436,RSH1-L18,天,heavens,tiān,tiān
+0437,RSH1-L18,吴,Wu,wú,Wú
+0438,RSH1-L18,娱,amusement,yú,yú
+0439,RSH1-L18,误,error,wù,wù
+0440,RSH1-L18,夭,die young,yāo,yāo
+0441,RSH1-L18,乔,pretend,qiáo,qiáo
+0442,RSH1-L18,桥,bridge,qiáo,qiáo
+0443,RSH1-L18,娇,attractive,jiāo,jiāo
+0444,RSH1-L18,立,standing up,lì,lì
+0445,RSH1-L18,泣,weep,qì,qì
+0446,RSH1-L18,站,station,zhàn,zhàn
+0447,RSH1-L18,章,chapter,zhāng,zhāng
+0448,RSH1-L18,竞,compete,jìng,jìng
+0449,RSH1-L18,帝,sovereign,dì,dì
+0450,RSH1-L18,童,juvenile,tóng,tóng
+0451,RSH1-L18,商,salesman,shāng,shāng
+0452,RSH1-L18,滴,drip,dī,dī
+0453,RSH1-L18,匕,ancient spoon,bǐ,bǐ
+0454,RSH1-L18,北,north,běi,běi
+0455,RSH1-L18,背,back,bèi,bèi|bēi
+0456,RSH1-L18,比,compare,bǐ,bǐ|pí|bì
+0457,RSH1-L18,昆,descendants,kūn,kūn
+0458,RSH1-L18,混,mix,hùn,hùn|hún
+0459,RSH1-L18,皆,all,jiē,jiē
+0460,RSH1-L18,此,this (literary),cǐ,cǐ
+0461,RSH1-L18,些,somewhat,xiē,xiē
+0462,RSH1-L18,它,it,tā,tā
+0463,RSH1-L18,旨,purpose,zhǐ,zhǐ
+0464,RSH1-L18,脂,grease,zhī,zhī
+0465,RSH1-L18,论,theory,lùn,lùn|lún
+0466,RSH1-L18,轮,wheel,lún,lún
+0467,RSH1-L18,每,every,měi,měi
+0468,RSH1-L18,梅,small plum,méi,méi
+0469,RSH1-L18,海,sea,hǎi,hǎi
+0470,RSH1-L18,乞,beg,qǐ,qǐ
+0471,RSH1-L18,吃,eat,chī,chī
+0472,RSH1-L18,复,duplicate,fù,fù
+0473,RSH1-L18,腹,abdomen,fù,fù
+0474,RSH1-L18,欠,lack,qiàn,qiàn
+0475,RSH1-L18,吹,blow,chuī,chuī
+0476,RSH1-L18,歌,song,gē,gē
+0477,RSH1-L18,软,soft,ruǎn,ruǎn
+0478,RSH1-L18,次,next,cì,cì
+0479,RSH1-L18,资,assets,zī,zī
+0480,RSH1-L18,姿,looks,zī,zī
+0481,RSH1-L18,咨,consult with,zī,zī
+0482,RSH1-L19,赔,compensate,péi,péi
+0483,RSH1-L19,培,cultivate,péi,péi
+0484,RSH1-L19,音,sound,yīn,yīn
+0485,RSH1-L19,暗,dark,àn,àn
+0486,RSH1-L19,韵,rhyme,yùn,yùn
+0487,RSH1-L19,竟,unexpectedly,jìng,jìng
+0488,RSH1-L19,镜,mirror,jìng,jìng
+0489,RSH1-L19,境,boundary,jìng,jìng
+0490,RSH1-L19,亡,deceased,wáng,wáng
+0491,RSH1-L19,盲,blind,máng,máng
+0492,RSH1-L19,妄,absurd,wàng,wàng
+0493,RSH1-L19,望,expect,wàng,wàng
+0494,RSH1-L19,方,direction,fāng,fāng
+0495,RSH1-L19,妨,hinder,fáng,fáng
+0496,RSH1-L19,放,release,fàng,fàng
+0497,RSH1-L19,激,excite,jī,jī
+0498,RSH1-L19,旁,side,páng,páng|bàng
+0499,RSH1-L19,兑,convert,duì,duì
+0500,RSH1-L19,脱,undress,tuō,tuō
+0501,RSH1-L19,说,speak,shuō,shuō|shuì
+0502,RSH1-L19,曾,formerly,céng,céng|zēng
+0503,RSH1-L19,增,increase,zēng,zēng
+0504,RSH1-L19,赠,make a present of,zèng,zèng
+0505,RSH1-L20,也,also,yě,yě
+0506,RSH1-L20,她,she,tā,tā
+0507,RSH1-L20,地,ground,dì,de|dì
+0508,RSH1-L20,池,pond,chí,chí
+0509,RSH1-L20,虫,insect,chóng,chóng
+0510,RSH1-L20,虾,shrimp,xiā,xiā|há
+0511,RSH1-L20,独,alone,dú,dú
+0512,RSH1-L20,虽,although,suī,suī
+0513,RSH1-L20,蛇,serpent,shé,shé|yí
+0514,RSH1-L20,蛋,egg,dàn,dàn
+0515,RSH1-L20,己,self,jǐ,jǐ
+0516,RSH1-L20,起,begin,qǐ,qǐ
+0517,RSH1-L20,改,alter,gǎi,gǎi
+0518,RSH1-L20,记,remember,jì,jì
+0519,RSH1-L20,已,already,yǐ,yǐ
+0520,RSH1-L20,包,wrap,bāo,bāo
+0521,RSH1-L20,泡,bubbles,pào,pào|pāo
+0522,RSH1-L20,导,guide,dǎo,dǎo
+0523,RSH1-L20,顾,look back,gù,gù
+0524,RSH1-L20,逐,pursue,zhú,zhú
+0525,RSH1-L20,家,house,jiā,jiā|jia|jie
+0526,RSH1-L20,场,site,chǎng,chǎng|cháng
+0527,RSH1-L20,汤,soup,tāng,tāng|shāng
+0528,RSH1-L20,羊,sheep,yáng,yáng
+0529,RSH1-L20,美,beautiful,měi,měi
+0530,RSH1-L20,洋,ocean,yáng,yáng|yāng
+0531,RSH1-L20,鲜,fresh,xiān,xiān|xiǎn
+0532,RSH1-L20,样,appearance,yàng,yàng
+0533,RSH1-L20,兰,orchid,lán,lán
+0534,RSH1-L20,烂,spoiled,làn,làn|lān
+0535,RSH1-L20,差,fall short of,chà,chà|chā|cī|chāi|cuō
+0536,RSH1-L20,着,-ing,zhe,zhe|zháo|zhāo|zhuó|zhù
+0537,RSH1-L20,养,raise,yǎng,yǎng
+0538,RSH1-L20,集,gather,jí,jí
+0539,RSH1-L20,准,standard,zhǔn,zhǔn
+0540,RSH1-L20,谁,who?,shéi,shuí
+0541,RSH1-L20,售,vend,shòu,shòu
+0542,RSH1-L20,午,noon,wǔ,wǔ
+0543,RSH1-L20,许,permit,xǔ,xǔ|hǔ
+0544,RSH1-L20,羽,feathers,yǔ,yǔ
+0545,RSH1-L20,习,learn,xí,xí
+0546,RSH1-L20,翔,soar,xiáng,xiáng
+0547,RSH1-L21,困,trapped,kùn,kùn
+0548,RSH1-L21,固,solid,gù,gù
+0549,RSH1-L21,国,country,guó,guó
+0550,RSH1-L21,圆,round,yuán,yuán
+0551,RSH1-L21,因,cause,yīn,yīn
+0552,RSH1-L21,烟,smoke,yān,yān
+0553,RSH1-L21,园,park,yuán,yuán
+0554,RSH1-L21,回,return,huí,huí
+0555,RSH1-L21,图,picture,tú,tú
+0556,RSH1-L21,广,extensive,guǎng,guǎng
+0557,RSH1-L21,店,store,diàn,diàn
+0558,RSH1-L21,库,warehouse,kù,kù
+0559,RSH1-L21,裤,trousers,kù,kù
+0560,RSH1-L21,床,bed,chuáng,chuáng
+0561,RSH1-L21,麻,hemp,má,má|mā
+0562,RSH1-L21,庄,hamlet,zhuāng,zhuāng
+0563,RSH1-L21,心,heart,xīn,xīn
+0564,RSH1-L21,忘,forget,wàng,wàng
+0565,RSH1-L21,忍,endure,rěn,rěn
+0566,RSH1-L21,总,general,zǒng,zǒng
+0567,RSH1-L21,态,attitude,tài,tài
+0568,RSH1-L21,志,aspiration,zhì,zhì
+0569,RSH1-L21,思,consider,sī,sī|sāi
+0570,RSH1-L21,恩,kindness,ēn,ēn
+0571,RSH1-L21,愿,wish,yuàn,yuàn
+0572,RSH1-L21,意,idea,yì,yì
+0573,RSH1-L21,想,think,xiǎng,xiǎng
+0574,RSH1-L21,息,breath,xī,xī
+0575,RSH1-L21,恐,fear,kǒng,kǒng
+0576,RSH1-L21,感,feel,gǎn,gǎn
+0577,RSH1-L21,憾,regret,hàn,hàn
+0578,RSH1-L21,忧,worried,yōu,yōu
+0579,RSH1-L21,惊,startled,jīng,jīng
+0580,RSH1-L21,怕,dread,pà,pà
+0581,RSH1-L21,忙,busy,máng,máng
+0582,RSH1-L21,惯,accustomed to,guàn,guàn
+0583,RSH1-L21,必,certainly,bì,bì
+0584,RSH1-L22,手,hand,shǒu,shǒu
+0585,RSH1-L22,看,look at,kàn,kàn|kān
+0586,RSH1-L22,摩,rub,mó,mó|mā
+0587,RSH1-L22,拿,hold,ná,ná
+0588,RSH1-L22,我,I,wǒ,wǒ
+0589,RSH1-L22,抱,embrace,bào,bào
+0590,RSH1-L22,抗,combat,kàng,kàng
+0591,RSH1-L22,批,criticize,pī,pī
+0592,RSH1-L22,招,beckon,zhāo,zhāo
+0593,RSH1-L22,打,strike,dǎ,dǎ|dá
+0594,RSH1-L22,指,finger,zhǐ,zhǐ
+0595,RSH1-L22,持,support,chí,chí
+0596,RSH1-L22,担,assume,dàn,dān|dàn
+0597,RSH1-L22,括,include,kuò,kuò|guā
+0598,RSH1-L22,提,bring up,tí,tí|dī
+0599,RSH1-L22,挥,brandish,huī,huī
+0600,RSH1-L22,推,push,tuī,tuī
+0601,RSH1-L22,搅,stir,jiǎo,jiǎo
+0602,RSH1-L22,执,clench,zhí,zhí
+0603,RSH1-L22,热,heat,rè,rè
+0604,RSH1-L22,接,welcome,jiē,jiē
+0605,RSH1-L22,挂,hang,guà,guà
+0606,RSH1-L22,按,press down on,àn,àn
+0607,RSH1-L22,掉,drop,diào,diào
+0608,RSH1-L22,拉,pull,lā,lā|lá|lǎ|là
+0609,RSH1-L22,啦,!!,la,la|lā|lá
+0610,RSH1-L22,找,look for,zhǎo,zhǎo
+0611,RSH1-L22,无,nothing,wú,wú|mó
+0612,RSH1-L22,抚,comfort,fǔ,fǔ
+0613,RSH1-L22,开,open,kāi,kāi
+0614,RSH1-L22,研,grind away,yán,yán
+0615,RSH1-L22,弄,play with,nòng,nòng|lòng
+0616,RSH1-L22,异,different,yì,yì
+0617,RSH1-L22,鼻,nose,bí,bí
+0618,RSH1-L22,刑,punishment,xíng,xíng
+0619,RSH1-L22,型,mold,xíng,xíng
+0620,RSH1-L22,才,genius,cái,cái
+0621,RSH1-L22,财,riches,cái,cái
+0622,RSH1-L22,团,troupe,tuán,tuán
+0623,RSH1-L22,存,deposit,cún,cún
+0624,RSH1-L22,在,at,zài,zài
+0625,RSH1-L22,乃,only then,nǎi,nǎi
+0626,RSH1-L22,奶,milk,nǎi,nǎi
+0627,RSH1-L22,及,catch up with,jí,jí
+0628,RSH1-L22,吸,inhale,xī,xī
+0629,RSH1-L22,极,extreme,jí,jí
+0630,RSH1-L22,史,history,shǐ,shǐ
+0631,RSH1-L22,更,even more,gèng,gèng|gēng
+0632,RSH1-L22,硬,hard,yìng,yìng
+0633,RSH1-L22,又,again,yòu,yòu
+0634,RSH1-L22,圣,holy,shèng,shèng
+0635,RSH1-L22,友,friend,yǒu,yǒu
+0636,RSH1-L22,双,pair,shuāng,shuāng
+0637,RSH1-L22,汉,Han,hàn,Hàn|hàn
+0638,RSH1-L22,戏,frolic,xì,xì
+0639,RSH1-L22,观,observe,guān,guān|guàn
+0640,RSH1-L22,欢,joyous,huān,huān
+0641,RSH1-L22,怪,peculiar,guài,guài
+0642,RSH1-L22,对,that's right,duì,duì
+0643,RSH1-L22,树,timber,shù,shù
+0644,RSH1-L22,难,difficult,nán,nán|nàn
+0645,RSH1-L22,摊,vendor's stand,tān,tān
+0646,RSH1-L22,投,throw,tóu,tóu
+0647,RSH1-L22,没,not have,méi,méi|mò
+0648,RSH1-L22,设,establish,shè,shè
+0649,RSH1-L22,股,thigh,gǔ,gǔ
+0650,RSH1-L22,支,offshoot,zhī,zhī
+0651,RSH1-L22,技,skill,jì,jì
+0652,RSH1-L22,枝,branch,zhī,zhī|qí
+0653,RSH1-L22,叔,uncle,shū,shū
+0654,RSH1-L22,督,superintend,dū,dū
+0655,RSH1-L22,寂,lonely,jì,jì
+0656,RSH1-L22,反,against,fǎn,fǎn|bǎn
+0657,RSH1-L22,板,plank,bǎn,bǎn
+0658,RSH1-L22,返,go back,fǎn,fǎn
+0659,RSH1-L22,后,behind,hòu,hòu
+0660,RSH1-L22,质,quality,zhì,zhì
+0661,RSH1-L22,派,faction,pài,pài|pā
+0662,RSH1-L22,乐,music,yuè,lè|yuè
+0663,RSH1-L22,爪,claw,zhǎo,zhuǎ|zhǎo
+0664,RSH1-L22,抓,grab,zhuā,zhuā
+0665,RSH1-L22,采,pick,cǎi,cǎi
+0666,RSH1-L22,菜,vegetable,cài,cài
+0667,RSH1-L22,受,accept,shòu,shòu
+0668,RSH1-L22,授,confer,shòu,shòu
+0669,RSH1-L22,爱,love,ài,ài
+0670,RSH1-L22,么,(suffix),me,me|má|mó
+0671,RSH1-L22,雄,grand,xióng,xióng
+0672,RSH1-L22,台,platform,tái,tái|tāi
+0673,RSH1-L22,治,govern,zhì,zhì
+0674,RSH1-L22,始,commence,shǐ,shǐ
+0675,RSH1-L22,去,go,qù,qù
+0676,RSH1-L22,法,method,fǎ,fǎ
+0677,RSH1-L22,会,meeting,huì,huì|huǐ|kuài
+0678,RSH1-L22,至,until,zhì,zhì
+0679,RSH1-L22,室,room,shì,shì
+0680,RSH1-L22,到,arrive,dào,dào
+0681,RSH1-L22,互,mutual,hù,hù
+0682,RSH1-L22,充,sufficient,chōng,chōng
+0683,RSH1-L22,育,education,yù,yù|yō
+0684,RSH1-L22,流,flow,liú,liú
+0685,RSH1-L22,梳,comb,shū,shū
+0686,RSH1-L22,购,purchase,gòu,gòu
+0687,RSH1-L22,构,frame,gòu,gòu
+0688,RSH1-L23,山,mountain,shān,shān
+0689,RSH1-L23,出,exit,chū,chū
+0690,RSH1-L23,础,foundation,chǔ,chǔ
+0691,RSH1-L23,岁,years of age,suì,suì
+0692,RSH1-L23,密,secret,mì,mì
+0693,RSH1-L23,入,enter,rù,rù
+0694,RSH1-L23,分,part,fēn,fēn|fèn
+0695,RSH1-L23,贫,impoverished,pín,pín
+0696,RSH1-L23,公,public,gōng,gōng
+0697,RSH1-L23,松,pine tree,sōng,sōng
+0698,RSH1-L23,谷,valley,gǔ,gǔ|yù
+0699,RSH1-L23,浴,bathe,yù,yù
+0700,RSH1-L23,欲,desire,yù,yù
+0701,RSH1-L23,容,contain,róng,róng
+0702,RSH1-L23,溶,dissolve,róng,róng
+0703,RSH1-L24,赏,prize,shǎng,shǎng
+0704,RSH1-L24,党,political party,dǎng,dǎng
+0705,RSH1-L24,常,often,cháng,cháng
+0706,RSH1-L24,堂,main room,táng,táng|tāng
+0707,RSH1-L24,皮,covering,pí,pí
+0708,RSH1-L24,波,waves,bō,bō
+0709,RSH1-L24,婆,old woman,pó,pó
+0710,RSH1-L24,破,break,pò,pò
+0711,RSH1-L24,被,quilt,bèi,bèi|pī
+0712,RSH1-L24,歹,malicious,dǎi,dǎi
+0713,RSH1-L24,列,line up,liè,liè
+0714,RSH1-L24,烈,intense,liè,liè
+0715,RSH1-L24,死,death,sǐ,sǐ
+0716,RSH1-L24,葬,inter,zàng,zàng
+0717,RSH1-L24,耳,ear,ěr,ěr
+0718,RSH1-L24,取,take,qǔ,qǔ
+0719,RSH1-L24,趣,interest,qù,qù
+0720,RSH1-L24,最,most,zuì,zuì
+0721,RSH1-L24,职,job,zhí,zhí
+0722,RSH1-L24,敢,brave,gǎn,gǎn
+0723,RSH1-L24,曼,drawn out,màn,màn
+0724,RSH1-L24,慢,slow,màn,màn
+0725,RSH1-L24,漫,overflow,màn,màn
+0726,RSH1-L24,夫,husband,fū,fū|fú
+0727,RSH1-L24,规,regulations,guī,guī
+0728,RSH1-L24,替,replace,tì,tì
+0729,RSH1-L24,失,lose,shī,shī
+0730,RSH1-L24,铁,iron,tiě,tiě
+0731,RSH1-L24,臣,feudal official,chén,chén
+0732,RSH1-L24,力,power,lì,lì
+0733,RSH1-L24,边,border,biān,biān
+0734,RSH1-L24,势,force,shì,shì
+0735,RSH1-L24,动,move,dòng,dòng
+0736,RSH1-L24,励,encourage,lì,lì
+0737,,历,experience,lì,lì
+0738,RSH1-L24,另,another,lìng,lìng
+0739,RSH1-L24,别,don't,bié,bié|biè
+0740,RSH1-L24,拐,turn,guǎi,guǎi
+0741,RSH1-L24,男,male,nán,nán
+0742,RSH1-L24,功,achievement,gōng,gōng
+0743,RSH1-L24,办,manage,bàn,bàn
+0744,RSH1-L24,协,cooperate,xié,xié
+0745,RSH1-L24,苏,revive,sū,Sū
+0746,RSH1-L24,为,act,wèi,wèi|wéi
+0747,RSH1-L24,奴,slave,nú,nú
+0748,RSH1-L24,努,toil,nǔ,nǔ
+0749,RSH1-L24,加,add,jiā,jiā
+0750,RSH1-L24,贺,congratulate,hè,hè
+0751,RSH1-L24,架,shelf,jià,jià
+0752,RSH1-L24,务,tasks,wù,wù
+0753,RSH1-L24,雾,fog,wù,wù
+0754,RSH1-L24,行,line of business,háng,xíng|háng|hàng|heng
+0755,RSH1-L24,律,law,lǜ,lǜ
+0756,RSH1-L24,得,must,děi,de|děi|dé
+0757,RSH1-L24,待,treat,dài,dài|dāi
+0758,RSH1-L24,往,toward,wǎng,wǎng
+0759,RSH1-L24,德,morality,dé,dé
+0760,RSH1-L24,微,tiny,wēi,wēi
+0761,RSH1-L24,街,street,jiē,jiē
+0762,RSH1-L25,禾,standing grain,hé,hé
+0763,RSH1-L25,程,journey,chéng,chéng
+0764,RSH1-L25,和,harmony,hé,hé
+0765,RSH1-L25,积,accumulate,jī,jī
+0766,RSH1-L25,种,species,zhǒng,zhǒng|zhòng
+0767,RSH1-L25,移,shift,yí,yí
+0768,RSH1-L25,秋,autumn,qiū,qiū
+0769,RSH1-L25,愁,gloomy,chóu,chóu
+0770,RSH1-L25,揪,hold tight,jiū,jiū
+0771,RSH1-L25,利,profit,lì,lì
+0772,RSH1-L25,香,perfume,xiāng,xiāng
+0773,RSH1-L25,季,seasons,jì,jì
+0774,RSH1-L25,委,committee,wěi,wěi|wēi
+0775,RSH1-L25,秀,elegant,xiù,xiù
+0776,RSH1-L25,透,penetrate,tòu,tòu
+0777,RSH1-L25,诱,entice,yòu,yòu
+0778,RSH1-L25,米,rice,mǐ,mǐ
+0779,RSH1-L25,粉,powder,fěn,fěn
+0780,RSH1-L25,迷,lost,mí,mí
+0781,RSH1-L25,谜,riddle,mí,mí|mèi
+0782,RSH1-L25,类,kind,lèi,lèi
+0783,RSH1-L25,来,come,lái,lái
+0784,RSH1-L25,数,number,shù,shù|shǔ|shuò
+0785,RSH1-L25,楼,multistory building,lóu,lóu
+0786,RSH1-L25,竹,bamboo,zhú,zhú
+0787,RSH1-L25,笑,laugh,xiào,xiào
+0788,RSH1-L25,箱,box,xiāng,xiāng
+0789,RSH1-L25,等,etc.,děng,děng
+0790,RSH1-L25,算,calculate,suàn,suàn
+0791,RSH1-L25,答,answer,dá,dá|dā
+0792,RSH1-L25,策,strategy,cè,cè
+0793,RSH1-L26,人,person,rén,rén
+0794,RSH1-L26,认,recognize,rèn,rèn
+0795,RSH1-L26,价,price,jià,jià|jie
+0796,RSH1-L26,份,portion,fèn,fèn
+0797,RSH1-L26,伪,bogus,wěi,wěi
+0798,RSH1-L26,尔,you (literary),ěr,ěr
+0799,RSH1-L26,你,you,nǐ,nǐ
+0800,RSH1-L26,您,you (respectful),nín,nín
+0801,RSH1-L26,称,weigh,chēng,chēng|chèn
+0802,RSH1-L26,什,what?,shén,shén|shí
+0803,RSH1-L26,值,value,zhí,zhí
+0804,RSH1-L26,做,make,zuò,zuò
+0805,RSH1-L26,但,however,dàn,dàn
+0806,RSH1-L26,住,dwell,zhù,zhù
+0807,RSH1-L26,位,position,wèi,wèi
+0808,RSH1-L26,件,piece,jiàn,jiàn
+0809,RSH1-L26,仍,still,réng,réng
+0810,RSH1-L26,他,he,tā,tā
+0811,RSH1-L26,仅,merely,jǐn,jǐn
+0812,RSH1-L26,休,rest,xiū,xiū
+0813,RSH1-L26,体,body,tǐ,tǐ|tī
+0814,RSH1-L26,信,faith,xìn,xìn
+0815,RSH1-L26,依,depend on,yī,yī
+0816,RSH1-L26,例,example,lì,lì
+0817,RSH1-L26,健,healthy,jiàn,jiàn
+0818,RSH1-L26,停,halt,tíng,tíng
+0819,RSH1-L26,倒,upside down,dǎo,dào|dǎo|dáo
+0820,RSH1-L26,仁,benevolence,rén,rén
+0821,RSH1-L26,优,excellent,yōu,yōu
+0822,RSH1-L26,伤,wound,shāng,shāng
+0823,RSH1-L26,保,safeguard,bǎo,bǎo
+0824,RSH1-L26,堡,fort,bǎo,bǎo|pù|bǔ
+0825,RSH1-L26,付,pay,fù,fù
+0826,RSH1-L26,府,government office,fǔ,fǔ
+0827,RSH1-L26,俯,bow one's head,fǔ,fǔ
+0828,RSH1-L26,代,substitute for,dài,dài
+0829,RSH1-L26,袋,bag,dài,dài
+0830,RSH1-L26,化,transform,huà,huà|huā
+0831,RSH1-L26,华,splendor,huá,huá|Huà
+0832,RSH1-L26,哗,clamor,huá,huā|huá
+0833,RSH1-L26,花,flower,huā,huā
+0834,RSH1-L26,货,commodities,huò,huò
+0835,RSH1-L26,何,whatwhichwhowherewhy?,hé,hé
+0836,RSH1-L26,便,convenient,biàn,biàn|pián
+0837,RSH1-L26,丈,100 Chinese inches,zhàng,zhàng
+0838,RSH1-L26,使,use,shǐ,shǐ
+0839,RSH1-L26,久,long time,jiǔ,jiǔ
+0840,RSH1-L26,内,internal,nèi,nèi
+0841,RSH1-L26,呐,holler,nà,na|nà
+0842,RSH1-L26,丙,third,bǐng,bǐng
+0843,RSH1-L26,柄,handle,bǐng,bǐng
+0844,RSH1-L26,肉,meat,ròu,ròu
+0845,RSH1-L26,腐,rotten,fǔ,fǔ
+0846,RSH1-L26,从,follow,cóng,cóng|zòng|cōng
+0847,RSH1-L26,众,multitude,zhòng,zhòng
+0848,RSH1-L26,坐,sit,zuò,zuò
+0849,RSH1-L26,座,seat,zuò,zuò
+0850,RSH1-L26,巫,witch,wū,wū
+0851,RSH1-L26,喝,drink,hē,hē|hè
+0852,RSH1-L26,渴,thirsty,kě,kě
+0853,RSH1-L27,任,appoint,rèn,rèn|Rén
+0854,RSH1-L27,廷,royal court,tíng,tíng
+0855,RSH1-L27,庭,court of law,tíng,tíng
+0856,RSH1-L27,头,head,tóu,tóu|tou
+0857,RSH1-L27,实,reality,shí,shí|shī
+0858,RSH1-L27,买,buy,mǎi,mǎi
+0859,RSH1-L27,卖,sell,mài,mài
+0860,RSH1-L27,读,read,dú,dú|dòu
+0861,RSH1-L27,以,by means of,yǐ,yǐ
+0862,RSH1-L27,似,similar,sì,sì|shì
+0863,RSH1-L27,并,combine,bìng,bìng
+0864,RSH1-L27,拼,piece together,pīn,pīn
+0865,RSH1-L27,吕,spine,lǚ,Lǚ
+0866,RSH1-L27,侣,associate,lǚ,lǚ
+0867,RSH1-L27,荣,glory,róng,róng
+0868,RSH1-L27,劳,labor,láo,láo|lào
+0869,RSH1-L27,营,camp,yíng,yíng
+0870,RSH1-L27,善,virtuous,shàn,shàn
+0871,RSH1-L27,年,year,nián,nián
+0872,RSH1-L27,夜,night,yè,yè
+0873,RSH1-L27,液,liquid,yè,yè
+0874,RSH1-L28,旅,travel,lǚ,lǚ
+0875,RSH1-L28,施,execute,shī,shī
+0876,RSH1-L28,游,go swimming,yóu,yóu
+0877,RSH1-L28,勿,not,wù,wù
+0878,RSH1-L28,忽,suddenly,hū,hū
+0879,RSH1-L28,物,thing,wù,wù
+0880,RSH1-L28,易,easy,yì,yì
+0881,RSH1-L28,赐,grant,cì,cì
+0882,RSH1-L28,尸,corpse,shī,shī
+0883,RSH1-L28,尼,nun,ní,ní
+0884,RSH1-L28,呢,woolen cloth,ní,ne|ní
+0885,RSH1-L28,泥,mud,ní,ní|nì
+0886,RSH1-L28,屋,habitation,wū,wū
+0887,RSH1-L28,握,grip,wò,wò
+0888,RSH1-L28,居,reside,jū,jū
+0889,RSH1-L28,锯,saw,jù,jù|jū
+0890,RSH1-L28,剧,drama,jù,jù
+0891,RSH1-L28,据,certificate,jù,jù|jū
+0892,RSH1-L28,层,story,céng,céng
+0893,RSH1-L28,局,bureau,jú,jú
+0894,RSH1-L28,尺,ruler,chǐ,chǐ|chě
+0895,RSH1-L28,尽,exhausted,jìn,jìn
+0896,RSH1-L28,户,door,hù,hù
+0897,RSH1-L28,房,domicile,fáng,fáng
+0898,RSH1-L28,雇,hire,gù,gù
+0899,RSH1-L28,护,protect,hù,hù
+0900,RSH1-L29,示,show,shì,shì
+0901,RSH1-L29,社,society,shè,shè
+0902,RSH1-L29,礼,ceremony,lǐ,lǐ
+0903,RSH1-L29,视,inspect,shì,shì
+0904,RSH1-L29,福,happiness,fú,fú
+0905,RSH1-L29,标,mark,biāo,biāo
+0906,RSH1-L29,禁,prohibit,jìn,jìn|jīn
+0907,RSH1-L29,襟,front of a garment,jīn,jīn
+0908,RSH1-L29,宗,religion,zōng,zōng
+0909,RSH1-L29,崇,worship,chóng,chóng
+0910,RSH1-L29,祭,offer sacrifice,jì,jì
+0911,RSH1-L29,察,scrutinize,chá,chá
+0912,RSH1-L29,擦,scrub,cā,cā
+0913,RSH1-L29,由,wherefore,yóu,yóu
+0914,RSH1-L29,抽,take out,chōu,chōu
+0915,RSH1-L29,油,oil,yóu,yóu
+0916,RSH1-L29,甲,first,jiǎ,jiǎ
+0917,RSH1-L29,押,pawn,yā,yā
+0918,RSH1-L29,申,express,shēn,shēn
+0919,RSH1-L29,伸,extend,shēn,shēn
+0920,RSH1-L29,神,gods,shén,shén
+0921,RSH1-L29,果,fruit,guǒ,guǒ
+0922,RSH1-L29,课,lesson,kè,kè
+0923,RSH1-L29,颗,granule,kē,kē
+0924,RSH1-L30,斤,catty,jīn,jīn
+0925,RSH1-L30,听,listen,tīng,tīng
+0926,RSH1-L30,所,place,suǒ,suǒ
+0927,RSH1-L30,近,near,jìn,jìn
+0928,RSH1-L30,斩,hew,zhǎn,zhǎn
+0929,RSH1-L30,暂,temporary,zàn,zàn
+0930,RSH1-L30,渐,gradually,jiàn,jiàn|jiān
+0931,RSH1-L30,断,sever,duàn,duàn
+0932,RSH1-L30,折,discount,zhé,zhé|zhē|shé
+0933,RSH1-L30,哲,philosopher,zhé,zhé
+0934,RSH1-L30,逝,pass away,shì,shì
+0935,RSH1-L30,斥,reprimand,chì,chì
+0936,RSH1-L30,诉,accuse,sù,sù
+0937,RSH1-L30,乍,for the first time,zhà,zhà
+0938,RSH1-L30,怎,how?,zěn,zěn
+0939,RSH1-L30,昨,yesterday,zuó,zuó
+0940,RSH1-L30,作,do,zuò,zuò|zuō|zuó
+0941,RSH1-L30,雪,snow,xuě,xuě
+0942,RSH1-L30,灵,spirit,líng,líng
+0943,RSH1-L30,妇,married woman,fù,fù
+0944,RSH1-L30,扫,sweep,sǎo,sǎo|sào
+0945,RSH1-L30,寻,seek,xún,xún|xín
+0946,RSH1-L30,急,anxious,jí,jí
+0947,RSH1-L30,当,work as,dāng,dāng|dàng|dǎng
+0948,RSH1-L30,档,files,dàng,dàng|dǎng
+0949,RSH1-L30,录,record,lù,lù
+0950,RSH1-L30,碌,commonplace,lù,lù|liù|lū
+0951,RSH1-L30,争,contend,zhēng,zhēng
+0952,RSH1-L30,净,clean,jìng,jìng
+0953,RSH1-L30,事,matter,shì,shì
+0954,RSH1-L30,唐,Tang,táng,táng
+0955,RSH1-L30,糖,sugar,táng,táng
+0956,RSH1-L30,康,hale,kāng,kāng
+0957,RSH1-L30,尹,overseer,yǐn,yǐn
+0958,RSH1-L30,伊,Queen Elizabeth,yī,yī
+0959,RSH1-L30,君,monarch,jūn,jūn
+0960,RSH1-L30,裙,skirt,qún,qún
+0961,RSH1-L30,群,crowd,qún,qún
+0962,RSH1-L30,而,and,ér,ér
+0963,RSH1-L30,需,need,xū,xū
+0964,RSH1-L30,儒,Confucian,rú,rú
+0965,RSH1-L30,瑞,auspicious,ruì,ruì
+0966,RSH1-L30,端,upright,duān,duān
+0967,RSH1-L30,曲,bent,qū,qǔ|qū
+0968,RSH1-L30,斗,big dipper,dǒu,dòu|dǒu
+0969,RSH1-L30,料,material,liào,liào
+0970,RSH1-L30,科,academic discipline,kē,kē
+0971,RSH1-L30,用,utilize,yòng,yòng
+0972,RSH1-L30,确,reliable,què,què
+0973,RSH1-L31,昔,times past,xī,xī
+0974,RSH1-L31,借,borrow,jiè,jiè
+0975,RSH1-L31,错,mistaken,cuò,cuò
+0976,RSH1-L31,散,scattered,sǎn,sàn|sǎn
+0977,RSH1-L31,撒,scatter,sǎ,sā|sǎ
+0978,RSH1-L31,廿,twenty,niàn,niàn
+0979,RSH1-L31,席,mat,xí,xí
+0980,RSH1-L31,度,degrees,dù,dù|duó
+0981,RSH1-L31,渡,ferry,dù,dù
+0982,RSH1-L31,半,half,bàn,bàn
+0983,RSH1-L31,伴,partner,bàn,bàn
+0984,RSH1-L31,胖,fat,pàng,pàng|pán
+0985,RSH1-L31,判,judge,pàn,pàn
+0986,RSH1-L31,眷,dependents,juàn,juàn
+0987,RSH1-L31,拳,boxing,quán,quán
+0988,RSH1-L31,片,slice,piàn,piàn|piān
+0989,RSH1-L31,版,printing plate,bǎn,bǎn
+0990,RSH1-L31,之,of,zhī,zhī
+0991,RSH1-L31,乏,weary,fá,fá
+0992,RSH1-L31,眨,blink,zhǎ,zhǎ
+0993,RSH1-L31,不,no,bù,bù|bu
+0994,RSH1-L31,否,negate,fǒu,fǒu|pǐ
+0995,RSH1-L31,坏,bad,huài,huài
+0996,RSH1-L31,环,ring,huán,huán
+0997,RSH1-L31,杯,cup,bēi,bēi
+0998,RSH1-L31,还,give back,huán,hái|huán
+0999,RSH1-L31,怀,cherish,huái,huái
+1000,RSH1-L32,矢,dart,shǐ,shǐ
+1001,RSH1-L32,族,tribe,zú,zú
+1002,RSH1-L32,知,know,zhī,zhī|zhì
+1003,RSH1-L32,智,wisdom,zhì,zhì
+1004,RSH1-L32,矛,spear,máo,máo
+1005,RSH1-L32,柔,gentle,róu,róu
+1006,RSH1-L32,揉,knead,róu,róu
+1007,RSH1-L32,予,bestow,yǔ,yú|yǔ
+1008,RSH1-L32,序,preface,xù,xù
+1009,RSH1-L32,预,beforehand,yù,yù
+1010,RSH1-L32,野,wild,yě,yě
+1011,RSH1-L32,班,class,bān,bān
+1012,RSH1-L32,临,be about to,lín,lín
+1013,RSH1-L32,坚,firm,jiān,jiān
+1014,RSH1-L32,贤,worthy,xián,xián
+1015,RSH1-L32,弓,bow,gōng,gōng
+1016,RSH1-L32,引,draw,yǐn,yǐn
+1017,RSH1-L32,弥,fill,mí,mí
+1018,RSH1-L32,强,strong,qiáng,qiáng|jiàng|qiǎng
+1019,RSH1-L32,弱,weak,ruò,ruò
+1020,RSH1-L32,单,list,dān,dān|chán|Shàn
+1021,RSH1-L32,弹,bullet,dàn,dàn|tán
+1022,RSH1-L32,费,expense,fèi,fèi
+1023,RSH1-L32,佛,Buddha,fó,fú|Fó
+1024,RSH1-L32,弟,younger brother,dì,dì|tì
+1025,RSH1-L32,第,No.,dì,dì
+1026,RSH1-L32,巧,adroit,qiǎo,qiǎo
+1027,RSH1-L32,号,appellation,hào,hào|háo
+1028,RSH1-L33,身,somebody,shēn,shēn
+1029,RSH1-L33,射,shoot,shè,shè
+1030,RSH1-L33,谢,thank,xiè,xiè
+1031,RSH1-L33,老,old man,lǎo,lǎo
+1032,RSH1-L33,考,take an exam,kǎo,kǎo
+1033,RSH1-L33,烤,roast,kǎo,kǎo
+1034,RSH1-L33,与,offer,yǔ,yǔ|yù|yú
+1035,RSH1-L33,写,write,xiě,xiě|xiè
+1036,RSH1-L33,泻,diarrhea,xiè,xiè
+1037,RSH1-L33,孝,filial piety,xiào,xiào
+1038,RSH1-L33,教,teach,jiāo,jiāo|jiào
+1039,RSH1-L33,者,someone,zhě,zhě
+1040,RSH1-L33,著,author,zhù,zhe|zháo|zhāo|zhuó|zhù
+1041,RSH1-L33,猪,pig,zhū,zhū
+1042,RSH1-L33,追,chase,zhuī,zhuī
+1043,RSH1-L33,官,bureaucrat,guān,guān
+1044,RSH1-L33,管,pipe,guǎn,guǎn
+1045,RSH1-L33,父,father,fù,fù|fǔ
+1046,RSH1-L33,交,mingle,jiāo,jiāo
+1047,RSH1-L33,效,effect,xiào,xiào
+1048,RSH1-L33,较,relatively,jiào,jiào|jiǎo
+1049,RSH1-L33,校,school,xiào,xiào|jiào
+1050,RSH1-L33,足,lower leg,zú,zú
+1051,RSH1-L33,跑,run,pǎo,pǎo|páo
+1052,RSH1-L33,跳,jump,tiào,tiào
+1053,RSH1-L33,路,path,lù,lù
+1054,RSH1-L33,露,dew,lù,lù|lòu
+1055,RSH1-L33,骨,skeleton,gǔ,gǔ|gū
+1056,RSH1-L33,滑,slippery,huá,huá
+1057,RSH1-L34,阿,Apollo,ā,ā|ē
+1058,RSH1-L34,啊,aah!,ā,a|ā|á|ǎ|à
+1059,RSH1-L34,随,as you wish,suí,suí
+1060,RSH1-L34,阳,Yang,yáng,yáng
+1061,RSH1-L34,阴,Yin,yīn,yīn
+1062,RSH1-L34,荫,shady,yìn,yìn|yīn
+1063,RSH1-L34,防,ward off,fáng,fáng
+1064,RSH1-L34,附,attach,fù,fù
+1065,RSH1-L34,际,occasion,jì,jì
+1066,RSH1-L34,阶,stairs,jiē,jiē
+1067,RSH1-L34,院,Inst.,yuàn,yuàn
+1068,RSH1-L34,阵,battle formation,zhèn,zhèn
+1069,RSH1-L34,队,team,duì,duì
+1070,RSH1-L34,坠,plunge,zhuì,zhuì
+1071,RSH1-L34,降,descend,jiàng,jiàng|xiáng
+1072,RSH1-L34,穴,hole,xué,xué
+1073,RSH1-L34,究,research,jiū,jiū
+1074,RSH1-L34,突,abruptly,tū,tū
+1075,RSH1-L34,空,empty,kōng,kōng|kòng
+1076,RSH1-L34,控,control,kòng,kòng
+1077,RSH1-L34,深,deep,shēn,shēn
+1078,RSH1-L34,探,spy,tàn,tàn
+1079,RSH1-L34,丘,hill,qiū,qiū
+1080,RSH1-L34,兵,troops,bīng,bīng
+1081,RSH1-L35,丝,silk,sī,sī
+1082,RSH1-L35,织,weave,zhī,zhī
+1083,RSH1-L35,线,line,xiàn,xiàn
+1084,RSH1-L35,维,maintain,wéi,wéi
+1085,RSH1-L35,统,continuum,tǒng,tǒng
+1086,RSH1-L35,给,give,gěi,gěi|jǐ
+1087,RSH1-L35,结,tie,jié,jié|jiē
+1088,RSH1-L35,终,end,zhōng,zhōng
+1089,RSH1-L35,级,rank,jí,jí
+1090,RSH1-L35,纪,epoch,jì,jì
+1091,RSH1-L35,红,red,hóng,hóng|gōng
+1092,RSH1-L35,约,make an appointment,yuē,yuē|yāo
+1093,RSH1-L35,细,fine,xì,xì
+1094,RSH1-L35,纵,vertical,zòng,zòng
+1095,RSH1-L35,绿,green,lǜ,lǜ|lù
+1096,RSH1-L35,经,scripture,jīng,jīng
+1097,RSH1-L35,轻,lightweight,qīng,qīng
+1098,RSH1-L35,续,continue,xù,xù
+1099,RSH1-L35,继,carry on,jì,jì
+1100,RSH1-L35,药,medicine,yào,yào
+1101,RSH1-L35,系,lineage,xì,xì|jì
+1102,RSH1-L35,紧,tight,jǐn,jǐn
+1103,RSH1-L36,却,withdraw,què,què
+1104,RSH1-L36,脚,foot,jiǎo,jiǎo|jué
+1105,RSH1-L36,服,apparel,fú,fú|fù
+1106,RSH1-L36,报,newspaper,bào,bào
+1107,RSH1-L36,命,fate,mìng,mìng
+1108,RSH1-L36,贸,trade,mào,mào
+1109,RSH1-L36,留,stay,liú,liú
+1110,RSH1-L36,溜,slide,liū,liū|liù
+1111,RSH1-L36,聊,chat,liáo,liáo
+1112,RSH1-L36,柳,willow,liǔ,liǔ
+1113,RSH1-L36,节,holiday,jié,jié|jiē
+1114,RSH1-L36,卫,defend,wèi,wèi
+1115,RSH1-L36,令,orders,lìng,lìng|líng|lǐng
+1116,RSH1-L36,冷,cold,lěng,lěng
+1117,RSH1-L36,零,zero,líng,líng|līng
+1118,RSH1-L36,领,collar,lǐng,lǐng
+1119,RSH1-L36,通,communicate,tōng,tōng|tòng
+1120,RSH1-L36,勇,courageous,yǒng,yǒng
+1121,RSH1-L36,仓,storehouse,cāng,cāng
+1122,RSH1-L36,枪,gun,qiāng,qiāng|chēng
+1123,RSH1-L36,创,initiate,chuàng,chuàng|chuāng
+1124,RSH1-L36,犯,criminal,fàn,fàn
+1125,RSH1-L36,危,danger,wēi,wēi
+1126,RSH1-L36,脆,fragile,cuì,cuì
+1127,RSH1-L36,印,print,yìn,yìn
+1128,RSH1-L37,酒,liquor,jiǔ,jiǔ
+1129,RSH1-L37,配,distribute,pèi,pèi
+1130,RSH1-L37,酋,chieftain,qiú,qiú
+1131,RSH1-L37,尊,venerate,zūn,zūn
+1132,RSH1-L37,遵,abide by,zūn,zūn
+1133,RSH1-L37,豆,beans,dòu,dòu
+1134,RSH1-L37,短,short,duǎn,duǎn
+1135,RSH1-L37,厨,kitchen,chú,chú
+1136,RSH1-L37,鼓,drum,gǔ,gǔ|gū
+1137,RSH1-L37,喜,joyful,xǐ,xǐ
+1138,RSH1-L37,血,blood,xuè,xuè|xiě
+1139,RSH1-L37,盖,lid,gài,gài
+1140,RSH1-L37,温,temperature,wēn,wēn
+1141,RSH1-L37,监,supervise,jiān,jiān|jiàn
+1142,RSH1-L37,篮,basket,lán,lán
+1143,RSH1-L37,蓝,blue,lán,lán
+1144,RSH1-L37,银,silver,yín,yín
+1145,RSH1-L37,跟,heel,gēn,gēn
+1146,RSH1-L37,很,very,hěn,hěn
+1147,RSH1-L37,根,root,gēn,gēn
+1148,RSH1-L37,即,immediately,jí,jí
+1149,RSH1-L37,退,retreat,tuì,tuì
+1150,RSH1-L37,腿,leg,tuǐ,tuǐ
+1151,RSH1-L37,限,limit,xiàn,xiàn
+1152,RSH1-L37,眼,eyelet,yǎn,yǎn
+1153,RSH1-L37,良,high-quality,liáng,liáng
+1154,RSH1-L37,浪,breakers,làng,làng
+1155,RSH1-L37,娘,mom,niáng,niáng
+1156,RSH1-L37,食,food,shí,shí|sì
+1157,RSH1-L37,饭,meal,fàn,fàn
+1158,RSH1-L37,餐,dine,cān,cān
+1159,RSH1-L37,馆,Bldg.,guǎn,guǎn
+1160,RSH1-L37,既,since,jì,jì
+1161,RSH1-L37,概,approximate,gài,gài
+1162,RSH1-L38,平,even,píng,píng
+1163,RSH1-L38,评,evaluate,píng,píng
+1164,RSH1-L38,坪,level ground,píng,píng
+1165,RSH1-L38,乎,ooh!,hū,hū
+1166,RSH1-L38,呼,shout,hū,hū
+1167,RSH1-L38,希,hope,xī,xī
+1168,RSH1-L38,稀,scarce,xī,xī
+1169,RSH1-L38,杀,kill,shā,shā
+1170,RSH1-L38,风,wind,fēng,fēng
+1171,RSH1-L38,讽,mock,fěng,fěng
+1172,RSH1-L38,冈,ridge of a hill,gāng,gāng
+1173,RSH1-L38,刚,just now,gāng,gāng
+1174,RSH1-L38,网,net,wǎng,wǎng
+1175,RSH1-L38,画,drawing,huà,huà
+1176,RSH1-L38,凶,cruel,xiōng,xiōng
+1177,RSH1-L38,胸,bosom,xiōng,xiōng
+1178,RSH1-L38,脑,brain,nǎo,nǎo
+1179,RSH1-L38,恼,annoyed,nǎo,nǎo
+1180,RSH1-L38,离,leave,lí,lí
+1181,RSH1-L38,禽,fowl,qín,qín
+1182,RSH1-L38,义,righteousness,yì,yì
+1183,RSH1-L38,议,deliberate,yì,yì
+1184,RSH1-L38,蚁,ant,yǐ,yǐ
+1185,RSH1-L38,辛,peppery,xīn,xīn
+1186,RSH1-L38,辩,dispute,biàn,biàn
+1187,RSH1-L38,辟,repudiate,pì,pì
+1188,RSH1-L38,壁,partition,bì,bì
+1189,RSH1-L38,避,evade,bì,bì
+1190,RSH1-L38,亲,relatives,qīn,qīn|qìng
+1191,RSH1-L38,新,new,xīn,xīn
+1192,RSH1-L38,薪,fuel,xīn,xīn
+1193,RSH1-L38,幸,good fortune,xìng,xìng
+1194,RSH1-L38,叫,call,jiào,jiào
+1195,RSH1-L38,收,receive,shōu,shōu
+1196,RSH1-L38,亥,sign of the hog,hài,hài
+1197,RSH1-L38,核,nucleus,hé,hé|hú
+1198,RSH1-L38,孩,tot,hái,hái
+1199,RSH1-L38,刻,carve,kè,kè
+1200,RSH1-L38,该,should,gāi,gāi
+1201,RSH1-L38,术,art,shù,shù|zhú
+1202,RSH1-L38,述,narrate,shù,shù
+1203,RSH1-L38,襄,aid,xiāng,xiāng
+1204,RSH1-L38,壤,territory,rǎng,rǎng
+1205,RSH1-L38,寒,frigid,hán,hán
+1206,RSH1-L38,赛,competition,sài,sài
+1207,RSH1-L39,毒,poison,dú,dú
+1208,RSH1-L39,麦,wheat,mài,mài
+1209,RSH1-L39,素,vegetarian diet,sù,sù
+1210,RSH1-L39,青,blue or green,qīng,qīng
+1211,RSH1-L39,精,refined,jīng,jīng
+1212,RSH1-L39,请,invite,qǐng,qǐng
+1213,RSH1-L39,情,feelings,qíng,qíng
+1214,RSH1-L39,睛,eyeball,jīng,jīng
+1215,RSH1-L39,清,pure,qīng,qīng
+1216,RSH1-L39,静,quiet,jìng,jìng
+1217,RSH1-L39,责,responsibility,zé,zé
+1218,RSH1-L39,绩,accomplishments,jì,jì
+1219,RSH1-L39,表,surface,biǎo,biǎo
+1220,RSH1-L39,生,life,shēng,shēng
+1221,RSH1-L39,星,star,xīng,xīng
+1222,RSH1-L39,姓,surname,xìng,xìng
+1223,RSH1-L39,性,sex,xìng,xìng
+1224,RSH1-L39,胜,victory,shèng,shèng
+1225,RSH1-L39,丰,plentiful,fēng,fēng
+1226,RSH1-L39,害,harm,hài,hài
+1227,RSH1-L39,割,cut off,gē,gē
+1228,RSH1-L39,慧,intelligent,huì,huì
+1229,RSH1-L39,韦,tanned hide,wéi,wéi
+1230,RSH1-L39,围,surround,wéi,wéi
+1231,RSH1-L39,伟,great,wěi,wěi
+1232,RSH1-L39,春,springtime,chūn,chūn
+1233,RSH1-L39,泰,tranquil,tài,tài
+1234,RSH1-L39,奉,proffer,fèng,fèng
+1235,RSH1-L39,棒,cudgel,bàng,bàng
+1236,RSH1-L39,击,beat,jī,jī
+1237,RSH1-L39,陆,land,lù,liù|lù
+1238,RSH1-L39,专,specialty,zhuān,zhuān
+1239,RSH1-L39,传,spread,chuán,chuán|zhuàn
+1240,RSH1-L39,转,rotate,zhuàn,zhuǎn|zhuàn|zhuǎi
+1241,RSH1-L39,勤,diligent,qín,qín
+1242,RSH1-L39,谨,careful,jǐn,jǐn
+1243,RSH1-L39,垂,droop,chuí,chuí
+1244,RSH1-L39,锤,hammer,chuí,chuí
+1245,RSH1-L39,睡,sleep,shuì,shuì
+1246,RSH1-L40,今,now,jīn,jīn
+1247,RSH1-L40,含,harbor,hán,hán
+1248,RSH1-L40,念,miss,niàn,niàn
+1249,RSH1-L40,东,east,dōng,dōng
+1250,RSH1-L40,栋,building,dòng,dòng
+1251,RSH1-L40,冻,freeze,dòng,dòng
+1252,RSH1-L40,陈,exhibit,chén,chén
+1253,RSH1-L40,练,practice,liàn,liàn
+1254,RSH1-L40,拣,opt for,jiǎn,jiǎn
+1255,RSH1-L40,西,west,xī,xī
+1256,RSH1-L40,要,want,yào,yào|yāo
+1257,RSH1-L40,腰,waist,yāo,yāo
+1258,RSH1-L40,票,ticket,piào,piào
+1259,RSH1-L40,漂,drift,piào,piǎo|piào|piāo
+1260,RSH1-L40,贾,merchant,gǔ,gǔ|Jiǎ
+1261,RSH1-L40,南,south,nán,nán|nā
+1262,RSH1-L41,门,gate,mén,mén
+1263,RSH1-L41,们,(plural),men,men
+1264,RSH1-L41,闲,leisure,xián,xián
+1265,RSH1-L41,问,ask,wèn,wèn
+1266,RSH1-L41,间,interval,jiàn,jiān|jiàn|gān
+1267,RSH1-L41,简,simple,jiǎn,jiǎn
+1268,RSH1-L41,闻,hear,wén,wén
+1269,RSH1-L41,非,non-,fēi,fēi
+1270,RSH1-L41,排,row,pái,pái|pǎi
+1271,RSH1-L41,罪,guilt,zuì,zuì
+1272,RSH1-L41,靠,lean on,kào,kào
+1273,RSH1-L41,侯,marquis,hóu,hóu
+1274,RSH1-L41,候,wait,hòu,hòu
+1275,RSH1-L41,决,decide,jué,jué
+1276,RSH1-L41,快,fast,kuài,kuài
+1277,RSH1-L41,块,lump,kuài,kuài
+1278,RSH1-L41,筷,chopsticks,kuài,kuài
+1279,RSH1-L42,干,dry,gān,gān|qián
+1280,RSH1-L42,岸,shore,àn,àn
+1281,RSH1-L42,旱,drought,hàn,hàn
+1282,RSH1-L42,赶,hurry,gǎn,gǎn
+1283,RSH1-L42,于,Yu,yú,yú|Yú
+1284,RSH1-L42,宇,eaves,yǔ,yǔ
+1285,RSH1-L42,余,excess,yú,yú|Yú
+1286,RSH1-L42,除,eliminate,chú,chú
+1287,RSH1-L42,途,route,tú,tú
+1288,RSH1-L42,束,bundle up,shù,shù
+1289,RSH1-L42,速,quick,sù,sù
+1290,RSH1-L42,辣,spicy hot,là,là|lā
+1291,RSH1-L42,整,entire,zhěng,zhěng
+1292,RSH1-L42,重,heavy,zhòng,zhòng|chóng
+1293,RSH1-L42,懂,understand,dǒng,dǒng
+1294,RSH1-L43,病,illness,bìng,bìng
+1295,RSH1-L43,痛,ache,tòng,tòng
+1296,RSH1-L43,疯,insane,fēng,fēng
+1297,RSH1-L43,区,region,qū,qū|Ōu
+1298,RSH1-L43,枢,hub,shū,shū
+1299,RSH1-L43,欧,Europe,ōu,Ōu
+1300,RSH1-L43,医,physician,yī,yī
+1301,RSH1-L43,仰,look up to,yǎng,yǎng
+1302,RSH1-L43,迎,greet,yíng,yíng
+1303,RSH1-L43,登,ascend,dēng,dēng
+1304,RSH1-L43,发,send out,fā,fā
+1305,RSH1-L43,废,discard,fèi,fèi
+1306,RSH1-L44,形,shape,xíng,xíng
+1307,RSH1-L44,影,shadow,yǐng,yǐng
+1308,RSH1-L44,彩,hue,cǎi,cǎi
+1309,RSH1-L44,须,have to,xū,xū
+1310,RSH1-L44,参,participate,cān,cān|cēn|shēn
+1311,RSH1-L44,惨,wretched,cǎn,cǎn
+1312,RSH1-L44,修,repair,xiū,xiū
+1313,RSH1-L44,珍,rare,zhēn,zhēn
+1314,RSH1-L44,产,products,chǎn,chǎn
+1315,RSH1-L44,彦,erudite,yàn,yàn
+1316,RSH1-L44,颜,countenance,yán,yán
+1317,RSH1-L44,文,literature,wén,wén
+1318,RSH1-L44,蚊,mosquito,wén,wén
+1319,RSH1-L44,这,this,zhè,zhè
+1320,RSH1-L44,齐,identical,qí,qí|zī|zhāi
+1321,RSH1-L44,济,relieve,jì,jǐ|jì
+1322,RSH1-L44,率,rate,shuài,lǜ|shuài
+1323,RSH1-L44,摔,tumble,shuāi,shuāi
+1324,RSH1-L44,央,center,yāng,yāng
+1325,RSH1-L44,英,England,yīng,yīng
+1326,RSH1-L44,唤,call out,huàn,huàn
+1327,RSH1-L44,换,exchange,huàn,huàn
+1328,RSH1-L44,巴,crust,bā,bā|bà
+1329,RSH1-L44,把,grasp,bǎ,bǎ|bà
+1330,RSH1-L44,爸,papa,bà,bà
+1331,RSH1-L44,吧,bar,bā,ba|bā
+1332,RSH1-L44,色,color,sè,sè|shǎi
+1333,RSH1-L44,绝,discontinue,jué,jué
+1334,RSH1-L44,艳,gorgeous,yàn,yàn
+1335,RSH1-L45,甘,sweet,gān,gān
+1336,RSH1-L45,某,such and such,mǒu,mǒu
+1337,RSH1-L45,其,his-hers-its-theirs,qí,qí|jī
+1338,RSH1-L45,期,period of time,qī,qī|jī
+1339,RSH1-L45,基,base,jī,jī
+1340,RSH1-L45,甚,tremendously,shèn,shèn|shén
+1341,RSH1-L45,斯,Sphinx,sī,sī
+1342,RSH1-L45,贵,expensive,guì,guì
+1343,RSH1-L45,遗,bequeath,yí,yí|wèi
+1344,RSH1-L45,舞,dance,wǔ,wǔ
+1345,RSH1-L46,且,moreover,qiě,qiě
+1346,RSH1-L46,姐,older sister,jiě,jiě
+1347,RSH1-L46,组,group,zǔ,zǔ
+1348,RSH1-L46,祖,ancestor,zǔ,zǔ
+1349,RSH1-L46,助,assist,zhù,zhù
+1350,RSH1-L46,普,universal,pǔ,pǔ
+1351,RSH1-L46,业,profession,yè,yè
+1352,RSH1-L46,显,obvious,xiǎn,xiǎn
+1353,RSH1-L46,亚,Asia,yà,yà
+1354,RSH1-L46,恶,evil,è,è|ě|wù
+1355,RSH1-L46,严,strict,yán,yán
+1356,RSH1-L46,共,together,gòng,gòng
+1357,RSH1-L46,供,supply,gōng,gōng|gòng
+1358,RSH1-L46,巷,lane,xiàng,xiàng|hàng
+1359,RSH1-L46,港,port,gǎng,gǎng
+1360,RSH1-L47,井,well,jǐng,jǐng
+1361,RSH1-L47,讲,lecture,jiǎng,jiǎng
+1362,RSH1-L47,进,advance,jìn,jìn
+1363,RSH1-L47,角,angle,jiǎo,jiǎo|jué
+1364,RSH1-L47,解,untie,jiě,jiě|jiè|xiè
+1365,RSH1-L47,嘴,orifice,zuǐ,zuǐ
+1366,RSH1-L47,再,once more,zài,zài
+1367,RSH1-L47,扁,flat,biǎn,biǎn|piān
+1368,RSH1-L47,篇,piece of writing,piān,piān
+1369,RSH1-L47,编,compile,biān,biān
+1370,RSH1-L47,典,canon,diǎn,diǎn
+1371,RSH1-L48,氏,family name,shì,shì|zhī
+1372,RSH1-L48,纸,paper,zhǐ,zhǐ
+1373,RSH1-L48,昏,dusk,hūn,hūn
+1374,RSH1-L48,婚,marriage,hūn,hūn
+1375,RSH1-L48,低,low,dī,dī
+1376,RSH1-L48,底,bottom,dǐ,dǐ
+1377,RSH1-L48,民,people,mín,mín
+1378,RSH1-L48,眠,slumber,mián,mián
+1379,RSH1-L48,甫,Fu,fǔ,fǔ
+1380,RSH1-L48,辅,supplement,fǔ,fǔ
+1381,RSH1-L48,博,knowledgeable,bó,bó
+1382,RSH1-L48,搏,wrestle,bó,bó
+1383,RSH1-L48,都,metropolis,dū,dōu
+1384,RSH1-L48,部,department,bù,bù
+1385,RSH1-L48,郎,young man,láng,láng|làng
+1386,RSH1-L48,帮,help,bāng,bāng
+1387,RSH1-L48,乡,countryside,xiāng,xiāng
+1388,RSH1-L49,段,section,duàn,duàn
+1389,RSH1-L49,锻,forge,duàn,duàn
+1390,RSH1-L49,幻,unreal,huàn,huàn
+1391,RSH1-L49,司,take charge of,sī,sī
+1392,RSH1-L49,词,word,cí,cí
+1393,RSH1-L49,书,book,shū,shū
+1394,RSH1-L49,舟,boat,zhōu,zhōu
+1395,RSH1-L49,船,ship,chuán,chuán
+1396,RSH1-L49,般,sort,bān,bān|pán|bō
+1397,RSH1-L49,盘,tray,pán,pán
+1398,RSH1-L49,搬,relocate,bān,bān
+1399,RSH1-L49,瓜,melon,guā,guā
+1400,RSH1-L49,孤,orphan,gū,gū
+1401,RSH1-L50,益,benefit,yì,yì
+1402,RSH1-L50,假,vacation,jià,jiǎ|jià
+1403,RSH1-L50,暇,spare time,xiá,xiá
+1404,RSH1-L50,气,air,qì,qì
+1405,RSH1-L50,汽,vapor,qì,qì
+1406,RSH1-L50,面,face-to-face,miàn,miàn
+1407,RSH1-L50,革,leather,gé,gé|jí
+1408,RSH1-L50,鞋,shoes,xié,xié
+1409,RSH1-L50,勒,tighten,lēi,lēi|lè
+1410,RSH1-L50,馨,fragrant,xīn,xīn
+1411,RSH1-L50,声,voice,shēng,shēng
+1412,RSH1-L50,承,undertake,chéng,chéng
+1413,RSH1-L50,蒸,steam,zhēng,zhēng
+1414,RSH1-L51,牙,tooth,yá,yá
+1415,RSH1-L51,穿,pass through,chuān,chuān
+1416,RSH1-L51,呀,wow!,ya,ya|yā
+1417,RSH1-L51,释,explain,shì,shì
+1418,RSH1-L51,番,try,fān,fān|Pān
+1419,RSH1-L51,翻,turn over,fān,fān
+1420,RSH1-L51,播,broadcast,bō,bō
+1421,RSH1-L51,毛,fur,máo,máo
+1422,RSH1-L51,尾,tail,wěi,wěi|yǐ
+1423,RSH1-L51,笔,pen,bǐ,bǐ
+1424,RSH1-L51,托,entrust,tuō,tuō
+1425,RSH1-L51,宅,dwelling,zhái,zhái
+1426,RSH1-L51,展,unfold,zhǎn,zhǎn
+1427,RSH1-L51,丧,funeral,sàng,sāng|sàng
+1428,RSH1-L51,长,long,cháng,cháng|zhǎng
+1429,RSH1-L51,张,stretch,zhāng,zhāng
+1430,RSH1-L51,涨,swell,zhàng,zhǎng|zhàng
+1431,RSH1-L52,雁,wild goose,yàn,yàn
+1432,RSH1-L52,应,ought to,yīng,yīng|yìng
+1433,RSH1-L52,兴,excitement,xìng,xīng|xìng
+1434,RSH1-L52,举,lift up,jǔ,jǔ
+1435,RSH1-L52,检,examine,jiǎn,jiǎn
+1436,RSH1-L52,脸,face,liǎn,liǎn
+1437,RSH1-L52,险,perilous,xiǎn,xiǎn
+1438,RSH1-L52,鸟,bird,niǎo,niǎo|diǎo
+1439,RSH1-L52,鸡,chicken,jī,jī
+1440,RSH1-L52,鹰,hawk,yīng,yīng
+1441,RSH1-L52,鸭,duck,yā,yā
+1442,RSH1-L52,岛,island,dǎo,dǎo
+1443,RSH1-L52,遇,encounter,yù,yù
+1444,RSH1-L52,缺,deficient,quē,quē
+1445,RSH1-L52,遥,remote,yáo,yáo
+1446,RSH1-L52,摇,shake,yáo,yáo
+1447,RSH1-L52,兔,rabbit,tù,tù
+1448,RSH1-L52,逸,flee,yì,yì
+1449,RSH1-L52,免,avoid,miǎn,miǎn
+1450,RSH1-L52,晚,nightfall,wǎn,wǎn
+1451,RSH1-L52,象,elephant,xiàng,xiàng
+1452,RSH1-L52,像,likeness,xiàng,xiàng
+1453,RSH1-L53,马,horse,mǎ,mǎ
+1454,RSH1-L53,妈,mama,mā,mā
+1455,RSH1-L53,吗,yes or no,ma,ma
+1456,RSH1-L53,骂,scold,mà,mà
+1457,RSH1-L53,验,check,yàn,yàn
+1458,RSH1-L53,骑,ride,qí,qí|jì
+1459,RSH1-L53,虎,tiger,hǔ,hǔ|hū|hù
+1460,RSH1-L53,虑,ponder,lǜ,lǜ
+1461,RSH1-L53,虚,false,xū,xū
+1462,RSH1-L53,鹿,deer,lù,lù
+1463,RSH1-L53,熊,bear,xióng,xióng
+1464,RSH1-L53,能,ability,néng,néng
+1465,RSH1-L54,寅,sign of the tiger,yín,yín
+1466,RSH1-L54,演,perform,yǎn,yǎn
+1467,RSH1-L54,辰,sign of the dragon,chén,chén
+1468,RSH1-L54,晨,morning,chén,chén
+1469,RSH1-L54,关,shut,guān,guān
+1470,RSH1-L54,送,deliver,sòng,sòng
+1471,RSH1-L54,联,unite,lián,lián
+1472,RSH1-L54,鬼,ghost,guǐ,guǐ
+1473,RSH1-L54,魔,demon,mó,mó
+1474,RSH1-L54,龙,dragon,lóng,lóng
+1475,RSH1-L54,袭,raid,xí,xí
+1476,RSH1-L55,那,that,nà,nà
+1477,RSH1-L55,哪,which?,nǎ,nǎ|na|něi|Né
+1478,RSH1-L55,两,dos,liǎng,liǎng
+1479,RSH1-L55,俩,duo,liǎ,liǎ|liǎng
+1480,RSH1-L55,满,full,mǎn,mǎn
+1481,RSH1-L55,县,county,xiàn,xiàn
+1482,RSH1-L55,悬,suspend,xuán,xuán
+1483,RSH1-L55,窗,window,chuāng,chuāng
+1484,RSH1-L55,电,electricity,diàn,diàn
+1485,RSH1-L55,掩,conceal,yǎn,yǎn
+1486,RSH1-L55,丑,clown,chǒu,chǒu
+1487,RSH1-L55,扭,twist,niǔ,niǔ|niū
+1488,RSH1-L55,黄,yellow,huáng,huáng
+1489,RSH1-L55,横,horizontal,héng,héng|hèng
+1490,RSH1-L55,赤,crimson,chì,chì
+1491,RSH1-L55,亦,likewise,yì,yì
+1492,RSH1-L55,弯,curved,wān,wān
+1493,RSH1-L55,湾,bay,wān,wān
+1494,RSH1-L55,恋,be enamored of,liàn,liàn
+1495,RSH1-L55,变,change,biàn,biàn
+1496,RSH1-L55,卑,lowly,bēi,bēi
+1497,RSH1-L55,牌,brand,pái,pái
+1498,RSH1-L55,套,cover,tào,tào
+1499,RSH1-L55,曰,sayeth,yuē,yuē
+1500,RSH1-L55,属,belong to,shǔ,shǔ|zhǔ
+1501,RSH2-L01,叭,trumpet,bā,ba|bā
+1502,RSH2-L02,咕,mutter,gū,gū
+1503,RSH2-L02,胆,gall bladder,dǎn,dǎn
+1504,RSH2-L03,咱,we (inclusive),zán,zán
+1505,RSH2-L03,肿,swollen,zhǒng,zhǒng
+1506,RSH2-L03,串,string together,chuàn,chuàn
+1507,RSH2-L03,吓,terrify,xià,xià|hè
+1508,RSH2-L03,罩,overspread,zhào,zhào
+1509,RSH2-L04,兽,beast,shòu,shòu
+1510,RSH2-L04,嚣,hubbub,xiāo,xiāo
+1511,RSH2-L05,矗,stand straight,chù,chù
+1512,RSH2-L05,颠,invert,diān,diān
+1513,RSH2-L05,巩,strengthen,gǒng,gǒng
+1514,RSH2-L05,叨,talkative,dāo,dāo|tāo
+1515,RSH2-L05,刮,scrape,guā,guā|kā
+1516,RSH2-L05,盯,stare at,dīng,dīng
+1517,RSH2-L05,呵,rebuke,hē,hē
+1518,RSH2-L06,姑,father's sister,gū,gū
+1519,RSH2-L06,婴,baby,yīng,yīng
+1520,RSH2-L06,姆,nanny,mǔ,mǔ
+1521,RSH2-L06,兢,cautious,jīng,jīng
+1522,RSH2-L07,奋,exert oneself,fèn,fèn
+1523,RSH2-L07,夹,press from both sides,jiā,jiā|jiá|gā
+1524,RSH2-L07,颊,cheek,jiá,jiá
+1525,RSH2-L07,厕,toilet,cè,cè|si
+1526,RSH2-L07,硕,big,shuò,shuò
+1527,RSH2-L07,砌,lay brick,qì,qì|qiè
+1528,RSH2-L07,哨,whistle,shào,shào
+1529,RSH2-L07,晃,sway,huàng,huàng|huǎng
+1530,RSH2-L08,泪,tears,lèi,lèi
+1531,RSH2-L08,泄,discharge,xiè,xiè|yì
+1532,RSH2-L08,泊,moor,bó,pō|bó
+1533,RSH2-L08,沾,soak,zhān,zhān
+1534,RSH2-L08,渺,insignificant,miǎo,miǎo
+1535,RSH2-L08,汰,get rid of,tài,tài
+1536,RSH2-L08,咏,chant,yǒng,yǒng
+1537,RSH2-L08,腺,gland,xiàn,xiàn
+1538,RSH2-L08,鲁,Lu,lǔ,lǔ
+1539,RSH2-L08,坦,level,tǎn,tǎn
+1540,RSH2-L08,坝,dam,bà,bà
+1541,RSH2-L08,涯,bank,yá,yá
+1542,RSH2-L08,娃,newborn,wá,wá
+1543,RSH2-L08,肘,elbow,zhǒu,zhǒu
+1544,RSH2-L08,碍,obstruct,ài,ài
+1545,RSH2-L08,夺,take by force,duó,duó
+1546,RSH2-L08,灼,scorch,zhuó,zhuó
+1547,RSH2-L08,炒,stir-fry,chǎo,chǎo
+1548,RSH2-L08,灶,cooking stove,zào,zào
+1549,RSH2-L09,哩,mile,lǐ,li|lǐ|lī
+1550,RSH2-L09,厘,smidgen,lí,xǐ|lí
+1551,RSH2-L09,鲤,carp,lǐ,lǐ
+1552,RSH2-L09,嘿,Hey!,hēi,hēi
+1553,RSH2-L09,熏,treat with smoke,xūn,xūn|xùn
+1554,RSH2-L09,丹,cinnabar red,dān,dān
+1555,RSH2-L09,炯,shining,jiǒng,jiǒng
+1556,RSH2-L09,晌,part of the day,shǎng,shǎng
+1557,RSH2-L09,淌,trickle,tǎng,tǎng
+1558,RSH2-L09,宁,calm,níng,níng|nìng
+1559,RSH2-L09,寡,widowed,guǎ,guǎ
+1560,RSH2-L09,喧,boisterous,xuān,xuān
+1561,RSH2-L10,棚,shed,péng,péng
+1562,RSH2-L10,柏,cypress,bǎi,bǎi|bó|bò
+1563,RSH2-L10,朴,plain,pǔ,pǔ
+1564,RSH2-L10,朵,flouds,duǒ,duǒ
+1565,RSH2-L10,杠,thick stick,gàng,gàng
+1566,RSH2-L10,椅,chair,yǐ,yǐ
+1567,RSH2-L10,樱,cherry,yīng,yīng
+1568,RSH2-L10,梢,treetops,shāo,shāo
+1569,RSH2-L10,杜,prevent,dù,dù
+1570,RSH2-L10,杰,outstanding,jié,jié
+1571,RSH2-L10,桐,paulownia,tóng,tóng
+1572,RSH2-L10,宋,Song Dynasty,sòng,Sòng
+1573,RSH2-L10,桂,cassia-bark tree,guì,guì
+1574,RSH2-L10,淋,drench,lín,lín|līn|lìn
+1575,RSH2-L10,焚,burn,fén,fén
+1576,RSH2-L10,厢,side room,xiāng,xiāng
+1577,RSH2-L10,昧,obscure,mèi,mèi
+1578,RSH2-L10,朱,vermillion,zhū,zhū
+1579,RSH2-L10,株,tree trunk,zhū,zhū
+1580,RSH2-L10,萌,bud,méng,méng
+1581,RSH2-L10,苟,careless,gǒu,gǒu
+1582,RSH2-L10,苛,exacting,kē,kē
+1583,RSH2-L10,萝,edible root,luó,luó
+1584,RSH2-L10,膜,membrane,mó,mó
+1585,RSH2-L10,暮,sunset,mù,mù
+1586,RSH2-L10,寞,solitary,mò,mò
+1587,RSH2-L11,猫,cat,māo,māo|máo
+1588,RSH2-L11,狭,narrow,xiá,xiá
+1589,RSH2-L11,狸,raccoon dog,lí,lí
+1590,RSH2-L11,犹,just like,yóu,yóu
+1591,RSH2-L11,燃,ignite,rán,rán
+1592,RSH2-L11,咒,curse,zhòu,zhòu
+1593,RSH2-L11,嗅,sniff,xiù,xiù
+1594,RSH2-L11,牢,jail,láo,láo
+1595,RSH2-L11,牡,dude,mǔ,mǔ
+1596,RSH2-L11,宪,constitution,xiàn,xiàn
+1597,RSH2-L11,赞,succor,zàn,zàn
+1598,RSH2-L12,伞,umbrella,sǎn,sǎn
+1599,RSH2-L12,舍,abode,shè,shě|shè
+1600,RSH2-L12,啥,wha?,shá,shá|shà
+1601,RSH2-L12,洽,in agreement,qià,qià
+1602,RSH2-L12,旺,thriving,wàng,wàng
+1603,RSH2-L12,碧,green jade,bì,bì
+1604,RSH2-L12,琐,trivial,suǒ,suǒ
+1605,RSH2-L12,汪,tearful,wāng,wāng
+1606,RSH2-L12,枉,crooked,wǎng,wǎng
+1607,RSH2-L12,珠,pearl,zhū,zhū
+1608,RSH2-L12,噩,shocking,è,è
+1609,RSH2-L12,栓,plug,shuān,shuān
+1610,RSH2-L12,柱,pillar,zhù,zhù
+1611,RSH2-L12,钥,key,yào,yào|yuè
+1612,RSH2-L12,钻,drill,zuān,zuān|zuàn
+1613,RSH2-L12,钞,paper money,chāo,chāo
+1614,RSH2-L12,锁,lock,suǒ,suǒ
+1615,RSH2-L12,销,put up for sale,xiāo,xiāo
+1616,RSH2-L12,锣,gong,luó,luó
+1617,RSH2-L13,迫,compel,pò,pò|pǎi
+1618,RSH2-L13,迁,resituate,qiān,qiān
+1619,RSH2-L13,逼,press,bī,bī
+1620,RSH2-L13,辽,far away,liáo,liáo
+1621,RSH2-L13,逻,make the rounds,luó,luó
+1622,RSH2-L13,逞,flaunt,chěng,chěng
+1623,RSH2-L13,轨,rails,guǐ,guǐ
+1624,RSH2-L13,轧,flatten,yà,yà|zhá|gá
+1625,RSH2-L13,辐,spokes,fú,fú
+1626,RSH2-L13,链,chain,liàn,liàn|jiàn
+1627,RSH2-L13,煎,saute,jiān,jiān
+1628,RSH2-L13,喻,figure of speech,yù,yù
+1629,RSH2-L13,榆,elm,yú,yú
+1630,RSH2-L13,胳,upper limb,gē,gē|gé|gā
+1631,RSH2-L13,厦,skyscraper,shà,shà|Xià
+1632,RSH2-L14,牵,lead along,qiān,qiān
+1633,RSH2-L14,浑,muddled,hún,hún
+1634,RSH2-L14,晕,dizzy,yūn,yūn|yùn
+1635,RSH2-L14,炕,brick-heated bed,kàng,kàng
+1636,RSH2-L14,膏,ointment,gāo,gāo|gào
+1637,RSH2-L14,淳,honest,chún,chún
+1638,RSH2-L14,亨,go smoothly,hēng,hēng
+1639,RSH2-L14,哼,hum,hēng,hēng|hng
+1640,RSH2-L14,鲸,whale,jīng,jīng
+1641,RSH2-L14,壳,shell,ké,ké|qiào
+1642,RSH2-L14,洁,spotless,jié,jié
+1643,RSH2-L15,枚,small objects,méi,méi
+1644,RSH2-L15,牧,herd,mù,mù
+1645,RSH2-L15,玫,rose,méi,méi
+1646,RSH2-L15,敦,candid,dūn,dūn|Dūn|duì
+1647,RSH2-L15,墩,mound,dūn,dūn
+1648,RSH2-L15,瞻,look upward,zhān,zhān
+1649,RSH2-L15,谓,meaning,wèi,wèi
+1650,RSH2-L15,询,inquire,xún,xún
+1651,RSH2-L15,讥,deride,jī,jī
+1652,RSH2-L15,罚,penalize,fá,fá
+1653,RSH2-L15,订,place an order,dìng,dìng
+1654,RSH2-L15,谅,forgive,liàng,liàng
+1655,RSH2-L15,诺,promise,nuò,nuò
+1656,RSH2-L15,讯,interrogate,xùn,xùn
+1657,RSH2-L16,谍,espionage,dié,dié
+1658,RSH2-L16,碟,saucer,dié,dié
+1659,RSH2-L16,贰,II,èr,èr
+1660,RSH2-L16,腻,sick and tired of,nì,nì
+1661,RSH2-L16,嘎,caw,gā,gā|gá|gǎ
+1662,RSH2-L16,域,domain,yù,yù
+1663,RSH2-L16,栽,sow,zāi,zāi
+1664,RSH2-L16,戚,kin,qī,qī
+1665,RSH2-L16,蔑,despise,miè,miè
+1666,RSH2-L16,喊,yell,hǎn,hǎn
+1667,RSH2-L16,溅,splatter,jiàn,jiàn
+1668,RSH2-L16,浇,sprinkle,jiāo,jiāo
+1669,RSH2-L17,涩,astringent,sè,sè
+1670,RSH2-L17,址,address,zhǐ,zhǐ
+1671,RSH2-L17,赴,go to,fù,fù
+1672,RSH2-L17,趟,trip,tàng,tàng|tāng
+1673,RSH2-L17,堤,dike,dī,dī
+1674,RSH2-L17,津,Tianjin,jīn,jīn
+1675,RSH2-L17,键,keyboard keys,jiàn,jiàn
+1676,RSH2-L17,婿,son-in-law,xù,xù
+1677,RSH2-L18,袜,socks,wà,wà
+1678,RSH2-L18,衰,decline,shuāi,shuāi|cuī
+1679,RSH2-L18,衷,innermost feelings,zhōng,zhōng
+1680,RSH2-L18,猿,ape,yuán,yuán
+1681,RSH2-L18,吊,dangle,diào,diào
+1682,RSH2-L18,币,currency,bì,bì
+1683,RSH2-L18,帕,handkerchief,pà,pà
+1684,RSH2-L18,帖,note,tiě,tiē|tiě|tiè
+1685,RSH2-L18,帆,sail,fān,fān
+1686,RSH2-L18,幅,width of cloth,fú,fú
+1687,RSH2-L18,锦,brocade,jǐn,jǐn
+1688,RSH2-L18,沛,copious,pèi,pèi
+1689,RSH2-L18,柿,persimmon,shì,shì
+1690,RSH2-L18,棘,thorn bushes,jí,jí
+1691,RSH2-L18,蕾,flower bud,lěi,lěi
+1692,RSH2-L18,尝,taste,cháng,cháng
+1693,RSH2-L18,坛,altar,tán,tán
+1694,RSH2-L18,枣,jujube,zǎo,zǎo
+1695,RSH2-L18,吞,gulp down,tūn,tūn
+1696,RSH2-L18,妖,bewitching,yāo,yāo
+1697,RSH2-L18,沃,fertile,wò,wò
+1698,RSH2-L18,袄,short Chinese-style coat,ǎo,ǎo
+1699,RSH2-L18,轿,sedan chair,jiào,jiào
+1700,RSH2-L18,垃,garbage,lā,lā|lè
+1701,RSH2-L18,啼,weep aloud,tí,tí
+1702,RSH2-L18,蒂,fruit stem,dì,dì
+1703,RSH2-L18,顷,100 Chinese acres,qǐng,qǐng
+1704,RSH2-L18,匙,spoon,chí,shi|chí
+1705,RSH2-L18,乖,well-behaved,guāi,guāi
+1706,RSH2-L18,乘,hitch a ride,chéng,chéng|shèng
+1707,RSH2-L18,剩,leftover,shèng,shèng
+1708,RSH2-L18,毕,complete,bì,bì
+1709,RSH2-L18,棍,club,gùn,gùn
+1710,RSH2-L18,谐,in accord,xié,xié
+1711,RSH2-L18,柴,firewood,chái,chái
+1712,RSH2-L18,沦,sink,lún,lún
+1713,RSH2-L18,敏,quick-witted,mǐn,mǐn
+1714,RSH2-L18,霉,mildew,méi,méi
+1715,RSH2-L18,迄,so far,qì,qì
+1716,RSH2-L18,砍,chop,kǎn,kǎn
+1717,RSH2-L18,坎,hump,kǎn,kǎn
+1718,RSH2-L18,炊,cook,chuī,chuī
+1719,RSH2-L18,钦,think highly of,qīn,qīn
+1720,RSH2-L19,剖,cut open,pōu,pōu
+1721,RSH2-L19,菩,bodhisattva,pú,pú
+1722,RSH2-L19,黯,tenebrous,àn,àn
+1723,RSH2-L19,赢,win,yíng,yíng
+1724,RSH2-L19,芒,mango,máng,máng
+1725,RSH2-L19,荒,wasteland,huāng,huāng
+1726,RSH2-L19,谎,lie,huǎng,huǎng
+1727,RSH2-L19,茫,boundless,máng,máng
+1728,RSH2-L19,坊,workshop,fáng,fāng|fáng
+1729,RSH2-L19,芳,aromatic,fāng,fāng
+1730,RSH2-L19,访,call on,fǎng,fǎng
+1731,RSH2-L19,淤,silt,yū,yū
+1732,RSH2-L19,熬,stew,áo,áo|āo
+1733,RSH2-L19,膀,upper arm,bǎng,bǎng|páng|pāng
+1734,RSH2-L19,磅,pound,bàng,bàng|páng|bāng
+1735,RSH2-L19,榜,roster,bǎng,bǎng|bàng
+1736,RSH2-L19,锐,sharp,ruì,ruì
+1737,RSH2-L20,虹,rainbow,hóng,hóng|jiàng
+1738,RSH2-L20,蝠,bat,fú,fú
+1739,RSH2-L20,浊,turbid,zhuó,zhuó
+1740,RSH2-L20,蝗,locust,huáng,huáng
+1741,RSH2-L20,蛙,frog,wā,wā
+1742,RSH2-L20,烛,candle,zhú,zhú
+1743,RSH2-L20,茧,cocoon,jiǎn,jiǎn
+1744,RSH2-L20,蚕,silkworm,cán,cán
+1745,RSH2-L20,胞,placenta,bāo,bāo
+1746,RSH2-L20,炮,cannon,pào,pào|báo|pū
+1747,RSH2-L20,袍,robe,páo,páo
+1748,RSH2-L20,雹,hail,báo,báo
+1749,RSH2-L20,豪,unrestrained,háo,háo
+1750,RSH2-L20,啄,peck,zhuó,zhuó
+1751,RSH2-L20,琢,chisel,zhuó,zhuó|zuó
+1752,RSH2-L20,遂,satisfy,suì,suí|suì
+1753,RSH2-L20,嫁,marry,jià,jià
+1754,RSH2-L20,肠,intestines,cháng,cháng
+1755,RSH2-L20,杨,poplar,yáng,yáng
+1756,RSH2-L20,烫,scald,tàng,tàng
+1757,RSH2-L20,荡,licentious,dàng,dàng
+1758,RSH2-L20,姜,ginger,jiāng,jiāng
+1759,RSH2-L20,详,detailed,xiáng,xiáng
+1760,RSH2-L20,羡,envy,xiàn,xiàn
+1761,RSH2-L20,栏,railing,lán,lán
+1762,RSH2-L20,拦,impede,lán,lán
+1763,RSH2-L20,唯,solely,wéi,wéi|wěi
+1764,RSH2-L20,雀,sparrow,què,qiāo|què|qiǎo
+1765,RSH2-L20,堆,pile,duī,duī|zuī
+1766,RSH2-L20,雕,sculpture,diāo,diāo
+1767,RSH2-L20,截,lop off,jié,jié
+1768,RSH2-L20,霍,all at once,huò,huò
+1769,RSH2-L20,雌,feminine,cí,cí
+1770,RSH2-L20,焦,apprehensive,jiāo,jiāo
+1771,RSH2-L20,瞧,lay eyes on,qiáo,qiáo
+1772,RSH2-L20,礁,reef,jiāo,jiāo
+1773,RSH2-L20,蕉,banana,jiāo,jiāo
+1774,RSH2-L20,翘,turn upward,qiào,qiào|qiáo
+1775,RSH2-L20,塌,fall down,tā,tā
+1776,RSH2-L20,翰,writing brush,hàn,hàn
+1777,RSH2-L20,耀,show off,yào,yào
+1778,RSH2-L20,戳,jab,chuō,chuō
+1779,RSH2-L21,咽,throat,yān,yàn|yān|yè
+1780,RSH2-L21,姻,in-law,yīn,yīn
+1781,RSH2-L21,墙,wall,qiáng,qiáng
+1782,RSH2-L21,旷,expansive,kuàng,kuàng
+1783,RSH2-L21,矿,mine,kuàng,kuàng
+1784,RSH2-L21,庆,celebrate,qìng,qìng
+1785,RSH2-L21,嘛,(pause marker),ma,ma|má
+1786,RSH2-L21,磨,grind,mó,mó|mò
+1787,RSH2-L21,脏,dirty,zàng,zàng
+1788,RSH2-L21,赃,stolen goods,zāng,zāng
+1789,RSH2-L21,桩,stake,zhuāng,zhuāng
+1790,RSH2-L21,忠,loyal,zhōng,zhōng
+1791,RSH2-L21,恕,pardon,shù,shù
+1792,RSH2-L21,惑,be bewildered,huò,huò
+1793,RSH2-L21,愈,more and more,yù,yù
+1794,RSH2-L21,惠,favor,huì,huì
+1795,RSH2-L21,忌,shun,jì,jì
+1796,RSH2-L21,患,troubles,huàn,huàn
+1797,RSH2-L21,惹,provoke,rě,rě
+1798,RSH2-L21,恒,permanent,héng,héng
+1799,RSH2-L21,悟,realize,wù,wù
+1800,RSH2-L21,悼,mourn,dào,dào
+1801,RSH2-L21,惧,be frightened,jù,jù
+1802,RSH2-L21,慎,prudent,shèn,shèn
+1803,RSH2-L21,惰,indolent,duò,duò
+1804,RSH2-L21,恢,immense,huī,huī
+1805,RSH2-L21,惶,fearful,huáng,huáng
+1806,RSH2-L21,忆,recall,yì,yì
+1807,RSH2-L21,悄,noiseless,qiǎo,qiāo|qiǎo
+1808,RSH2-L21,恍,all of a sudden,huǎng,huǎng
+1809,RSH2-L21,恰,just right,qià,qià
+1810,RSH2-L21,愉,overjoyed,yú,yú
+1811,RSH2-L21,怔,terror-stricken,zhèng,zhèng|zhēng
+1812,RSH2-L21,怖,be scared of,bù,bù
+1813,RSH2-L21,慌,nervous,huāng,huāng
+1814,RSH2-L21,愣,dumbfounded,shǎ,shǎ
+1815,RSH2-L21,悦,delighted,yuè,yuè
+1816,RSH2-L21,憎,loathe,zēng,zēng
+1817,RSH2-L21,惟,thinking,wéi,wéi
+1818,RSH2-L21,悔,be sorry about,huǐ,huǐ
+1819,RSH2-L21,慕,admire,mù,mù
+1820,RSH2-L21,添,augment,tiān,tiān
+1821,RSH2-L21,媳,daughter-in-law,xí,xí
+1822,RSH2-L21,熄,put out,xī,xī
+1823,RSH2-L21,泌,secrete,mì,mì
+1824,RSH2-L21,瑟,Chinese harp,sè,sè
+1825,RSH2-L21,蜜,honey,mì,mì
+1826,RSH2-L22,蛾,moth,é,é
+1827,RSH2-L22,扒,pick pockets,pá,bā|pá
+1828,RSH2-L22,扣,button,kòu,kòu
+1829,RSH2-L22,拍,racquet,pāi,pāi
+1830,RSH2-L22,啪,clapping sound,pā,pā
+1831,RSH2-L22,扑,pounce on,pū,pū
+1832,RSH2-L22,拘,detain,jū,jū
+1833,RSH2-L22,损,damage,sǔn,sǔn
+1834,RSH2-L22,拓,pioneer,tuò,tuò|tà
+1835,RSH2-L22,扛,carry over the shoulder,káng,káng|gāng
+1836,RSH2-L22,扎,prick,zhā,zhā|zā|zhá
+1837,RSH2-L22,拇,thumb,mǔ,mǔ
+1838,RSH2-L22,捎,bring to,shāo,shāo|shào
+1839,RSH2-L22,抄,copy,chāo,chāo
+1840,RSH2-L22,垫,pad,diàn,diàn
+1841,RSH2-L22,挚,earnest,zhì,zhì
+1842,RSH2-L22,捏,pinch,niē,niē
+1843,RSH2-L22,拧,tweak,niē,niē
+1844,RSH2-L22,抹,smear on,mǒ,mǒ|mā|mò
+1845,RSH2-L22,摸,grope,mō,mō
+1846,RSH2-L22,描,describe,miáo,miáo
+1847,RSH2-L22,挑,foment,tiǎo,tiāo|tiǎo|tāo
+1848,RSH2-L22,扰,harass,rǎo,rǎo
+1849,RSH2-L22,搞,engage in,gǎo,gǎo
+1850,RSH2-L22,拴,tether,shuān,shuān
+1851,RSH2-L22,拾,tidy up,shí,shí|shè
+1852,RSH2-L22,搭,put up,dā,dā|dá
+1853,RSH2-L22,掠,pillage,lüè,lüè|lüě
+1854,RSH2-L22,拭,wipe away,shì,shì
+1855,RSH2-L22,挠,chafe,náo,náo
+1856,RSH2-L22,扯,yank,chě,chě
+1857,RSH2-L22,撞,bump into,zhuàng,zhuàng
+1858,RSH2-L22,摘,handpick,zhāi,zhāi
+1859,RSH2-L22,拖,drag,tuō,tuō
+1860,RSH2-L22,扬,publicize,yáng,yáng
+1861,RSH2-L22,搓,massage,cuō,cuō
+1862,RSH2-L22,捆,lash together,kǔn,kǔn
+1863,RSH2-L22,扩,enlarge,kuò,kuò
+1864,RSH2-L22,撼,joggle,hàn,hàn
+1865,RSH2-L22,挟,coerce,xié,xié
+1866,RSH2-L22,擅,act without authority,shàn,shàn
+1867,RSH2-L22,颤,tremble,chàn,chàn|zhàn
+1868,RSH2-L22,戒,take precautions against,jiè,jiè
+1869,RSH2-L22,械,weapon,xiè,xiè
+1870,RSH2-L22,诫,warn,jiè,jiè
+1871,RSH2-L22,莽,rude,mǎng,mǎng
+1872,RSH2-L22,奔,dash,bēn,bēn|bèn
+1873,RSH2-L22,喷,spurt,pēn,pēn|pèn
+1874,RSH2-L22,愤,indignation,fèn,fèn
+1875,RSH2-L22,材,stuff,cái,cái
+1876,RSH2-L22,荐,recommend,jiàn,jiàn
+1877,RSH2-L22,孕,pregnant,yùn,yùn
+1878,RSH2-L22,扔,throw away,rēng,rēng
+1879,RSH2-L22,携,take along,xié,xié
+1880,RSH2-L22,圾,trash,jī,jī|sè
+1881,RSH2-L22,梗,stalk,gěng,gěng
+1882,RSH2-L22,叹,sigh,tàn,tàn
+1883,RSH2-L22,叉,fork,chā,chā|chǎ|chà|chá
+1884,RSH2-L22,权,authority,quán,quán
+1885,RSH2-L22,寇,outlaw,kòu,kòu
+1886,RSH2-L22,敲,knock,qiāo,qiāo
+1887,RSH2-L22,轰,rumble,hōng,hōng
+1888,RSH2-L22,滩,beach,tān,tān
+1889,RSH2-L22,毅,resolute,yì,yì
+1890,RSH2-L22,肢,limb,zhī,zhī
+1891,RSH2-L22,妓,prostitute,jì,jì
+1892,RSH2-L22,歧,fork in the road,qí,qí
+1893,RSH2-L22,翅,fins,chì,chì
+1894,RSH2-L22,淑,graceful,shū,shū
+1895,RSH2-L22,椒,spice plant,jiāo,jiāo
+1896,RSH2-L22,盾,shield,dùn,dùn
+1897,RSH2-L22,贩,peddler,fàn,fàn
+1898,RSH2-L22,扳,tug,bān,pān|bān
+1899,RSH2-L22,烁,luminous,shuò,shuò
+1900,RSH2-L22,觅,try to find,mì,mì
+1901,RSH2-L22,妥,appropriate,tuǒ,tuǒ
+1902,RSH2-L22,豹,leopard,bào,bào
+1903,RSH2-L22,貌,mien,mào,mào
+1904,RSH2-L22,睬,notice,cǎi,cǎi
+1905,RSH2-L22,允,consent,yǔn,yǔn
+1906,RSH2-L22,宏,magnificent,hóng,hóng
+1907,RSH2-L22,垒,baseball base,lěi,lěi
+1908,RSH2-L22,胎,fetus,tāi,tāi
+1909,RSH2-L22,怠,negligent,dài,dài
+1910,RSH2-L22,怡,cheerful,yí,yí
+1911,RSH2-L22,冶,smelt,yě,yě
+1912,RSH2-L22,抬,elevate,tái,tái
+1913,RSH2-L22,罢,cease,bà,bà|pí
+1914,RSH2-L22,摆,put in order,bǎi,bǎi
+1915,RSH2-L22,丢,mislay,diū,diū
+1916,RSH2-L22,致,bring about,zhì,zhì
+1917,RSH2-L22,弃,forsake,qì,qì
+1918,RSH2-L22,撤,remove,chè,chè
+1919,RSH2-L22,硫,sulfur,liú,liú
+1920,RSH2-L22,琉,glaze,liú,liú
+1921,RSH2-L22,疏,sparse,shū,shū
+1922,RSH2-L22,蔬,veggies,shū,shū
+1923,RSH2-L22,勾,cross out,gōu,gōu|gòu
+1924,RSH2-L22,沟,ditch,gōu,gōu
+1925,RSH2-L22,钩,hook,gōu,gōu
+1926,RSH2-L23,崩,crumble,bēng,bēng
+1927,RSH2-L23,岩,rock,yán,yán
+1928,RSH2-L23,峭,precipitous,qiào,qiào
+1929,RSH2-L23,崎,rugged,qí,qí
+1930,RSH2-L23,崖,cliff,yá,yá
+1931,RSH2-L23,灿,brilliant,càn,càn
+1932,RSH2-L23,炭,charcoal,tàn,tàn
+1933,RSH2-L23,碳,carbon,tàn,tàn
+1934,RSH2-L23,岂,(rhetorical question),qǐ,qǐ
+1935,RSH2-L23,凯,triumphant,kǎi,kǎi
+1936,RSH2-L23,峡,gorge,xiá,xiá
+1937,RSH2-L23,崔,Cui,cuī,cuī
+1938,RSH2-L23,摧,wreck,cuī,cuī
+1939,RSH2-L23,逆,go against,nì,nì
+1940,RSH2-L23,溯,go upstream,sù,sù
+1941,RSH2-L23,塑,plastic,sù,sù
+1942,RSH2-L23,盼,await hopefully,pàn,pàn
+1943,RSH2-L23,颁,promulgate,bān,bān
+1944,RSH2-L23,芬,essence,fēn,fēn
+1945,RSH2-L23,扮,play the part of,bàn,bàn
+1946,RSH2-L23,岔,diverge,chà,chà
+1947,RSH2-L23,颂,extol,sòng,sòng
+1948,RSH2-L23,讼,litigate,sòng,sòng
+1949,RSH2-L23,滚,trundle,gǔn,gǔn
+1950,RSH2-L23,翁,elderly man,wēng,wēng
+1951,RSH2-L23,嗡,buzzing,wēng,wēng
+1952,RSH2-L23,裕,abundant,yù,yù
+1953,RSH2-L23,榕,banyan,róng,róng
+1954,RSH2-L23,熔,fuse,róng,róng
+1955,RSH2-L24,裳,raiment,shang,shang|cháng
+1956,RSH2-L24,掌,palm of the hand,zhǎng,zhǎng
+1957,RSH2-L24,撑,prop up,chēng,chēng
+1958,RSH2-L24,膛,chest,táng,táng
+1959,RSH2-L24,颇,quite,pō,pō
+1960,RSH2-L24,坡,slope,pō,pō
+1961,RSH2-L24,披,drape over the shoulders,pī,pī
+1962,RSH2-L24,菠,spinach,bō,bō
+1963,RSH2-L24,歼,annihilate,jiān,jiān
+1964,RSH2-L24,殖,breed,zhí,zhí|shi
+1965,RSH2-L24,殊,dissimilar,shū,shū
+1966,RSH2-L24,残,incomplete,cán,cán
+1967,RSH2-L24,咧,grin,liě,lie|liē|liě
+1968,RSH2-L24,裂,crack,liè,liè|liě
+1969,RSH2-L24,毙,die a violent death,bì,bì
+1970,RSH2-L24,耿,dedicated,gěng,gěng
+1971,RSH2-L24,辑,edit,jí,jí
+1972,RSH2-L24,耻,shame,chǐ,chǐ
+1973,RSH2-L24,摄,take a photo,shè,shè
+1974,RSH2-L24,聪,smart,cōng,cōng
+1975,RSH2-L24,娶,take a wife,qǔ,qǔ
+1976,RSH2-L24,蔓,creeping vine,wàn,màn|mán|wàn
+1977,RSH2-L24,肤,skin,fū,fū
+1978,RSH2-L24,扶,lend a hand,fú,fú
+1979,RSH2-L24,潜,submerge,qián,qián
+1980,RSH2-L24,卧,for sleeping,wò,wò
+1981,RSH2-L24,藏,hide,cáng,cáng|Zàng|zàng
+1982,RSH2-L24,熙,splendid,xī,xī
+1983,RSH2-L24,勋,merit,xūn,xūn
+1984,RSH2-L24,劣,inferior,liè,liè
+1985,RSH2-L24,募,recruit,mù,mù
+1986,RSH2-L24,劝,advise,quàn,quàn
+1987,RSH2-L24,劫,plunder,jié,jié
+1988,RSH2-L24,抛,toss,pāo,pāo
+1989,RSH2-L24,胁,threaten,xié,xié
+1990,RSH2-L24,怒,anger,nù,nù
+1991,RSH2-L24,茄,eggplant,qié,jiā|qié
+1992,RSH2-L24,彻,thorough,chè,chè
+1993,RSH2-L24,征,solicit,zhēng,zhēng|zhǐ
+1994,RSH2-L24,惩,chasten,chéng,chéng
+1995,RSH2-L24,徒,follower,tú,tú
+1996,RSH2-L24,徊,undecided,huái,huái|huí
+1997,RSH2-L24,役,service,yì,yì
+1998,RSH2-L24,循,comply with,xún,xún
+1999,RSH2-L24,彼,the other,bǐ,bǐ
+2000,RSH2-L24,衍,develop,yǎn,yǎn
+2001,RSH2-L24,衡,weight,héng,héng
+2002,RSH2-L24,衔,title,xián,xián
+2003,RSH2-L25,秃,bald,tū,tū
+2004,RSH2-L25,颓,decrepit,tuí,tuí
+2005,RSH2-L25,秒,seconds,miǎo,miǎo
+2006,RSH2-L25,稍,a little,shāo,shāo|shào
+2007,RSH2-L25,稣,rise again,sū,sū
+2008,RSH2-L25,稿,draft,gǎo,gǎo
+2009,RSH2-L25,稠,dense,chóu,chóu
+2010,RSH2-L25,颖,clever,yǐng,yǐng
+2011,RSH2-L25,稼,crops,jià,jià
+2012,RSH2-L25,税,tax,shuì,shuì
+2013,RSH2-L25,稚,immature,zhì,zhì
+2014,RSH2-L25,菌,fungus,jùn,jūn|jùn
+2015,RSH2-L25,穗,ear of grain,suì,suì
+2016,RSH2-L25,秘,confidential,mì,mì|bì
+2017,RSH2-L25,私,private,sī,sī
+2018,RSH2-L25,秩,order,zhì,zhì
+2019,RSH2-L25,锹,shovel,qiāo,qiāo
+2020,RSH2-L25,梨,pear,lí,lí
+2021,RSH2-L25,犁,plow,lí,lí
+2022,RSH2-L25,萎,wilt,wěi,wēi|wěi
+2023,RSH2-L25,黏,sticky,nián,nián
+2024,RSH2-L25,黎,host,lí,lí
+2025,RSH2-L25,膝,knees,xī,xī
+2026,RSH2-L25,漆,wall paint,qī,qī
+2027,RSH2-L25,锈,rust,xiù,xiù
+2028,RSH2-L25,眯,squint,mī,mī|mí
+2029,RSH2-L25,糊,batter,hù,hú|hū|hù
+2030,RSH2-L25,粘,glue,zhān,zhān|nián
+2031,RSH2-L25,奥,of great depth,ào,ào
+2032,RSH2-L25,澳,deep inlet,ào,ào
+2033,RSH2-L25,懊,remorseful,ào,ào
+2034,RSH2-L25,菊,chrysanthemum,jú,jú
+2035,RSH2-L25,渊,abyss,yuān,yuān
+2036,RSH2-L25,粱,fine millet,liáng,liáng
+2037,RSH2-L25,梁,roof beam,liáng,liáng
+2038,RSH2-L25,糙,rough,cāo,cāo
+2039,RSH2-L25,粒,grain,lì,lì
+2040,RSH2-L25,糕,cake,gāo,gāo
+2041,RSH2-L25,蔽,shelter,bì,bì
+2042,RSH2-L25,憋,suppress,biē,biē
+2043,RSH2-L25,撇,cast aside,piē,piē|piě
+2044,RSH2-L25,弊,fraud,bì,bì
+2045,RSH2-L25,莱,lambsquarters,lái,lái
+2046,RSH2-L25,搂,cuddle,lǒu,lǒu|lōu
+2047,RSH2-L25,筑,construct,zhù,zhù
+2048,RSH2-L25,箩,bamboo basket,luó,luó
+2049,RSH2-L25,笨,stupid,bèn,bèn
+2050,RSH2-L25,筒,tube,tǒng,tǒng
+2051,RSH2-L25,箭,arrow,jiàn,jiàn
+2052,RSH2-L25,筛,sift,shāi,shāi
+2053,RSH2-L25,筋,tendon,jīn,jīn
+2054,RSH2-L26,伍,V,wǔ,wǔ
+2055,RSH2-L26,仇,animosity,chóu,chóu|qiú
+2056,RSH2-L26,倡,start,chàng,chàng|chāng
+2057,RSH2-L26,伯,father's older brother,bó,bǎi|bó
+2058,RSH2-L26,仲,mid-,zhòng,zhòng
+2059,RSH2-L26,仆,servant,pú,pú
+2060,RSH2-L26,估,estimate,gū,gū|gù
+2061,RSH2-L26,侦,detect,zhēn,zhēn
+2062,RSH2-L26,俱,altogether,jù,jù
+2063,RSH2-L26,佑,bless,yòu,yòu
+2064,RSH2-L26,佐,assistant,zuǒ,zuǒ
+2065,RSH2-L26,侧,lateral,cè,cè|zhāi
+2066,RSH2-L26,亿,one hundred million,yì,yì
+2067,RSH2-L26,仔,meticulous,zǐ,zǎi|zǐ|zī
+2068,RSH2-L26,倚,count on,yǐ,yǐ
+2069,RSH2-L26,俏,comely,qiào,qiào
+2070,RSH2-L26,佳,superb,jiā,jiā
+2071,RSH2-L26,侍,serve,shì,shì
+2072,RSH2-L26,伙,mate,huǒ,huǒ
+2073,RSH2-L26,倘,if,tǎng,tǎng
+2074,RSH2-L26,宿,stay overnight,sù,xiǔ|sù|xiù
+2075,RSH2-L26,伏,bend over,fú,fú
+2076,RSH2-L26,袱,wrapping cloth,fú,fú
+2077,RSH2-L26,偷,steal,tōu,tōu
+2078,RSH2-L26,偿,repay,cháng,cháng
+2079,RSH2-L26,伐,fell,fá,fá
+2080,RSH2-L26,佩,wear at the waist,pèi,pèi
+2081,RSH2-L26,侨,live abroad,qiáo,qiáo
+2082,RSH2-L26,倾,incline,qīng,qīng
+2083,RSH2-L26,伦,human relationships,lún,lún
+2084,RSH2-L26,侮,insult,wǔ,wǔ
+2085,RSH2-L26,倍,times,bèi,bèi
+2086,RSH2-L26,仿,mimic,fǎng,fǎng
+2087,RSH2-L26,傲,haughty,ào,ào
+2088,RSH2-L26,僧,Buddhist monk,sēng,sēng
+2089,RSH2-L26,囚,prisoner,qiú,qiú
+2090,RSH2-L26,悠,without haste,yōu,yōu
+2091,RSH2-L26,侄,nephew,zhí,zhí
+2092,RSH2-L26,仙,immortal,xiān,xiān
+2093,RSH2-L26,傍,close to,bàng,bàng
+2094,RSH2-L26,催,prod,cuī,cuī
+2095,RSH2-L26,俗,custom,sú,sú
+2096,RSH2-L26,侠,chivalrous person,xiá,xiá
+2097,RSH2-L26,俄,Russia,é,é
+2098,RSH2-L26,聚,assemble,jù,jù
+2099,RSH2-L26,符,symbol,fú,fú
+2100,RSH2-L26,贷,loan,dài,dài
+2101,RSH2-L26,荷,Holland,hé,hé|hè
+2102,RSH2-L26,杖,cane,zhàng,zhàng
+2103,RSH2-L26,仗,battle,zhàng,zhàng
+2104,RSH2-L26,丛,thicket,cóng,cóng
+2105,RSH2-L26,耸,shrug,sǒng,sǒng
+2106,RSH2-L26,挫,frustrate,cuò,cuò
+2107,RSH2-L26,诬,charge falsely,wū,wū
+2108,RSH2-L26,葛,kudzu,gé,gé|Gě
+2109,RSH2-L26,褐,brown,hè,hè
+2110,RSH2-L26,竭,use up,jié,jié
+2111,RSH2-L26,歇,take a rest,xiē,xiē
+2112,RSH2-L26,揭,reveal,jiē,jiē
+2113,RSH2-L27,淫,promiscuous,yín,yín
+2114,RSH2-L27,凭,proof,píng,píng
+2115,RSH2-L27,挺,erect,tǐng,tǐng
+2116,RSH2-L27,赎,redeem,shú,shú
+2117,RSH2-L27,瓦,tile,wǎ,wǎ|wā|wà
+2118,RSH2-L27,瓷,porcelain,cí,cí
+2119,RSH2-L27,拟,simulate,nǐ,nǐ
+2120,RSH2-L27,瓶,bottle,píng,píng
+2121,RSH2-L27,宫,palace,gōng,gōng
+2122,RSH2-L27,铝,aluminum,lǚ,lǚ
+2123,RSH2-L27,萤,firefly,yíng,yíng
+2124,RSH2-L27,莹,lustrous,yíng,yíng|yīng
+2125,RSH2-L27,蒙,Mongolia,Měng,méng|mēng|Měng
+2126,RSH2-L27,朦,dim,méng,méng
+2127,RSH2-L27,捞,scoop up,lāo,lāo
+2128,RSH2-L28,旋,whirl,xuàn,xuán|xuàn
+2129,RSH2-L28,吻,kiss,wěn,wěn
+2130,RSH2-L28,匆,hurriedly,cōng,cōng
+2131,RSH2-L28,葱,onion,cōng,cōng
+2132,RSH2-L28,锡,tin,xī,xī
+2133,RSH2-L28,惕,watchful,tì,tì
+2134,RSH2-L28,卢,Louvre,lú,lú
+2135,RSH2-L28,屉,drawer,tì,tì
+2136,RSH2-L28,屑,bits,xiè,xiè
+2137,RSH2-L28,尿,urine,niào,niào|suī
+2138,RSH2-L28,犀,rhinoceros,xī,xī
+2139,RSH2-L28,迟,tardy,chí,chí|zhì
+2140,RSH2-L28,刷,brush,shuā,shuā|shuà
+2141,RSH2-L28,漏,leak,lòu,lòu
+2142,RSH2-L28,屁,fart,pì,pì
+2143,RSH2-L28,屈,knuckle under,qū,qū
+2144,RSH2-L28,掘,excavate,jué,jué
+2145,RSH2-L28,履,footwear,lǚ,lǚ
+2146,RSH2-L28,屎,excrement,shǐ,shǐ
+2147,RSH2-L28,屡,time and again,lǚ,lǚ
+2148,RSH2-L28,屏,folding screen,píng,bǐng|píng|bīng
+2149,RSH2-L28,眉,eyebrows,méi,méi
+2150,RSH2-L28,媚,flatter,mèi,mèi
+2151,RSH2-L28,昼,daylight,zhòu,zhòu
+2152,RSH2-L28,启,enlighten,qǐ,qǐ
+2153,RSH2-L28,肩,shoulder,jiān,jiān
+2154,RSH2-L28,妒,jealous of,dù,dù
+2155,RSH2-L28,炉,stove,lú,lú
+2156,RSH2-L28,芦,reeds,lú,lú
+2157,RSH2-L28,扇,fan,shàn,shàn|shān
+2158,RSH2-L29,奈,can't help but,nài,nài
+2159,RSH2-L29,款,funds,kuǎn,kuǎn
+2160,RSH2-L29,凛,chilly,lǐn,lǐn
+2161,RSH2-L29,祟,evil spirit,suì,suì
+2162,RSH2-L29,祝,wish well,zhù,zhù
+2163,RSH2-L29,祥,propitious,xiáng,xiáng
+2164,RSH2-L29,蔚,luxuriant,wèi,wèi
+2165,RSH2-L29,慰,console,wèi,wèi
+2166,RSH2-L29,蒜,garlic,suàn,suàn
+2167,RSH2-L29,棕,palm tree,zōng,zōng
+2168,RSH2-L29,宙,universe,zhòu,zhòu
+2169,RSH2-L29,轴,axle,zhóu,zhóu|zhòu
+2170,RSH2-L29,袖,sleeve,xiù,xiù
+2171,RSH2-L29,庙,temple,miào,miào
+2172,RSH2-L29,笛,flute,dí,dí
+2173,RSH2-L29,届,fall due,jiè,jiè
+2174,RSH2-L29,呻,groan,shēn,shēn
+2175,RSH2-L29,坤,female,kūn,kūn
+2176,RSH2-L29,审,painstaking,shěn,shěn
+2177,RSH2-L29,婶,auntie,shěn,shěn
+2178,RSH2-L29,畅,smooth,chàng,chàng
+2179,RSH2-L29,巢,nest,cháo,cháo
+2180,RSH2-L29,棵,flora,kē,kē
+2181,RSH2-L29,裸,naked,luǒ,luǒ
+2182,RSH2-L29,裹,envelop,guǒ,guǒ
+2183,RSH2-L30,析,analyze,xī,xī
+2184,RSH2-L30,晰,distinct,xī,xī
+2185,RSH2-L30,芹,celery,qín,qín
+2186,RSH2-L30,祈,supplicate,qí,qí
+2187,RSH2-L30,欣,elated,xīn,xīn
+2188,RSH2-L30,掀,uncover,xiān,xiān
+2189,RSH2-L30,惭,conscience-stricken,cán,cán
+2190,RSH2-L30,崭,towering,zhǎn,zhǎn
+2191,RSH2-L30,浙,Zhejian Province,zhè,Zhè
+2192,RSH2-L30,誓,vow,shì,shì
+2193,RSH2-L30,拆,take apart,chāi,chāi|cā
+2194,RSH2-L30,炸,blow up,zhà,zhà|zhá
+2195,RSH2-L30,诈,swindle,zhà,zhà
+2196,RSH2-L30,归,come back,guī,guī
+2197,RSH2-L30,皱,wrinkles,zhòu,zhòu
+2198,RSH2-L30,煞,goblin,shà,shā|shà
+2199,RSH2-L30,趋,hasten,qū,qū
+2200,RSH2-L30,雏,chick,chú,chú
+2201,RSH2-L30,浸,immerse,jìn,jìn
+2202,RSH2-L30,寝,get some shuteye,qǐn,qǐn
+2203,RSH2-L30,侵,invade,qīn,qīn
+2204,RSH2-L30,缘,reason,yuán,yuán
+2205,RSH2-L30,稳,stable,wěn,wěn
+2206,RSH2-L30,挡,fend off,dǎng,dǎng|dàng
+2207,RSH2-L30,剥,peel off,bāo,bō|bāo
+2208,RSH2-L30,秉,wield,bǐng,bǐng
+2209,RSH2-L30,妻,wife,qī,qī
+2210,RSH2-L30,凄,miserable,qī,qī|qiàn
+2211,RSH2-L30,捷,nimble,jié,jié
+2212,RSH2-L30,肃,solemn,sù,sù
+2213,RSH2-L30,啸,howl,xiào,xiào
+2214,RSH2-L30,萧,desolate,xiāo,xiāo
+2215,RSH2-L30,兼,double,jiān,jiān
+2216,RSH2-L30,赚,earn,zhuàn,zhuàn|zuàn
+2217,RSH2-L30,嫌,dislike,xián,xián
+2218,RSH2-L30,谦,unassuming,qiān,qiān
+2219,RSH2-L30,歉,apology,qiàn,qiàn
+2220,RSH2-L30,廉,inexpensive,lián,lián
+2221,RSH2-L30,镰,sickle,lián,lián
+2222,RSH2-L30,睁,unshut,zhēng,zhēng
+2223,RSH2-L30,挣,struggle,zhēng,zhèng|zhēng
+2224,RSH2-L30,筝,Chinese zither,zhēng,zhēng
+2225,RSH2-L30,塘,pool,táng,táng
+2226,RSH2-L30,隶,bondservant,lì,lì
+2227,RSH2-L30,逮,arrest,dài,dǎi|dài
+2228,RSH2-L30,慷,generous,kāng,kāng
+2229,RSH2-L30,糠,chaff,kāng,kāng
+2230,RSH2-L30,笋,bamboo shoot,sǔn,sǔn
+2231,RSH2-L30,耍,mess around,shuǎ,shuǎ
+2232,RSH2-L30,耐,-proof,nài,nài
+2233,RSH2-L30,喘,wheeze,chuǎn,chuǎn
+2234,RSH2-L30,揣,conjecture,chuǎi,chuāi|chuǎi|chuài
+2235,RSH2-L30,槽,trough,cáo,cáo
+2236,RSH2-L30,遭,meet with,zāo,zāo
+2237,RSH2-L30,糟,messed up,zāo,zāo
+2238,RSH2-L30,抖,quiver,dǒu,dǒu
+2239,RSH2-L31,惜,rue,xī,xī
+2240,RSH2-L31,措,arrange,cuò,cuò
+2241,RSH2-L31,腊,dried meat,là,là
+2242,RSH2-L31,蜡,wax,là,là
+2243,RSH2-L31,猎,hunt,liè,liè
+2244,RSH2-L31,燕,swallow,yàn,yàn|Yān
+2245,RSH2-L31,遮,screen,zhē,zhē
+2246,RSH2-L31,畔,littoral,pàn,pàn
+2247,RSH2-L31,拌,blend,bàn,bàn
+2248,RSH2-L31,叛,betray,pàn,pàn
+2249,RSH2-L31,券,voucher,quàn,quàn|xuàn
+2250,RSH2-L31,藤,rattan,téng,téng
+2251,RSH2-L31,鼎,old cooking pot,dǐng,dǐng
+2252,RSH2-L31,芝,sesame,zhī,zhī
+2253,RSH2-L31,贬,devalue,biǎn,biǎn
+2254,RSH2-L31,泛,nonspecific,fàn,fàn
+2255,RSH2-L31,歪,askew,wāi,wāi
+2256,RSH2-L32,矫,rectify,jiǎo,jiǎo|jiáo
+2257,RSH2-L32,矮,short of stature,ǎi,ǎi
+2258,RSH2-L32,唉,sigh--ay-ay,āi,āi|ài
+2259,RSH2-L32,埃,fine dust,āi,āi
+2260,RSH2-L32,挨,suffer,ái,āi|ái
+2261,RSH2-L32,簇,cluster,cù,cù
+2262,RSH2-L32,茅,thatch,máo,máo
+2263,RSH2-L32,橘,tangerine,jú,jú
+2264,RSH2-L32,舒,relax,shū,shū
+2265,RSH2-L32,览,view,lǎn,lǎn
+2266,RSH2-L32,揽,take on,lǎn,lǎn
+2267,RSH2-L32,肾,kidneys,shèn,shèn
+2268,RSH2-L32,竖,perpendicular,shù,shù
+2269,RSH2-L32,弘,noble,hóng,hóng
+2270,RSH2-L32,夷,barbarian,yí,yí
+2271,RSH2-L32,姨,maternal aunt,yí,yí
+2272,RSH2-L32,疆,dividing line,jiāng,jiāng
+2273,RSH2-L32,僵,stiff,jiāng,jiāng
+2274,RSH2-L32,粥,porridge,zhōu,zhōu
+2275,RSH2-L32,蝉,cicada,chán,chán
+2276,RSH2-L32,禅,meditation,chán,chán|shàn
+2277,RSH2-L32,沸,bring to a boil,fèi,fèi
+2278,RSH2-L32,拂,caress,fú,fú|bì
+2279,RSH2-L32,剃,shave,tì,tì
+2280,RSH2-L32,递,hand over,dì,dì
+2281,RSH2-L32,梯,ladder,tī,tī
+2282,RSH2-L32,涕,snot,tì,tì
+2283,RSH2-L32,朽,decayed,xiǔ,xiǔ
+2284,RSH2-L32,聘,employ,pìn,pìn
+2285,RSH2-L32,姊,elder sister,zǐ,zǐ
+2286,RSH2-L32,亏,loss,kuī,kuī
+2287,RSH2-L32,污,filthy,wū,wū
+2288,RSH2-L32,夸,brag,kuā,kuā
+2289,RSH2-L32,垮,collapse,kuǎ,kuǎ
+2290,RSH2-L32,挎,carry on the arm,kuà,kuà
+2291,RSH2-L32,鳄,crocodile,è,è
+2292,RSH2-L32,愕,stunned,è,è
+2293,RSH2-L33,躺,lie down,tǎng,tǎng
+2294,RSH2-L33,躲,dodge,duǒ,duǒ
+2295,RSH2-L33,躬,stoop,gōng,gōng
+2296,RSH2-L33,嗜,hanker,shì,shì
+2297,RSH2-L33,姥,maternal grandmother,lǎo,lǎo
+2298,RSH2-L33,拷,flog,kǎo,kǎo
+2299,RSH2-L33,屿,islet,yǔ,yǔ
+2300,RSH2-L33,暑,summer heat,shǔ,shǔ
+2301,RSH2-L33,睹,behold,dǔ,dǔ
+2302,RSH2-L33,署,add your John Hancock,shǔ,shǔ
+2303,RSH2-L33,薯,yam,shǔ,shǔ
+2304,RSH2-L33,赌,gamble,dǔ,dǔ
+2305,RSH2-L33,奢,extravagant,shē,shē
+2306,RSH2-L33,堵,stop up,dǔ,dǔ
+2307,RSH2-L33,煮,boil,zhǔ,zhǔ
+2308,RSH2-L33,诸,various,zhū,zhū
+2309,RSH2-L33,储,put in storage,chǔ,chǔ
+2310,RSH2-L33,屠,slaughter,tú,tú
+2311,RSH2-L33,棺,coffin,guān,guān
+2312,RSH2-L33,爹,dad,diē,diē
+2313,RSH2-L33,斧,axe,fǔ,fǔ
+2314,RSH2-L33,咬,bite,yǎo,yǎo
+2315,RSH2-L33,胶,gum,jiāo,jiāo
+2316,RSH2-L33,狡,sly,jiǎo,jiǎo
+2317,RSH2-L33,捉,catch,zhuō,zhuō
+2318,RSH2-L33,促,urge,cù,cù
+2319,RSH2-L33,趴,prostrate oneself,pā,pā
+2320,RSH2-L33,踏,trample,tà,tà|tā
+2321,RSH2-L33,践,tread on,jiàn,jiàn
+2322,RSH2-L33,跃,leap,yuè,yuè
+2323,RSH2-L33,蹄,hoof,tí,tí
+2324,RSH2-L33,踩,step on,cǎi,cǎi
+2325,RSH2-L33,蹦,hop,bèng,bèng
+2326,RSH2-L33,跌,slump,diē,diē
+2327,RSH2-L33,踢,kick,tī,tī
+2328,RSH2-L33,踪,tracks,zōng,zōng
+2329,RSH2-L33,跨,straddle,kuà,kuà
+2330,RSH2-L33,躁,impetuous,zào,zào
+2331,RSH2-L33,噪,chirping,zào,zào
+2332,RSH2-L33,澡,bath,zǎo,zǎo
+2333,RSH2-L33,藻,algae,zǎo,zǎo
+2334,RSH2-L33,燥,parched,zào,zào
+2335,RSH2-L33,操,exercise,cāo,cāo|cào
+2336,RSH2-L33,猾,cunning,huá,huá
+2337,RSH2-L33,髓,marrow,suǐ,suǐ
+2338,RSH2-L34,陌,footpath,mò,mò
+2339,RSH2-L34,隙,rift,xì,xì
+2340,RSH2-L34,陡,steep,dǒu,dǒu
+2341,RSH2-L34,陪,accompany,péi,péi
+2342,RSH2-L34,障,barrier,zhàng,zhàng
+2343,RSH2-L34,隧,tunnel,suì,suì
+2344,RSH2-L34,陋,undesirable,lòu,lòu
+2345,RSH2-L34,隐,hidden,yǐn,yǐn
+2346,RSH2-L34,陕,Shaanxi Province,shǎn,Shǎn
+2347,RSH2-L34,陵,mausoleum,líng,líng
+2348,RSH2-L34,棱,edge,léng,léng|lēng
+2349,RSH2-L34,菱,water caltrop,líng,líng
+2350,RSH2-L34,凌,bully,líng,líng
+2351,RSH2-L34,融,melt,róng,róng
+2352,RSH2-L34,隔,separate,gé,gé
+2353,RSH2-L34,窃,pilfer,qiè,qiè
+2354,RSH2-L34,挖,dig,wā,wā
+2355,RSH2-L34,帘,drapes,lián,lián
+2356,RSH2-L34,窥,peep,kuī,kuī
+2357,RSH2-L34,穷,poor,qióng,qióng
+2358,RSH2-L34,窄,strait,zhǎi,zhǎi
+2359,RSH2-L34,榨,extract,zhà,zhà
+2360,RSH2-L34,窟,den,kū,kū
+2361,RSH2-L34,窘,poverty-stricken,jiǒng,jiǒng
+2362,RSH2-L34,窜,scurry,cuàn,cuàn
+2363,RSH2-L34,腔,body cavity,qiāng,qiāng
+2364,RSH2-L34,窝,hollow,wō,wō
+2365,RSH2-L34,涡,whirlpool,wō,wō
+2366,RSH2-L34,锅,pot,guō,guō
+2367,RSH2-L34,祸,misfortune,huò,huò
+2368,RSH2-L34,蜗,snail,wō,wō
+2369,RSH2-L34,宾,visitor,bīn,bīn
+2370,RSH2-L34,滨,water's edge,bīn,bīn
+2371,RSH2-L35,绷,stretch taut,bēng,bēng|běng|bèng
+2372,RSH2-L35,纤,fiber,xiān,xiān|qiàn
+2373,RSH2-L35,绰,ample,chuò,chuò
+2374,RSH2-L35,绍,acquaint,shào,shào
+2375,RSH2-L35,纱,yarn,shā,shā
+2376,RSH2-L35,络,web,luò,luò|lào
+2377,RSH2-L35,绸,silk fabric,chóu,chóu
+2378,RSH2-L35,绒,down,róng,róng
+2379,RSH2-L35,绕,go around,rào,rào
+2380,RSH2-L35,绽,split at the seams,zhàn,zhàn
+2381,RSH2-L35,绵,continuous,mián,mián
+2382,RSH2-L35,缔,conclude,dì,dì
+2383,RSH2-L35,纺,spin,fǎng,fǎng
+2384,RSH2-L35,缠,wind around,chán,chán
+2385,RSH2-L35,绘,paint,huì,huì
+2386,RSH2-L35,纷,disorderly,fēn,fēn
+2387,RSH2-L35,绣,embroidery,xiù,xiù
+2388,RSH2-L35,缕,in detail,lǚ,lǚ
+2389,RSH2-L35,缩,shrink,suō,suō
+2390,RSH2-L35,纳,let in,nà,nà
+2391,RSH2-L35,综,sum up,zōng,zōng
+2392,RSH2-L35,绅,gentry,shēn,shēn
+2393,RSH2-L35,绪,inception,xù,xù
+2394,RSH2-L35,绞,wring,jiǎo,jiǎo
+2395,RSH2-L35,缓,unhurried,huǎn,huǎn
+2396,RSH2-L35,暖,warm,nuǎn,nuǎn
+2397,RSH2-L35,援,provide assistance,yuán,yuán
+2398,RSH2-L35,绢,tough silk,juàn,juàn
+2399,RSH2-L35,捐,contribute,juān,juān
+2400,RSH2-L35,缴,shell out,jiǎo,jiǎo|zhuó
+2401,RSH2-L35,邀,request the presence of,yāo,yāo
+2402,RSH2-L35,缆,cable,lǎn,lǎn
+2403,RSH2-L35,哟,Oh!,yō,yo|yō
+2404,RSH2-L35,颈,neck,jǐng,jǐng|gěng
+2405,RSH2-L35,茎,plant stem,jīng,jīng
+2406,RSH2-L35,径,trail,jìng,jìng
+2407,RSH2-L35,劲,powerful,jìng,jìn|jìng
+2408,RSH2-L35,幼,young,yòu,yòu
+2409,RSH2-L35,溪,creek,xī,xī
+2410,RSH2-L35,幽,secluded,yōu,yōu
+2411,RSH2-L35,玄,mysterious,xuán,xuán
+2412,RSH2-L35,弦,bowstring,xián,xián
+2413,RSH2-L35,畜,livestock,chù,chù|xù
+2414,RSH2-L35,蓄,save up,xù,xù
+2415,RSH2-L35,磁,magnetism,cí,cí
+2416,RSH2-L35,滋,nourish,zī,zī
+2417,RSH2-L35,慈,kindhearted,cí,cí
+2418,RSH2-L35,累,tired,lèi,lèi|lěi|léi
+2419,RSH2-L35,螺,spiral shell,luó,luó
+2420,RSH2-L35,紫,purple,zǐ,zǐ
+2421,RSH2-L35,繁,numerous,fán,fán
+2422,RSH2-L35,絮,long-winded,xù,xù
+2423,RSH2-L35,索,large rope,suǒ,suǒ|suō
+2424,RSH2-L35,脖,head-hinge,bó,bó
+2425,RSH2-L35,勃,vibrant,bó,bó
+2426,RSH2-L36,卸,unload,xiè,xiè
+2427,RSH2-L36,御,withstand,yù,yù
+2428,RSH2-L36,卵,nest eggs,luǎn,luǎn
+2429,RSH2-L36,孵,hatch,fū,fū
+2430,RSH2-L36,乳,breast,rǔ,rǔ
+2431,RSH2-L36,浮,float,fú,fú
+2432,RSH2-L36,俘,captive,fú,fú
+2433,RSH2-L36,榴,pomegranate,liú,liú
+2434,RSH2-L36,爷,grandfather,yé,yé
+2435,RSH2-L36,疑,doubt,yí,yí
+2436,RSH2-L36,凝,congeal,níng,níng
+2437,RSH2-L36,玲,exquisite,líng,líng
+2438,RSH2-L36,铃,small bell,líng,líng
+2439,RSH2-L36,怜,pity,lián,lián
+2440,RSH2-L36,岭,mountain range,lǐng,lǐng
+2441,RSH2-L36,伶,actor,líng,líng
+2442,RSH2-L36,涌,gush,yǒng,yǒng
+2443,RSH2-L36,桶,bucket,tǒng,tǒng
+2444,RSH2-L36,诵,read aloud,sòng,sòng
+2445,RSH2-L36,范,model,fàn,fàn
+2446,RSH2-L36,扼,clutch,è,è
+2447,RSH2-L36,卷,exam paper,juàn,juǎn|juàn|quán
+2448,RSH2-L36,倦,worn out,juàn,juàn
+2449,RSH2-L36,圈,circle,quān,quān|juàn|juān
+2450,RSH2-L36,怨,resentment,yuàn,yuàn
+2451,RSH2-L36,宛,winding,wǎn,wǎn|yuān
+2452,RSH2-L36,腕,wrist,wàn,wàn
+2453,RSH2-L36,婉,tactful,wǎn,wǎn
+2454,RSH2-L36,碗,bowl,wǎn,wǎn
+2455,RSH2-L36,苍,ash-colored,cāng,cāng
+2456,RSH2-L36,抢,rob,qiǎng,qiǎng|qiāng
+2457,RSH2-L36,诡,deceitful,guǐ,guǐ
+2458,RSH2-L36,跪,kneel,guì,guì
+2459,RSH2-L36,舆,popular,yú,yú
+2460,RSH2-L37,酌,pour wine,zhuó,zhuó
+2461,RSH2-L37,酬,reward,chóu,chóu
+2462,RSH2-L37,酷,brutal,kù,kù
+2463,RSH2-L37,醇,mellow wine,chún,chún
+2464,RSH2-L37,醋,vinegar,cù,cù
+2465,RSH2-L37,酱,thick sauce,jiàng,jiàng
+2466,RSH2-L37,奖,award,jiǎng,jiǎng
+2467,RSH2-L37,浆,thick liquid,jiāng,jiàng|jiāng
+2468,RSH2-L37,桨,oar,jiǎng,jiǎng
+2469,RSH2-L37,蒋,Jiang,jiǎng,Jiǎng
+2470,RSH2-L37,醉,drunk,zuì,zuì
+2471,RSH2-L37,碎,shattered,suì,suì
+2472,RSH2-L37,翠,emerald green,cuì,cuì
+2473,RSH2-L37,粹,unmixed,cuì,cuì
+2474,RSH2-L37,酸,sour,suān,suān
+2475,RSH2-L37,梭,shuttle,suō,suō
+2476,RSH2-L37,峻,lofty,jùn,jùn
+2477,RSH2-L37,俊,handsome,jùn,jùn
+2478,RSH2-L37,奠,found,diàn,diàn
+2479,RSH2-L37,蹲,squat,dūn,dūn
+2480,RSH2-L37,逗,tease,dòu,dòu
+2481,RSH2-L37,橱,closet,chú,chú
+2482,RSH2-L37,嘻,giggling,xī,xī
+2483,RSH2-L37,嘉,commend,jiā,jiā
+2484,RSH2-L37,盟,alliance,méng,méng|míng
+2485,RSH2-L37,孟,Mencius,mèng,mèng
+2486,RSH2-L37,猛,fierce,měng,měng
+2487,RSH2-L37,盐,salt,yán,yán
+2488,RSH2-L37,盔,helmet,kuī,kuī
+2489,RSH2-L37,盒,small box,hé,hé
+2490,RSH2-L37,盛,flourishing,shèng,chéng|shèng
+2491,RSH2-L37,盏,small cup,zhǎn,zhǎn
+2492,RSH2-L37,盗,master thief,dào,dào
+2493,RSH2-L37,磕,collide with,kē,kē
+2494,RSH2-L37,盈,replete,yíng,yíng
+2495,RSH2-L37,盆,basin,pén,pén
+2496,RSH2-L37,蕴,amass,yùn,yùn
+2497,RSH2-L37,鉴,probe,jiàn,jiàn
+2498,RSH2-L37,滥,indiscriminate,làn,làn
+2499,RSH2-L37,尴,abashed,gān,gān
+2500,RSH2-L37,尬,embarrassed,gà,gà
+2501,RSH2-L37,沈,Shen,Shěn,shěn|Shěn
+2502,RSH2-L37,枕,pillow,zhěn,zhěn
+2503,RSH2-L37,耽,indulge in,dān,dān
+2504,RSH2-L37,衅,quarrel,xìn,xìn
+2505,RSH2-L37,垦,reclaim,kěn,kěn
+2506,RSH2-L37,狠,ruthless,hěn,hěn
+2507,RSH2-L37,恳,wholeheartedly,kěn,kěn
+2508,RSH2-L37,艰,arduous,jiān,jiān
+2509,RSH2-L37,爵,upper crust,jué,jué
+2510,RSH2-L37,嚼,chew,jiáo,jiáo|jué|jiào
+2511,RSH2-L37,卿,minister,qīng,qīng
+2512,RSH2-L37,恨,hate,hèn,hèn
+2513,RSH2-L37,朗,lucent,lǎng,lǎng
+2514,RSH2-L37,狼,wolf,láng,láng
+2515,RSH2-L37,粮,provisions,liáng,liáng
+2516,RSH2-L37,酿,brew,niàng,niàng
+2517,RSH2-L37,饥,starving,jī,jī
+2518,RSH2-L37,饶,spare,ráo,ráo
+2519,RSH2-L37,饰,ornaments,shì,shì
+2520,RSH2-L37,饮,beverage,yǐn,yǐn|yìn
+2521,RSH2-L37,蚀,eat away,shí,shí
+2522,RSH2-L37,饱,sated,bǎo,bǎo
+2523,RSH2-L37,馒,bread,mán,mán
+2524,RSH2-L37,饼,cookie,bǐng,bǐng
+2525,RSH2-L37,饺,dumpling,jiǎo,jiǎo
+2526,RSH2-L37,饿,hungry,è,è
+2527,RSH2-L37,溉,irrigate,gài,gài
+2528,RSH2-L37,慨,incensed,kǎi,kǎi
+2529,RSH2-L38,苹,apple,píng,píng
+2530,RSH2-L38,萍,duckweed,píng,píng
+2531,RSH2-L38,秤,scale,chèng,chèng
+2532,RSH2-L38,淆,confuse,xiáo,xiáo
+2533,RSH2-L38,艾,Chinese mugwort,ài,ài|yì
+2534,RSH2-L38,哎,Good grief!,āi,āi|ēi
+2535,RSH2-L38,赵,Zhao,zhào,Zhào
+2536,RSH2-L38,攀,climb,pān,pān
+2537,RSH2-L38,刹,brake,shā,chà|shā
+2538,RSH2-L38,枫,maple,fēng,fēng
+2539,RSH2-L38,钢,steel,gāng,gāng|gàng
+2540,RSH2-L38,岗,hillock,gǎng,gāng|gǎng|gàng
+2541,RSH2-L38,纲,guidelines,gāng,gāng
+2542,RSH2-L38,屯,stockpile,tún,tún
+2543,RSH2-L38,吨,ton,dūn,dūn
+2544,RSH2-L38,顿,pause,dùn,dùn
+2545,RSH2-L38,纯,unadulterated,chún,chún
+2546,RSH2-L38,齿,teeth,chǐ,chǐ
+2547,RSH2-L38,龄,length of service,líng,líng
+2548,RSH2-L38,汹,turbulent,xiōng,xiōng
+2549,RSH2-L38,篱,fence,lí,lí
+2550,RSH2-L38,仪,rite,yí,yí
+2551,RSH2-L38,辜,crime,gū,gū
+2552,RSH2-L38,辞,phraseology,cí,cí
+2553,RSH2-L38,宰,butcher,zǎi,zǎi
+2554,RSH2-L38,辨,differentiate,biàn,biàn
+2555,RSH2-L38,辫,braid,biàn,biàn
+2556,RSH2-L38,臂,arm,bì,bì|bei
+2557,RSH2-L38,劈,split,pǐ,pī|pǐ
+2558,RSH2-L38,譬,analogy,pì,pì
+2559,RSH2-L38,僻,out-of-the-way,pì,pì
+2560,RSH2-L38,纠,entangle,jiū,jiū
+2561,RSH2-L38,咳,cough,ké,hāi|ké
+2562,RSH2-L38,嚷,cry out,rǎng,rǎng|rāng
+2563,RSH2-L38,镶,inlay,xiāng,xiāng
+2564,RSH2-L38,塞,stronghold,sài,sāi|sài|sè
+2565,RSH2-L38,寨,stockade,zhài,zhài
+2566,RSH2-L39,晴,sunny,qíng,qíng
+2567,RSH2-L39,猜,guess,cāi,cāi
+2568,RSH2-L39,靖,pacify,jìng,jìng
+2569,RSH2-L39,债,debt,zhài,zhài
+2570,RSH2-L39,牲,domestic animal,shēng,shēng
+2571,RSH2-L39,隆,impressive,lóng,lōng|lóng
+2572,RSH2-L39,腥,fishy smell,xīng,xīng
+2573,RSH2-L39,猩,orangutan,xīng,xīng
+2574,RSH2-L39,醒,awaken,xǐng,xǐng
+2575,RSH2-L39,寿,longevity,shòu,shòu
+2576,RSH2-L39,畴,farmland,chóu,chóu
+2577,RSH2-L39,涛,large waves,tāo,tāo
+2578,RSH2-L39,铸,cast,zhù,zhù
+2579,RSH2-L39,祷,pray,dǎo,dǎo
+2580,RSH2-L39,筹,make arrangements,chóu,chóu
+2581,RSH2-L39,契,contract,qì,qì|qiè
+2582,RSH2-L39,拜,adore,bài,bài|bái
+2583,RSH2-L39,锋,cutting edge,fēng,fēng
+2584,RSH2-L39,逢,chance upon,féng,féng
+2585,RSH2-L39,缝,sew,féng,fèng|féng
+2586,RSH2-L39,蓬,disheveled,péng,pēng|péng
+2587,RSH2-L39,篷,awning,péng,péng
+2588,RSH2-L39,蜂,bee,fēng,fēng
+2589,RSH2-L39,峰,peak,fēng,fēng
+2590,RSH2-L39,瞎,visionless,xiā,xiā
+2591,RSH2-L39,辖,administer,xiá,xiá
+2592,RSH2-L39,豁,breach,huō,huō|huò|huá
+2593,RSH2-L39,韩,Korea,hán,Hán
+2594,RSH2-L39,违,disobey,wéi,wéi
+2595,RSH2-L39,纬,latitude,wěi,wěi
+2596,RSH2-L39,奏,play an instrument,zòu,zòu
+2597,RSH2-L39,凑,gather together,còu,còu
+2598,RSH2-L39,秦,Qin,qín,Qín
+2599,RSH2-L39,蠢,foolish,chǔn,chǔn
+2600,RSH2-L39,泽,swamp,zé,zé
+2601,RSH2-L39,译,translate,yì,yì
+2602,RSH2-L39,择,select,zé,zé|zhái
+2603,RSH2-L39,捧,carry in both hands,pěng,pěng
+2604,RSH2-L39,砖,brick,zhuān,zhuān
+2605,RSH2-L39,唾,saliva,tuò,tuò
+2606,RSH2-L40,吟,recite,yín,yín
+2607,RSH2-L40,贪,greedy,tān,tān
+2608,RSH2-L40,琴,stringed instrument,qín,qín
+2609,RSH2-L40,炼,refine,liàn,liàn
+2610,RSH2-L40,晒,bask,shài,shài
+2611,RSH2-L40,洒,spill,sǎ,sǎ|xiǎn
+2612,RSH2-L40,栖,perch,qī,qī|xī
+2613,RSH2-L40,栗,chestnut,lì,lì
+2614,RSH2-L40,牺,sacrifice,xī,xī
+2615,RSH2-L40,潭,deep pool,tán,tán
+2616,RSH2-L40,覆,overturn,fù,fù
+2617,RSH2-L40,飘,flutter,piāo,piāo
+2618,RSH2-L40,献,donate,xiàn,xiàn
+2619,RSH2-L41,阔,broad,kuò,kuò
+2620,RSH2-L41,润,moisten,rùn,rùn
+2621,RSH2-L41,阁,cabinet,gé,gé
+2622,RSH2-L41,搁,put aside,gē,gē|gé
+2623,RSH2-L41,闹,stir up trouble,nào,nào
+2624,RSH2-L41,阅,peruse,yuè,yuè
+2625,RSH2-L41,闷,stuffy,mēn,mēn|mèn
+2626,RSH2-L41,闭,close,bì,bì
+2627,RSH2-L41,闪,flash,shǎn,shǎn
+2628,RSH2-L41,阀,valve,fá,fá
+2629,RSH2-L41,闸,floodgate,zhá,zhá
+2630,RSH2-L41,阐,explicate,chǎn,chǎn
+2631,RSH2-L41,涧,ravine,jiàn,jiàn
+2632,RSH2-L41,菲,humble,fēi,fēi|fěi
+2633,RSH2-L41,辈,lifetime,bèi,bèi
+2634,RSH2-L41,悲,sad,bēi,bēi
+2635,RSH2-L41,徘,irresolute,pái,pái
+2636,RSH2-L41,喉,gullet,hóu,hóu
+2637,RSH2-L41,猴,monkey,hóu,hóu
+2638,RSH2-L42,肝,liver,gān,gān
+2639,RSH2-L42,刊,publication,kān,kān
+2640,RSH2-L42,奸,adultery,jiān,jiān
+2641,RSH2-L42,汗,sweat,hàn,hàn|hán
+2642,RSH2-L42,杆,shaft,gǎn,gǎn
+2643,RSH2-L42,轩,veranda,xuān,xuān
+2644,RSH2-L42,罕,rarely,hǎn,hǎn
+2645,RSH2-L42,竿,pole,gān,gān
+2646,RSH2-L42,悍,bold,hàn,hàn
+2647,RSH2-L42,吁,plead,yù,yù
+2648,RSH2-L42,涂,smear,tú,tū|tú
+2649,RSH2-L42,叙,recount,xù,xù
+2650,RSH2-L42,徐,slowly,xú,xú
+2651,RSH2-L42,斜,slanting,xié,xié
+2652,RSH2-L42,喇,flared horn,lǎ,lǎ|lā|lá
+2653,RSH2-L42,嗽,hack,sòu,sòu
+2654,RSH2-L42,赖,rely on,lài,lài
+2655,RSH2-L42,懒,lazy,lǎn,lǎn
+2656,RSH2-L42,嫩,tender,nèn,nèn
+2657,RSH2-L42,董,director,dǒng,dǒng
+2658,RSH2-L43,疗,cure,liáo,liáo
+2659,RSH2-L43,痰,phlegm,tán,tán
+2660,RSH2-L43,症,disease,zhèng,zhèng|zhēng
+2661,RSH2-L43,疼,hurt,téng,téng
+2662,RSH2-L43,痒,itch,yǎng,yǎng
+2663,RSH2-L43,瘫,paralysis,tān,tān
+2664,RSH2-L43,疫,epidemic,yì,yì
+2665,RSH2-L43,癌,cancer,ái,ái
+2666,RSH2-L43,疲,fatigued,pí,pí
+2667,RSH2-L43,痴,idiotic,chī,chī
+2668,RSH2-L43,瘤,tumor,liú,liú
+2669,RSH2-L43,疮,sore,chuāng,chuāng
+2670,RSH2-L43,疾,rapid,jí,jí
+2671,RSH2-L43,瘾,addiction,yǐn,yǐn
+2672,RSH2-L43,痕,trace,hén,hén
+2673,RSH2-L43,汇,converge,huì,huì
+2674,RSH2-L43,框,rectangular frame,kuàng,kuàng
+2675,RSH2-L43,筐,rectangular basket,kuāng,kuāng
+2676,RSH2-L43,砸,smash,zá,zá
+2677,RSH2-L43,匠,artisan,jiàng,jiàng
+2678,RSH2-L43,匪,bandit,fěi,fěi
+2679,RSH2-L43,匿,keep out of sight,nì,nì
+2680,RSH2-L43,兜,pocket,dōu,dōu
+2681,RSH2-L43,巨,gigantic,jù,jù
+2682,RSH2-L43,柜,cupboard,guì,guì
+2683,RSH2-L43,渠,canal,qú,qú
+2684,RSH2-L43,拒,refuse,jù,jù
+2685,RSH2-L43,矩,square,jǔ,jū|jǔ
+2686,RSH2-L43,距,distance,jù,jù
+2687,RSH2-L43,殴,hit,ōu,ōu
+2688,RSH2-L43,呕,vomit,ǒu,òu|ǒu|ōu
+2689,RSH2-L43,躯,human body,qū,qū
+2690,RSH2-L43,昂,hold one's head high,áng,áng
+2691,RSH2-L43,抑,curb,yì,yì
+2692,RSH2-L43,葵,large-flowered plants,kuí,kuí
+2693,RSH2-L43,瞪,glare,dèng,dèng
+2694,RSH2-L43,凳,bench,dèng,dèng
+2695,RSH2-L43,澄,transparent,chéng,chéng|dèng
+2696,RSH2-L43,僚,coworker,liáo,liáo
+2697,RSH2-L43,拨,allocate,bō,bō
+2698,RSH2-L43,泼,splash,pō,pō
+2699,RSH2-L43,拔,pull out,bá,bá
+2700,RSH2-L44,杉,fir tree,shān,shān|shā
+2701,RSH2-L44,彬,well-mannered,bīn,bīn|Bīn
+2702,RSH2-L44,衫,shirt,shān,shān
+2703,RSH2-L44,彰,manifest,zhāng,zhāng
+2704,RSH2-L44,膨,puffy,péng,péng
+2705,RSH2-L44,渗,seep,shèn,shèn
+2706,RSH2-L44,诊,diagnose,zhěn,zhěn
+2707,RSH2-L44,趁,take advantage of,chèn,chèn
+2708,RSH2-L44,寥,deserted,liáo,liáo
+2709,RSH2-L44,谬,wrong,miù,miù
+2710,RSH2-L44,铲,small shovel,chǎn,chǎn
+2711,RSH2-L44,萨,Samoa,sà,Sà
+2712,RSH2-L44,刘,Liu,liú,Liú
+2713,RSH2-L44,坟,tomb,fén,fén
+2714,RSH2-L44,纹,design,wén,wén
+2715,RSH2-L44,斋,abstain from food,zhāi,zhāi
+2716,RSH2-L44,斑,speck,bān,bān
+2717,RSH2-L44,剂,pharmaceutical,jì,jì
+2718,RSH2-L44,挤,squeeze,jǐ,jǐ
+2719,RSH2-L44,脊,backbone,jǐ,jǐ
+2720,RSH2-L44,函,letter,hán,hán
+2721,RSH2-L44,涵,culvert,hán,hán
+2722,RSH2-L44,映,reflect,yìng,yìng
+2723,RSH2-L44,殃,calamity,yāng,yāng
+2724,RSH2-L44,秧,youngling,yāng,yāng
+2725,RSH2-L44,焕,glowing,huàn,huàn
+2726,RSH2-L44,肥,plump,féi,féi
+2727,RSH2-L44,爬,crawl,pá,pá|pā
+2728,RSH2-L44,疤,scar,bā,bā
+2729,RSH2-L45,甜,sugary,tián,tián
+2730,RSH2-L45,嵌,set,qiàn,qiàn
+2731,RSH2-L45,钳,pliers,qián,qián
+2732,RSH2-L45,媒,matchmaker,méi,méi
+2733,RSH2-L45,煤,coal,méi,méi
+2734,RSH2-L45,谋,scheme,móu,móu
+2735,RSH2-L45,棋,chess,qí,qí
+2736,RSH2-L45,欺,dupe,qī,qī
+2737,RSH2-L45,旗,flag,qí,qí
+2738,RSH2-L45,嘶,hoarse,sī,sī
+2739,RSH2-L45,撕,rip,sī,sī|xī
+2740,RSH2-L45,堪,tolerate,kān,kān
+2741,RSH2-L45,勘,survey,kān,kān
+2742,RSH2-L45,遣,dispatch,qiǎn,qiǎn
+2743,RSH2-L45,谴,censure,qiǎn,qiǎn
+2744,RSH2-L45,囊,sack,náng,náng|nāng
+2745,RSH2-L45,溃,burst,kuì,kuì|huì
+2746,RSH2-L46,宜,fitting,yí,yí
+2747,RSH2-L46,谊,friendship,yì,yì
+2748,RSH2-L46,租,rent,zū,zū
+2749,RSH2-L46,粗,coarse,cū,cū
+2750,RSH2-L46,阻,block,zǔ,zǔ
+2751,RSH2-L46,桑,mulberry tree,sāng,sāng
+2752,RSH2-L46,嗓,voicebox,sǎng,sǎng
+2753,RSH2-L46,叠,heap,dié,dié
+2754,RSH2-L46,锄,hoe,chú,chú
+2755,RSH2-L46,碰,bump,pèng,pèng
+2756,RSH2-L46,谱,musical score,pǔ,pǔ
+2757,RSH2-L46,壶,kettle,hú,hú
+2758,RSH2-L46,凿,bore a hole,záo,záo|zuò
+2759,RSH2-L46,湿,wet,shī,shī
+2760,RSH2-L46,哑,mute,yǎ,yā|yǎ
+2761,RSH2-L46,晋,promote,jìn,Jìn
+2762,RSH2-L46,哄,fool,hǒng,hòng|hǒng|hōng
+2763,RSH2-L46,洪,deluge,hóng,hóng
+2764,RSH2-L46,烘,warm by a fire,hōng,hōng
+2765,RSH2-L46,戴,have on,dài,dài
+2766,RSH2-L46,翼,wings,yì,yì
+2767,RSH2-L46,恭,respectful,gōng,gōng
+2768,RSH2-L46,拱,arch,gǒng,gǒng
+2769,RSH2-L46,撰,compose,zhuàn,zhuàn
+2770,RSH2-L46,粪,dung,fèn,fèn
+2771,RSH2-L46,殿,ceremonial hall,diàn,diàn
+2772,RSH2-L46,暴,violent,bào,bào|pù
+2773,RSH2-L46,瀑,waterfall,pù,pù
+2774,RSH2-L46,爆,explode,bào,bào
+2775,RSH2-L47,拥,hug,yōng,yōng
+2776,RSH2-L47,佣,put to work,yōng,yōng|yòng
+2777,RSH2-L47,甩,fling,shuǎi,shuǎi
+2778,RSH2-L47,庸,mediocre,yōng,yōng
+2779,RSH2-L47,触,touch,chù,chù
+2780,RSH2-L47,蟹,crab,xiè,xiè
+2781,RSH2-L47,懈,lax,xiè,xiè
+2782,RSH2-L47,册,Vol.,cè,cè
+2783,RSH2-L47,删,delete,shān,shān
+2784,RSH2-L47,栅,palisade,zhà,zhà|shān
+2785,RSH2-L47,珊,coral,shān,shān
+2786,RSH2-L47,遍,everywhere,biàn,biàn
+2787,RSH2-L47,偏,partial,piān,piān
+2788,RSH2-L48,抵,resist,dǐ,dǐ
+2789,RSH2-L48,氓,hoodlum,máng,máng|méng
+2790,RSH2-L48,哺,breastfeed,bǔ,bǔ
+2791,RSH2-L48,浦,river mouth,pǔ,pǔ
+2792,RSH2-L48,蒲,cattail,pú,pú
+2793,RSH2-L48,薄,slight,bó,báo|bó|bò
+2794,RSH2-L48,铺,shop,pù,pū|pù
+2795,RSH2-L48,捕,capture,bǔ,bǔ
+2796,RSH2-L48,敷,apply,fū,fū
+2797,RSH2-L48,膊,shoulder to arm,bó,bó
+2798,RSH2-L48,傅,mentor,fù,fù
+2799,RSH2-L48,缚,bind fast,fù,fù
+2800,RSH2-L48,簿,register,bù,bù
+2801,RSH2-L48,郁,depressed,yù,yù
+2802,RSH2-L48,郭,outer walls,guō,guō
+2803,RSH2-L48,廓,limitless,kuò,kuò
+2804,RSH2-L48,邓,Deng,dèng,Dèng
+2805,RSH2-L48,鄙,despicable,bǐ,bǐ
+2806,RSH2-L48,耶,Jerusalem,Yē,yé|Yē
+2807,RSH2-L48,邮,post,yóu,yóu
+2808,RSH2-L48,邦,nation,bāng,bāng
+2809,RSH2-L48,绑,truss,bǎng,bǎng
+2810,RSH2-L48,郊,outskirts,jiāo,jiāo
+2811,RSH2-L48,邻,neighbor,lín,lín
+2812,RSH2-L48,廊,hallway,láng,láng
+2813,RSH2-L49,缎,satin,duàn,duàn
+2814,RSH2-L49,刁,wily,diāo,diāo
+2815,RSH2-L49,叼,hold in the mouth,diāo,diāo
+2816,RSH2-L49,钙,calcium,gài,gài
+2817,RSH2-L49,殷,ardent,yīn,yīn|yān
+2818,RSH2-L49,伺,attend to,sì,cì|sì
+2819,RSH2-L49,饲,rear,sì,sì
+2820,RSH2-L49,舶,liner,bó,bó
+2821,RSH2-L49,舰,warship,jiàn,jiàn
+2822,RSH2-L49,航,navigate,háng,háng
+2823,RSH2-L49,舵,rudder,duò,duò
+2824,RSH2-L49,舱,ship's cabin,cāng,cāng
+2825,RSH2-L49,艇,light boat,tǐng,tǐng
+2826,RSH2-L49,沿,along,yán,yán
+2827,RSH2-L49,铅,lead,qiān,qiān
+2828,RSH2-L49,狐,fox,hú,hú
+2829,RSH2-L49,瓣,petal,bàn,bàn
+2830,RSH2-L50,溢,brim over,yì,yì
+2831,RSH2-L50,隘,pass,ài,ài
+2832,RSH2-L50,霞,red sky,xiá,xiá
+2833,RSH2-L50,氨,ammonia,ān,ān
+2834,RSH2-L50,氧,oxygen,yǎng,yǎng
+2835,RSH2-L50,氛,atmosphere,fēn,fēn
+2836,RSH2-L50,氢,hydrogen,qīng,qīng
+2837,RSH2-L50,氯,chlorine,lǜ,lǜ
+2838,RSH2-L50,霸,tyrant,bà,bà
+2839,RSH2-L50,靴,boots,xuē,xuē
+2840,RSH2-L50,鞭,whip,biān,biān
+2841,RSH2-L50,鞠,bow respectfully,jū,jū
+2842,RSH2-L51,芽,sprout,yá,yá
+2843,RSH2-L51,讶,surprised,yà,yà
+2844,RSH2-L51,雅,polished,yǎ,yǎ|yā
+2845,RSH2-L51,邪,wicked,xié,xié|yé
+2846,RSH2-L51,悉,be informed,xī,xī
+2847,RSH2-L51,毯,blanket,tǎn,tǎn
+2848,RSH2-L51,毫,milli-,háo,háo
+2849,RSH2-L51,耗,consume,hào,hào
+2850,RSH2-L51,耕,till,gēng,gēng
+2851,RSH2-L51,籍,records,jí,jí
+2852,RSH2-L51,藉,in disorder,jí,jí|jiè
+2853,RSH2-L51,畏,be afraid of,wèi,wèi
+2854,RSH2-L51,喂,Hello...,wèi,wèi
+2855,RSH2-L51,胀,bloated,zhàng,zhàng
+2856,RSH2-L51,帐,tent,zhàng,zhàng
+2857,RSH2-L52,誉,reputation,yù,yù
+2858,RSH2-L52,剑,saber,jiàn,jiàn
+2859,RSH2-L52,敛,restrain,liǎn,liǎn
+2860,RSH2-L52,捡,pick up,jiǎn,jiǎn
+2861,RSH2-L52,俭,thrifty,jiǎn,jiǎn
+2862,RSH2-L52,签,sign,qiān,qiān
+2863,RSH2-L52,鹏,roc,péng,péng
+2864,RSH2-L52,鸣,twitter,míng,míng
+2865,RSH2-L52,鸿,swan,hóng,hóng
+2866,RSH2-L52,莺,oriole,yīng,yīng
+2867,RSH2-L52,鸽,pigeon,gē,gē
+2868,RSH2-L52,鹤,crane,hè,hè
+2869,RSH2-L52,鹊,magpie,què,què
+2870,RSH2-L52,鸥,gull,ōu,ōu
+2871,RSH2-L52,鹅,goose,é,é
+2872,RSH2-L52,鸦,raven,yā,yā
+2873,RSH2-L52,乌,crow,wū,wū|wù
+2874,RSH2-L52,呜,zoom-zoom,wū,wū
+2875,RSH2-L52,捣,pound with a pestle,dǎo,dǎo
+2876,RSH2-L52,寓,residence,yù,yù
+2877,RSH2-L52,愚,pea-brained,yú,yú
+2878,RSH2-L52,偶,by chance,ǒu,ǒu
+2879,RSH2-L52,缸,vat,gāng,gāng
+2880,RSH2-L52,窑,kiln,yáo,yáo
+2881,RSH2-L52,罐,jar,guàn,guàn
+2882,RSH2-L52,灌,pour into,guàn,guàn
+2883,RSH2-L52,陶,pottery,táo,táo
+2884,RSH2-L52,淘,wash in a container,táo,táo
+2885,RSH2-L52,掏,draw out,tāo,tāo
+2886,RSH2-L52,谣,rumor,yáo,yáo
+2887,RSH2-L52,冤,injustice,yuān,yuān
+2888,RSH2-L52,挽,tow,wǎn,wǎn
+2889,RSH2-L52,勉,strive,miǎn,miǎn
+2890,RSH2-L52,馋,gluttonous,chán,chán
+2891,RSH2-L52,橡,rubber tree,xiàng,xiàng
+2892,RSH2-L52,豫,pleased,yù,yù|Yù
+2893,RSH2-L53,码,numeral,mǎ,mǎ
+2894,RSH2-L53,驯,tame,xùn,xùn
+2895,RSH2-L53,玛,Matteo,mǎ,mǎ
+2896,RSH2-L53,驻,be stationed,zhù,zhù
+2897,RSH2-L53,骄,arrogant,jiāo,jiāo
+2898,RSH2-L53,驰,gallop,chí,chí
+2899,RSH2-L53,蚂,leech-hopper,mà,mǎ|mà|mā
+2900,RSH2-L53,驶,maneuver,shǐ,shǐ
+2901,RSH2-L53,骚,disturb,sāo,sāo
+2902,RSH2-L53,驾,drive,jià,jià
+2903,RSH2-L53,驴,donkey,lǘ,lǘ
+2904,RSH2-L53,腾,take flight,téng,téng|tēng
+2905,RSH2-L53,骡,mule,luó,luó
+2906,RSH2-L53,骤,trot,zhòu,zhòu
+2907,RSH2-L53,闯,rush,chuǎng,chuǎng
+2908,RSH2-L53,驱,drive away,qū,qū
+2909,RSH2-L53,驳,refute,bó,bó
+2910,RSH2-L53,骗,cheat,piàn,piàn
+2911,RSH2-L53,唬,bluff,hǔ,hǔ
+2912,RSH2-L53,虏,take captive,lǔ,lǔ
+2913,RSH2-L53,虐,despotic,nüè,nüè
+2914,RSH2-L53,滤,filter,lǜ,lǜ
+2915,RSH2-L54,瞬,instant,shùn,shùn
+2916,RSH2-L54,麟,Chinese unicorn,lín,lín
+2917,RSH2-L54,磷,phosphorous,lín,lín
+2918,RSH2-L54,唇,lips,chún,chún
+2919,RSH2-L54,辱,disgrace,rǔ,rǔ
+2920,RSH2-L54,震,quake,zhèn,zhèn
+2921,RSH2-L54,振,vibrate,zhèn,zhèn
+2922,RSH2-L54,郑,Zheng,zhèng,Zhèng
+2923,RSH2-L54,掷,hurl,zhì,zhì
+2924,RSH2-L54,魄,vigor,pò,pò
+2925,RSH2-L54,槐,scholar tree,huái,huái
+2926,RSH2-L54,魅,enchant,mèi,mèi
+2927,RSH2-L54,瑰,marvelous,guī,guī
+2928,RSH2-L54,魂,soul,hún,hún
+2929,RSH2-L54,愧,ashamed,kuì,kuì
+2930,RSH2-L54,魁,leader,kuí,kuí
+2931,RSH2-L54,胧,hazy,lóng,lóng
+2932,RSH2-L54,垄,raised path between fields,lǒng,lǒng
+2933,RSH2-L54,宠,dote on,chǒng,chǒng
+2934,RSH2-L54,庞,huge,páng,páng
+2935,RSH2-L54,拢,draw near,lǒng,lǒng
+2936,RSH2-L54,聋,deaf,lóng,lóng
+2937,RSH2-L54,笼,cage,lóng,lóng|lǒng
+2938,RSH2-L55,挪,transfer,nuó,nuó
+2939,RSH2-L55,辆,vehicles,liàng,liàng
+2940,RSH2-L55,瞒,dissemble,mán,mán
+2941,RSH2-L55,龟,tortoise,guī,guī|jūn|Qiū
+2942,RSH2-L55,蝇,flies,yíng,yíng
+2943,RSH2-L55,绳,rope,shéng,shéng
+2944,RSH2-L55,淹,inundate,yān,yān
+2945,RSH2-L55,俺,we (exclusive),ǎn,ǎn
+2946,RSH2-L55,钮,push button,niǔ,niǔ
+2947,RSH2-L55,羞,shy,xiū,xiū
+2948,RSH2-L55,纽,New York,niǔ,niǔ
+2949,RSH2-L55,赫,illustrious,hè,hè
+2950,RSH2-L55,奕,radiating vitality,yì,yì
+2951,RSH2-L55,迹,indication,jì,jì
+2952,RSH2-L55,蛮,barbaric,mán,mán
+2953,RSH2-L55,啤,beer,pí,pí
+2954,RSH2-L55,脾,spleen,pí,pí
+2955,RSH2-L55,碑,stele,bēi,bēi
+2956,RSH2-L55,嘱,admonish,zhǔ,zhǔ
+2957,RSH2-L55,肆,IV,sì,sì
+2958,RSH2-L55,插,insert,chā,chā
+2959,RSH2-L55,毁,ruin,huǐ,huǐ
+2960,RSH2-L55,鼠,mouse,shǔ,shǔ
+2961,RSH2-L55,舅,mother's brother,jiù,jiù
+2962,RSH2-L55,滔,surging,tāo,tāo
+2963,RSH2-L55,稻,unhulled rice,dào,dào
+2964,RSH2-L55,蹈,tread,dǎo,dǎo
+2965,RSH2-L55,嫂,elder brother's wife,sǎo,sǎo
+2966,RSH2-L55,搜,search,sōu,sōu
+2967,RSH2-L55,瘦,emaciated,shòu,shòu
+2968,RSH2-L55,艘,vessels,sōu,sōu
+2969,RSH2-L55,焰,flame,yàn,yàn
+2970,RSH2-L55,馅,filling,xiàn,xiàn
+2971,RSH2-L55,陷,get stuck,xiàn,xiàn
+2972,RSH2-L55,爽,frank,shuǎng,shuǎng
+2973,RSH2-L55,缀,embellish,zhuì,zhuì|chuò
+2974,RSH2-L55,傻,thick-headed,shǎ,shǎ
+2975,RSH2-Compounds,蝴,butterfly (front end),hú,hú
+2976,RSH2-Compounds,蝶,butterfly (back end),dié,dié
+2977,RSH2-Compounds,蜘,spider (front end),zhī,zhī
+2978,RSH2-Compounds,蛛,spider (back end),zhū,zhū
+2979,RSH2-Compounds,骆,camel (front end),luò,luò
+2980,RSH2-Compounds,驼,camel (back end),tuó,tuó
+2981,RSH2-Compounds,蜻,dragonfly (front end),qīng,qīng
+2982,RSH2-Compounds,蜓,dragonfly (back end),tíng,tíng
+2983,RSH2-Compounds,凤,male phoenix,fèng,fèng
+2984,RSH2-Compounds,凰,female phoenix,huáng,huáng
+2985,RSH2-Compounds,玻,glass (front side),bō,bō
+2986,RSH2-Compounds,璃,glass (back side),lí,lí
+2987,RSH2-Compounds,橄,olive (A),gǎn,gǎn
+2988,RSH2-Compounds,榄,olive (B),lǎn,lǎn
+2989,RSH2-Compounds,芙,hibiscus (A),fú,fú
+2990,RSH2-Compounds,蓉,cottonrose hibiscus (B),róng,róng
+2991,RSH2-Compounds,咖,coffee (first drop),kā,gā|kā
+2992,RSH2-Compounds,啡,coffee (last drop),fēi,fēi
+2993,RSH2-Compounds,葡,grapes (A),pú,pú
+2994,RSH2-Compounds,萄,grapes (B),táo,táo
+2995,RSH2-Compounds,蘑,mushroom (cap),mó,mó
+2996,RSH2-Compounds,菇,mushroom (stem),gū,gū
+2997,RSH2-Compounds,吩,in-,fēn,fēn
+2998,RSH2-Compounds,咐,-struct,fù,fù
+2999,RSH2-Compounds,乒,ping,pīng,pīng
+3000,RSH2-Compounds,乓,pong,pāng,pāng
+3001,RSH2-Postscript 1,曹,Cao,cáo,cáo
+3002,RSH2-Postscript 1,潘,Pan,pān,Pān
+3003,RSH2-Postscript 1,谭,Tan,tán,tán
+3004,RSH2-Postscript 1,姚,Yao-2,yáo,Yáo
+3005,RSH2-Postscript 1,薛,Xue,xuē,Xuē
+3006,RSH2-Postscript 1,彭,Peng,péng,Péng
+3007,RSH2-Postscript 1,冯,Feng,Féng,Féng|píng
+3008,RSH2-Postscript 1,魏,Wei,wèi,Wèi
+3009,RSH2-Postscript 1,岳,Yue,yuè,yuè
+3010,RSH2-Postscript 1,莉,jasmine,lì,lì
+3011,RSH2-Postscript 1,湘,Hunan Province,xiāng,Xiāng
+3012,RSH2-Postscript 1,甸,outlying areas,diàn,diān|diàn
+3013,RSH2-Postscript 1,沧,dark blue,cāng,cāng
+3014,RSH2-Postscript 1,穆,reverent,mù,mù
+3015,RSH2-Postscript 1,娜,na,nuó,nuó
+3016,RSH2-Postscript 1,琼,fine jade,qióng,qióng
+3017,RSH2-Postscript 1,琳,gem,lín,lín
+3018,RSH2-Postscript 1,钧,30 catties,jūn,jūn
+(c),,錶,watch,biǎo,biǎo
+(c),,匹,match,pǐ,pǐ
+(c),,吋,inch,cùn,cùn|dòu
+(c),,杰,hero,jié,jié
+(c),,菸,tobacco,yān,yān|yū
+(c),,彷,seemingly,fǎng,páng|fǎng
+(c),,夥,partnership,huǒ,huǒ
+(c),,踊,eagerly,yǒng,yǒng
+(c),,锺,draw together,zhōng,zhōng
+(c),,卒,foot soldier,zú,zú|cù
+(c),,堇,violet,jǐn,jǐn
+(c),,昴,The Pleiades,mǎo,mǎo
+(c),,疟,malaria,nüè,nüè|yào
+(c),,癖,mannerism,pǐ,pǐ
+(c),,肛,anus,gāng,gāng
+(c),,茵,mattress,yīn,yīn
+(c),,账,accounts,zhàng,zhàng
+(c),,豸,feline beast,zhì,zhì
+(c),,鹭,heron,lù,lù
+(c),,嗯,huh,ǹg,ńg|ňg|ǹg
+(c),,羔,lamb,gāo,gāo
+(c),,荤,meat diet,hūn,hūn|Xūn
+(c),,咪,meow,mī,mī
+(c),,臼,mortar,jiù,jiù
+(c),,哦,oh!,ò,ò|é|ó|o
+(c),,呦,oh! (surprised),yōu,yōu
+(c),,橙,orange,chéng,chéng|dīng
+(c),,俐,sharp intelligence,lì,lì
+(c),,闺,small door,guī,guī
+(c),,缶,tin can,fǒu,fǒu
+(c),,妳,you girl,nǐ,nǐ|nǎi
+(c) (p),,奂,first-class,huàn,huàn
+(c) (rare),,咾,a noise,,hǒng|hòng|lǎo|liǎo
+(c) 1100.1,,幺,uno,yāo,me|má|yāo
+(c) 1137.1,,皿,dish,mǐn,mǐn
+ch # 0017,,胡,,hú,hú
+ch # 0018,,叶,,xié,xié
+ch # 0041,,升,,shēng,shēng
+ch # 0044,,占,,zhàn,zhàn
+ch # 0051,,只,,zhī,zhī
+ch # 0101,,了,,liào,liào
+ch # 0179,,里,,lǐ,lǐ|li
+ch # 0245,,获,,huò,huò
+ch # 0278,,注,,zhù,zhù
+ch # 0333,,周,,zhōu,zhōu
+ch # 0363,,划,,huá,huá|huà
+ch # 0372,,咸,,xián,xián
+ch # 0414,,布,,bù,bù
+ch # 0424,,制,,zhì,zhì
+ch # 0428,,云,,yún,yún
+ch # 0432,,冲,,chōng,chōng
+ch # 0472,,复,,fù,fù
+ch # 0525,,家,,jiā,jiā
+ch # 0539,,准,,zhǔn,zhǔn
+ch # 0554,,回,,huí,huí
+ch # 0562,L # RSH1-L21,庄,hamlet,zhuāng,zhuāng
+ch # 0568,,志,,zhì,zhì
+ch # 0657,,板,,bǎn,bǎn|pǎn
+ch # 0659,,后,,hòu,hòu
+ch # 0665,,采,,cǎi,cǎi|cài
+ch # 0672,,台,,tái,tái
+ch # 0672,,台,,tái,tái
+ch # 0689,,出,,chū,chū
+ch # 0697,,松,,sōng,sōng
+ch # 0698,,谷,,gǔ,gǔ
+ch # 0700,,欲,,yù,yù
+ch # 0735,L # RSH1-L24,动,move,dòng,dòng
+ch # 0737,,历,,lì,lì
+ch # 0787,L # RSH1-L25,笑,laugh,xiào,xiào
+ch # 0863,,并,,bìng,bìng
+ch # 0876,,游,,yóu,yóu
+ch # 0891,,据,,jù,jù|jū
+ch # 0895,,尽,,jǐn,jǐn
+ch # 0895,,尽,,jǐn,jǐn
+ch # 0968,,斗,,dòu,dòu
+ch # 0997,,杯,,bēi,bēi
+ch # 1023,,佛,,fú,fú
+ch # 1101,,系,,xì,xì
+ch # 1101,,系,,jì,jì|xì
+ch # 1176,,凶,,xiōng,xiōng
+ch # 1279,,干,,gān,gàn|gān
+ch # 1279,,干,,gàn,gàn
+ch # 1283,,于,,yú,yú|Yū|wū
+ch # 1285,,余,,yú,yú|Yú
+ch # 1304,,发,,fà,fà
+ch # 1346,,姐,,jiě,jiě
+ch # 1406,,面,,miàn,miàn
+ch # 1424,,托,,tuō,tuō
+ch # 1442,L # RSH1-L52,岛,island,dǎo,dǎo
+ch # 1474,L # RSH1-L54,龙,dragon,lóng,lóng
+ch # 1486,,丑,,chǒu,chǒu
+ch # 1530,L # RSH1-L08,泪,tears,lèi,lèi
+ch # 1597,,赞,,zàn,zàn
+ch # 1599,,舍,,shě,shě
+ch # 1692,,尝,,cháng,cháng
+ch # 1746,,炮,,pào,pào|páo|bāo
+ch # 1757,,荡,,dàng,dàng|tàng
+ch # 1758,,姜,,jiāng,jiāng
+ch # 1787,,脏,,zāng,zāng
+ch # 1793,,愈,,yǔ,yǔ
+ch # 1836,,扎,,zā,zā|zhā|zhá
+ch # 1916,,致,,zhì,zhì
+ch # 1921,,疏,,shū,shū
+ch # 1989,,胁,,xié,xié
+ch # 1993,,征,,zhēng,zhēng
+ch # 2037,,梁,,Liáng,liáng|Liáng
+ch # 2427,,御,,yù,yù
+ch # 2439,L # RSH2-L34,怜,,lián,lián
+ch # 2445,,范,,Fàn,fàn|Fàn
+ch # 2447,,卷,,juǎn,juǎn
+ch # 2454,L # RSH2-L36,碗,bowl,wǎn,wǎn
+ch # 2477,,俊,,jùn,jùn
+ch # 2575,L # RSH2-L39,寿,longevity,shòu,shòu
+ch # 2609,L # RSH2-L40,炼,refine,liàn,liàn
+ch # 2648,,涂,,tú,tū|tú
+ch # 2673,,汇,,huì,huì
+ch # 2735,,棋,,qí,qí
+ch # 2801,,郁,,yù,yù
+ch # 2852,,藉,,jiè,jí|jiè
+ch # 2862,,签,,qiān,qiān
+ch # 2862,,签,,qiān,qiān
+ch # 2937,L # RSH2-L54,笼,cage,lóng,lóng|lǒng
+ch # 2951,,迹,,jī,jī
+ch # 2966,,搜,,sōu,sōu|huì
+,,詹,,zhān,zhān
+,,乾,,qián,gān|qián
+,,丞,,,chéng
+,,丼,,,jǐng|dǎn
+,,亘,,,gèng|gèn
+,,亘,,,gèng|gèn
+,,仄,,,zè
+,,仕,,,shì
+,,伎,,,jì
+,,伽,,,jiā|gā|qié
+,,佃,,,diàn
+,,佼,,,jiǎo
+,,侃,,,kǎn
+,,侑,,,yòu
+,,俣,,,yǔ
+,,俳,,,pái
+,,俵,,,biǎo|biào
+,,俸,,,fèng
+,,倅,,,cuì|zú
+,,倖,,,xìng
+,,倣,,,fǎng
+,,倭,,,wō|wēi
+,,偲,,,sī|cāi|sǐ
+,,冥,,,míng
+,,凋,,,diāo
+,,刈,,,yì
+,,剔,,,tī
+,,劾,,,hé
+,,匡,,,kuāng
+,,卯,,,mǎo
+,,厄,,,è
+,,叩,,,kòu
+,,叱,,,chì
+,,吏,,,lì
+,,吠,,,fèi
+,,呎,,,chǐ
+,,咎,,,jiù
+,,哉,,,zāi
+,,呗,,,bei|bài
+,,唆,,,suō
+,,喋,,,dié|zhá
+,,喫,,,chī|kài
+,,嗣,,,sì
+,,噂,,,zǔn
+,,噌,,,cēng
+,,嘘,,,shī|xū
+,,啮,,,niè
+,,嗫,,,niè
+,,圃,,,pǔ
+,,國,,,guó
+,,圭,,,guī
+,,垢,,,gòu
+,,垣,,,yuán
+,,埜,,,yě|shù
+,,埠,,,bù
+,,埴,,,zhí
+,,埼,,,Qí
+,,堀,,,kū
+,,堰,,,yàn
+,,冢,,,zhǒng
+,,塾,,,shú
+,,堕,,,duò
+,,壕,,,háo
+,,壹,,,yī
+,,夙,,,sù
+,,奄,,,yān|yǎn
+,,奎,,,kuí
+,,妃,,,fēi
+,,妊,,,rèn
+,,妾,,,qiè
+,,姪,,,zhí
+,,姬,,,jī
+,,娠,,,shēn
+,,娼,,,chāng
+,,婢,,,bì
+,,媛,,,yuán|yuàn
+,,嫉,,,jí
+,,嫡,,,dí
+,,嬉,,,xī
+,,嬬,,,xū|rú|nòu
+,,孃,,,niáng|náng|ráng|rǎng
+,,孜,,,zī
+,,宥,,,yòu
+,,寮,,,liáo
+,,尉,,,wèi
+,,尻,,,kāo
+,,岐,,,qí|Qí
+,,岬,,,jiǎ
+,,峨,,,é
+,,峯,,,fēng
+,,崚,,,léng
+,,岚,,,lán
+,,嵩,,,sōng
+,,嵯,,,cuó
+,,嶽,,,yuè
+,,岩,,,yán
+,,巳,,,sì
+,,巽,,,xùn
+,,幌,,,huǎng
+,,幡,,,fān
+,,庇,,,bì
+,,庖,,,páo
+,,庵,,,ān
+,,庶,,,shù
+,,弁,,,biàn
+,,弔,,,diào|dì
+,,弛,,,chí
+,,弧,,,hú
+,,彊,,,qiáng|jiàng|qiǎng|jiāng
+,,彗,,,huì
+,,彪,,,biāo
+,,彫,,,diāo
+,,怯,,,qiè
+,,恣,,,zì
+,,悌,,,tì
+,,悛,,,quān
+,,惇,,,dūn
+,,惚,,,hū
+,,慄,,,lì
+,,憧,,,chōng
+,,憩,,,qì
+,,憬,,,jǐng
+,,忏,,,chàn
+,,戾,,,lì
+,,扉,,,fēi
+,,扱,,,xī|chā|qì
+,,抉,,,jué
+,,拙,,,zhuō
+,,拶,,,zǎn
+,,捌,,,bā
+,,捗,,,liàn|bù|pú|zhì
+,,捺,,,nà
+,,捻,,,niǎn
+,,掟,,,lüě|dìng|dīng|zhěng
+,,揃,,,jiān|jiǎn|qiān
+,,揖,,,yī
+,,搔,,,sāo
+,,搾,,,zhà
+,,掴,,,guó|guāi
+,,摺,,,zhé
+,,撚,,,niǎn
+,,撮,,,cuō|zuǒ
+,,擢,,,zhuó
+,,敕,,,chì
+,,斐,,,fěi
+,,斡,,,wò
+,,晏,,,yàn
+,,晟,,,shèng|chéng|jīng
+,,晦,,,huì
+,,晖,,,huī
+,,暝,,,míng
+,,昙,,,tán
+,,暧,,,ài
+,,曙,,,shǔ
+,,曜,,,yào
+,,曝,,,bào|pù
+,,曳,,,yè
+,,朔,,,shuò
+,,朕,,,zhèn
+,,札,,,zhá
+,,杓,,,sháo|biāo
+,,杭,,,Háng
+,,杵,,,chǔ
+,,杷,,,pá
+,,枇,,,pí
+,,柊,,,zhōng
+,,柑,,,gān
+,,柘,,,zhè
+,,柚,,,yóu|yòu|zhú
+,,栞,,,bēn|kān
+,,桁,,,háng|héng
+,,桔,,,jié
+,,梓,,,zǐ
+,,枭,,,xiāo
+,,梧,,,wú
+,,梱,,,kǔn|hún
+,,梵,,,fàn
+,,梶,,,wěi
+,,栈,,,zhàn
+,,栖,,,qī|xī
+,,椋,,,liáng
+,,椎,,,chuí|zhuī
+,,椙,,,
+,,椰,,,yē
+,,椿,,,chūn
+,,楠,,,nán
+,,楢,,,yóu|chū|qiū|yǒu
+,,楯,,,shǔn
+,,楷,,,kǎi
+,,榎,,,jiǎ
+,,榛,,,zhēn
+,,槁,,,gǎo
+,,槃,,,pán
+,,槌,,,chuí
+,,槙,,,diān|diàn|zhēn|zhěn
+,,槻,,,guī
+,,樋,,,léi|tōng|tǒng
+,,樒,,,mì
+,,樗,,,chū
+,,㭴,,,jiān|sōng
+,,樵,,,qiáo
+,,桦,,,huà
+,,樽,,,zūn
+,,橇,,,qiāo
+,,机,,,jī
+,,椭,,,tuǒ
+,,橿,,,jiāng
+,,檀,,,tán
+,,檎,,,qín
+,,桧,,,Huì|guì
+,,桧,,,Huì|guì
+,,橹,,,lǔ
+,,栉,,,zhì
+,,枥,,,lì
+,,歎,,,tàn
+,,殆,,,dài
+,,殉,,,xùn
+,,殻,,,ké
+,,毬,,,qiú
+,,氾,,,fàn|fán
+,,汀,,,tīng
+,,汎,,,fàn|fá
+,,汐,,,xī
+,,汝,,,rǔ
+,,汲,,,jí
+,,沌,,,dùn
+,,沐,,,mù
+,,泠,,,líng
+,,洵,,,xún
+,,洸,,,guāng|huàng
+,,浬,,,lǐ
+,,涅,,,niè
+,,淀,,,diàn
+,,渚,,,zhǔ
+,,渥,,,wò
+,,湛,,,zhàn
+,,溺,,,niào|nì
+,,滉,,,huǎng|huàng
+,,滝,,,lóng|shuān|shuāng
+,,漉,,,lū|lù
+,,漕,,,cáo
+,,渍,,,zì
+,,漱,,,shù
+,,潟,,,xì
+,,淀,,,diàn
+,,濠,,,háo
+,,濡,,,rú
+,,濯,,,zhuó
+,,渎,,,dú
+,,濒,,,bīn
+,,濑,,,lài
+,,灸,,,jiǔ
+,,炬,,,jù
+,,烙,,,lào|luò
+,,烹,,,pēng
+,,煽,,,shān
+,,灯,,,dēng
+,,燎,,,liáo|liǎo
+,,燐,,,lín|lǐn|lìn
+,,燿,,,yào|shuò|shào
+,,牒,,,dié
+,,牝,,,pìn
+,,牟,,,móu
+,,狒,,,fèi
+,,狙,,,jū
+,,狩,,,shòu
+,,狈,,,bèi
+,,猥,,,wěi
+,,玖,,,jiǔ
+,,珈,,,jiā
+,,珪,,,guī
+,,琲,,,bèi
+,,琵,,,pí
+,,琶,,,pá
+,,瑚,,,hú
+,,瑛,,,yīng
+,,瑠,,,liú
+,,瑶,,,yáo
+,,瑳,,,cuō|cuǒ
+,,璧,,,bì
+,,玺,,,xǐ
+,,瓢,,,piáo
+,,甥,,,shēng
+,,甦,,,sū
+,,町,,,tǐng
+,,畦,,,qí
+,,畷,,,zhuó|chuò|zhuì
+,,畿,,,jī
+,,疋,,,pǐ
+,,疹,,,zhěn
+,,痔,,,zhì
+,,痘,,,dòu
+,,痢,,,lì
+,,痹,,,bì
+,,疡,,,yáng
+,,皋,,,gāo
+,,皓,,,hào
+,,眩,,,xuàn
+,,眸,,,móu
+,,眺,,,tiào
+,,睦,,,mù
+,,睾,,,yì|zé|dù|gāo
+,,睿,,,ruì
+,,瞑,,,míng|mián
+,,瞥,,,piē
+,,瞳,,,tóng
+,,砥,,,dǐ
+,,砦,,,zhài
+,,硝,,,xiāo
+,,砚,,,yàn
+,,碇,,,dìng
+,,砕,,,suì
+,,碓,,,duì
+,,磐,,,pán
+,,矶,,,jī
+,,砺,,,lì
+,,祀,,,sì
+,,祇,,,zhǐ|qí
+,,祉,,,zhǐ
+,,祐,,,yòu
+,,祓,,,fú
+,,禄,,,lù
+,,祯,,,zhēn
+,,祢,,,Mí
+,,稔,,,rěn
+,,稗,,,bài
+,,稜,,,léng|lèng
+,,稽,,,jī|qǐ
+,,穰,,,ráng
+,,窒,,,zhì
+,,洼,,,wā
+,,竣,,,jùn
+,,竺,,,zhú
+,,笈,,,jí
+,,笙,,,shēng
+,,笠,,,lì
+,,笥,,,sì
+,,筈,,,guā|kuò
+,,筏,,,fá
+,,筑,,,zhù
+,,箆,,,bì
+,,箇,,,gè
+,,笺,,,jiān
+,,箔,,,bó
+,,箕,,,jī
+,,箸,,,zhù
+,,篠,,,xiǎo
+,,笃,,,dǔ
+,,箪,,,dān
+,,簸,,,bǒ|bò
+,,籾,,,ní
+,,粁,,,qiān
+,,粍,,,lí|zhé
+,,粕,,,pò
+,,粟,,,sù
+,,粧,,,zhuāng
+,,糎,,,lí|xiū
+,,糸,,,sī|mì
+,,纮,,,hóng
+,,䌷,,,chóu|chōu
+,,绀,,,gàn
+,,絃,,,xián|xuàn
+,,绊,,,bàn
+,,绚,,,xuàn
+,,绶,,,shòu
+,,纶,,,lún|guān
+,,绮,,,qǐ
+,,绫,,,líng
+,,绯,,,fēi
+,,缟,,,gǎo
+,,缮,,,shàn
+,,缲,,,qiāo
+,,纂,,,zuǎn
+,,钵,,,bō
+,,罫,,,guà|huà|guǎi
+,,翌,,,yì
+,,翫,,,wàn
+,,肇,,,zhào
+,,肋,,,lèi|lē
+,,肪,,,fáng
+,,肱,,,gōng
+,,肴,,,yáo
+,,胚,,,pēi
+,,胤,,,yìn
+,,胱,,,guāng
+,,胴,,,dòng
+,,胫,,,jìng
+,,脩,,,xiū
+,,腑,,,fǔ
+,,膳,,,shàn
+,,脓,,,nóng
+,,臆,,,yì
+,,舖,,,pù|bū|fū|pū
+,,舘,,,tiàn|guǎn
+,,舜,,,Shùn
+,,舷,,,xián
+,,芋,,,yù
+,,芥,,,gài|jiè
+,,芭,,,bā
+,,芯,,,xīn|xìn
+,,芸,,,yún
+,,刍,,,chú
+,,苑,,,yuàn
+,,苓,,,líng
+,,苔,,,tāi|tái
+,,苫,,,shān|shàn
+,,茉,,,mò
+,,茜,,,qiàn|xī
+,,茨,,,cí
+,,茸,,,rōng|róng
+,,荆,,,jīng
+,,荻,,,dí
+,,莓,,,méi
+,,莞,,,wǎn|guǎn
+,,莨,,,làng|liáng
+,,菅,,,jiān
+,,菓,,,guǒ
+,,菖,,,chāng
+,,菰,,,gū
+,,萩,,,qiū|jiāo|jiǎo
+,,万,,,wàn|Mò
+,,苇,,,wěi
+,,葺,,,qì
+,,莳,,,shì
+,,蓑,,,suō
+,,茑,,,niǎo
+,,蕃,,,bō|fān|fán
+,,蕊,,,ruǐ
+,,荞,,,qiáo
+,,蕗,,,lù
+,,蕨,,,jué
+,,芜,,,wú
+,,薰,,,xūn
+,,藩,,,fān
+,,薮,,,sǒu
+,,藷,,,zhū|chú|shǔ|shù
+,,虔,,,qián
+,,虞,,,yú
+,,蚤,,,zǎo
+,,蛤,,,há|gé
+,,蛭,,,zhì
+,,蛸,,,xiāo|shāo
+,,蛰,,,zhé
+,,蛎,,,lì
+,,衿,,,jīn
+,,袈,,,jiā
+,,袷,,,jiá|qiā
+,,裏,,,lǐ|li
+,,裟,,,shā
+,,裾,,,jū
+,,褒,,,bāo
+,,覗,,,sī|sì
+,,讣,,,fù
+,,诀,,,jué
+,,訳,,,yì|yìng
+,,证,,,zhèng
+,,𫍟,,,yí
+,,诏,,,zhào
+,,诣,,,yì
+,,诧,,,chà
+,,诠,,,quán
+,,诘,,,jié|jí
+,,诽,,,fěi
+,,谆,,,zhūn
+,,诹,,,zōu
+,,谛,,,dì
+,,谏,,,jiàn
+,,谕,,,yù
+,,谚,,,yàn
+,,谒,,,yè
+,,誊,,,téng
+,,雠,,,chóu
+,,豚,,,tún
+,,贳,,,shì
+,,赂,,,lù
+,,赁,,,lìn
+,,賎,,,jiàn|nài
+,,赈,,,zhèn
+,,賛,,,zàn
+,,赝,,,yàn
+,,赦,,,shè
+,,赳,,,jiū
+,,蹴,,,cù
+,,躇,,,chú
+,,踌,,,chóu
+,,踬,,,zhì
+,,辔,,,pèi
+,,辿,,,gān|chān|chán
+,,迂,,,yū
+,,迦,,,jiā
+,,迪,,,dí
+,,迭,,,dié
+,,遁,,,dùn
+,,邑,,,yì
+,,邸,,,dǐ
+,,郡,,,jùn
+,,酉,,,yǒu
+,,酎,,,zhòu
+,,酪,,,lào
+,,酵,,,jiào
+,,醍,,,tí
+,,醐,,,hú
+,,釜,,,fǔ
+,,釦,,,kòu|kǒu
+,,钝,,,dùn
+,,钲,,,zhēng
+,,铳,,,chòng
+,,铣,,,xǐ|xiǎn
+,,铫,,,diào
+,,铗,,,jiā|jiá
+,,锖,,,qiāng
+,,锥,,,zhuī
+,,锭,,,dìng
+,,锚,,,máo
+,,锢,,,gù
+,,鎚,,,chuí|duī|zhuì
+,,铠,,,kǎi
+,,镝,,,dí|dī
+,,銮,,,luán
+,,闲,,,xián
+,,閤,,,hé
+,,闇,,,àn
+,,阜,,,fù
+,,坂,,,bǎn
+,,阪,,,bǎn
+,,陀,,,tuó
+,,陛,,,bì
+,,隅,,,yú
+,,隈,,,wēi
+,,隼,,,sǔn
+,,雉,,,zhì
+,,雫,,,nǎ
+,,雰,,,fēn
+,,鞄,,,páo
+,,鞍,,,ān
+,,鞘,,,qiào
+,,韧,,,rèn
+,,颚,,,è
+,,飒,,,sà
+,,饴,,,yí
+,,饵,,,ěr
+,,飨,,,xiǎng
+,,驮,,,tuó|duò
+,,驹,,,jū
+,,骏,,,jùn
+,,驿,,,yì
+,,骸,,,hái
+,,髭,,,zī
+,,鲋,,,fù
+,,鮨,,,yì|zhī|qí|qī|yǐ
+,,鲔,,,wěi
+,,鲛,,,jiāo
+,,鮭,,,guī
+,,鲭,,,qīng
+,,鲷,,,diāo
+,,鲇,,,nián
+,,鳅,,,qiū
+,,鳍,,,qí
+,,鲣,,,jiān
+,,鳗,,,mán
+,,鳕,,,xuě
+,,鳖,,,biē
+,,鳟,,,zūn
+,,鳞,,,lín
+,,鸠,,,jiū
+,,鸢,,,yuān
+,,鹈,,,tí
+,,鹉,,,wǔ
+,,鹫,,,jiù
+,,鹦,,,yīng
+,,卤,,,lǔ
+,,碱,,,jiǎn
+,,麒,,,qí
+,,麓,,,lù
+,,麴,,,qū
+,,黍,,,shǔ
+,,黛,,,dài
+,,鼾,,,hān
+,,,,,běi|zǒng
+,,,,,bò|pò|bó
+,,,,,cān|sūn|qī
+,,,,,cè|shà|shān|jiù|jiǔ
+,,,,,hù
+,,,,,jìng
+,,,,,jiǔ
+,,,,,méi
+,,,,,qū
+,,,,,róu|ròu|rù
+,,,,,ruò
+,,,,,shēn|sāo|lǐ
+,,,,,sī
+,,,,,tán|tuó|kèn
+,,,,,tián
+,,,,,yù
+,,,,,yuán
+,,,,,yuān
