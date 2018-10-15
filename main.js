@@ -85,13 +85,15 @@ Bot.hears(/^random (\d+)$/, (ctx, next) => {
         var hanziCharacters = _.map(randomWords,(randomIndex)=>Lessons[randomIndex].hanzi);
         
         ctx.reply(`Showing ${random} Hanzi Characters\n${_.join(hanziCharacters,"\n")}`,
-        Markup
-        .keyboard(
-            hanziCharacters
+            Extra.markup(
+                Markup.keyboard(
+                    _.concat(hanziCharacters,[`random ${random}`])
+                        , {
+                        wrap: (btn, index, currentRow) => currentRow.length >= 4 || index >= hanziCharacters.length
+                    }
+                ).resize()
+            )
         )
-        .resize()
-        .extra()
-        );
     }
 })
 
@@ -112,14 +114,15 @@ Bot.on('text', (ctx, next) => {
   {
     var hanziCharacters = _.map(filteredEnglishWords,(wordEntry)=>wordEntry.hanzi);
 
-    ctx.reply(`Identified ${filteredEnglishWords.length} Possible Hanzi Characters\n${_.join(hanziCharacters,"\n")}`,
-        Markup
-        .keyboard(
-            _.map(filteredEnglishWords,(wordEntry)=>wordEntry.hanzi)
+    ctx.reply(`Identified ${hanziCharacters.length} Possible Hanzi Characters\n${_.join(hanziCharacters,"\n")}`,
+        Extra.markup(
+            Markup.keyboard(
+                hanziCharacters, {
+                    wrap: (btn, index, currentRow) => currentRow.length >= 4
+                }
+            ).resize()
         )
-        .resize()
-        .extra()
-    );
+    )
   }
 
   if(filteredHanziWords.length > 0)
