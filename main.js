@@ -63,31 +63,37 @@ localSession.DB.then(DB => {
 // Telegraf will use `telegraf-session-local` configured above middleware with overrided `property` name
 Bot.use(localSession.middleware(property))
 
-Bot.hears(/^max (\d+)$/, (ctx, next) => {
-    ctx[property].max = Math.max(parseInt(ctx.match[1] || 0 ),0)
+Bot.hears(/^max (\d+)$/i, (ctx, next) => {
+    ctx[property].max = Math.min(Math.max(parseInt(ctx.match[1] || 0 ),0),Lessons.length)
     ctx.replyWithMarkdown(`Updated \`${ctx.message.from.username}\`'s Max Character Recognition To: \`${ctx[property].max}\``)
+
+    ctx[property].prevRandomIndices = [];
+    ctx[property].nextRandomIndices = _.shuffle(_.map(Array(ctx[property].max),(value,index)=>index));
 })
 
-Bot.hears(/^random (\d+)$/, (ctx, next) => {
-    var maxWord = ctx[property].max || 0;
-    var random = Math.min(Math.max(parseInt(ctx.match[1] || 0 ),0),maxWord);
-
-    if(random > 0){
-        var randomWords = [];
-    
-        for(var i=0; i<random; i++){
-            do {
                 var newRandomIndex = Math.floor(Math.random() * Math.floor(maxWord))
-            } while (randomWords.includes(newRandomIndex))
-            randomWords.push(newRandomIndex);
+Bot.hears(/^random (\d+)$/i, (ctx, next) => {
+    //Only allow up to max list length
+    var random = Math.min(Math.max(parseInt(ctx.match[1] || 0 ),0), ctx[property].max);
+
+    if (random > 0){
+        //If we will get to the end of the list
+        if(random > ctx[property].nextRandomIndices.length){
+            //Shuffle the previous and add to next
+            ctx[property].nextRandomIndices = _.concat(ctx[property].nextRandomIndices, _.shuffle(ctx[property].prevRandomIndices));
+            ctx[property].prevRandomIndices = [];
         }
+
+        var randomWords = _.slice(ctx[property].nextRandomIndices, 0, random);
+        ctx[property].prevRandomIndices = _.concat(ctx[property].prevRandomIndices, randomWords);
+        ctx[property].nextRandomIndices = _.slice(ctx[property].nextRandomIndices, random);
 
         var hanziCharacters = _.map(randomWords,(randomIndex)=>Lessons[randomIndex].hanzi);
         
         ctx.reply(`Showing ${random} Hanzi Characters\n${_.join(hanziCharacters,"\n")}`,
             Extra.markup(
                 Markup.keyboard(
-                    _.concat(hanziCharacters,[`random ${random}`])
+                    _.concat(hanziCharacters,[`Random ${random}`])
                         , {
                         wrap: (btn, index, currentRow) => currentRow.length >= 4 || index >= hanziCharacters.length
                     }
