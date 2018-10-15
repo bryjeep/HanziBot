@@ -71,7 +71,6 @@ Bot.hears(/^max (\d+)$/i, (ctx, next) => {
     ctx[property].nextRandomIndices = _.shuffle(_.map(Array(ctx[property].max),(value,index)=>index));
 })
 
-                var newRandomIndex = Math.floor(Math.random() * Math.floor(maxWord))
 Bot.hears(/^random (\d+)$/i, (ctx, next) => {
     //Only allow up to max list length
     var random = Math.min(Math.max(parseInt(ctx.match[1] || 0 ),0), ctx[property].max);
