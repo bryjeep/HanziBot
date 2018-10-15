@@ -32,7 +32,7 @@ fs.createReadStream('dictionary.csv',{start: 1})
     //some final operation
 });  
 
-const Bot = new Telegraf(process.env.BOT_TOKEN) // Your Bot token here
+const Bot = new Telegraf(process.env.BOT_TOKEN.replace("_",":")) // Your Bot token here
  
 // Name of session property object in Telegraf Context (default: 'session')
 const property = 'data'
