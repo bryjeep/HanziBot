@@ -22,7 +22,7 @@ fs.createReadStream('dictionary.csv',{start: 1})
             hanzi: data["SH"],
             english: data["RSH Keyword"],
             pinyin: data["RTH Read"],
-            number: data["RSH #"],
+            number: data["RSH #"] || data["SH #"] || Lessons.length,
             lesson:  data["RSH Lesson"]
         });
     }
