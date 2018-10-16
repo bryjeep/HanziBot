@@ -21,7 +21,9 @@ fs.createReadStream('dictionary.csv',{start: 1})
         Lessons.push({
             hanzi: data["SH"],
             english: data["RSH Keyword"],
-            pinyin: data["RTH Read"]
+            pinyin: data["RTH Read"],
+            number: data["RSH #"],
+            lesson:  data["RSH Lesson"]
         });
     }
     catch(err) {
@@ -134,7 +136,7 @@ Bot.on('text', (ctx, next) => {
   {
     var msg = _.join(
         _.map(filteredHanziWords,(wordEntry)=>{
-            return `\`${wordEntry.hanzi}\` has keyword \`${wordEntry.english}\``;
+            return `\`${wordEntry.hanzi}\` has keyword \`${wordEntry.english}\` found in Lesson \`${wordEntry.lesson}\` character #${wordEntry.number}`;
         })
         ,"\n");
     ctx.replyWithMarkdown(msg);
