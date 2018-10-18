@@ -136,7 +136,7 @@ Bot.on('text', (ctx, next) => {
   {
     var msg = _.join(
         _.map(filteredHanziWords,(wordEntry)=>{
-            return `*${wordEntry.hanzi}* has keyword *_${wordEntry.english}_*\n\n\t_Lesson ${wordEntry.lesson}_\n\t_Character #${wordEntry.number}_`;
+            return `*${wordEntry.hanzi}* has keyword _*${wordEntry.english}*_\n\n\t_Lesson ${wordEntry.lesson}_\n\t_Character #${wordEntry.number}_`;
         })
         ,"\n");
     ctx.replyWithMarkdown(msg);
