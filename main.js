@@ -73,6 +73,15 @@ Bot.hears(/^max (\d+)$/i, (ctx, next) => {
     ctx[property].nextRandomIndices = _.shuffle(_.map(Array(ctx[property].max),(value,index)=>index));
 })
 
+Bot.hears(/^range (\d+)$ (\d+)$/i, (ctx, next) => {
+    ctx[property].min = Math.min(Math.max(parseInt(ctx.match[1] || 0 ),0),Lessons.length)
+    ctx[property].max = Math.min(Math.max(parseInt(ctx.match[2] || ctx[property].min ),ctx[property].min),Lessons.length)
+    ctx.replyWithMarkdown(`Updated \`${ctx.message.from.username}\`'s Character Recognition Range To: \`${ctx[property].min}\`-\`${ctx[property].max}\``)
+
+    ctx[property].prevRandomIndices = [];
+    ctx[property].nextRandomIndices = _.shuffle(_.map(Array(ctx[property].max-ctx[property].min),(value,index)=>index+ctx[property].min));
+})
+
 Bot.hears(/^random (\d+)$/i, (ctx, next) => {
     //Only allow up to max list length
     var random = Math.min(Math.max(parseInt(ctx.match[1] || 0 ),0), ctx[property].max);
